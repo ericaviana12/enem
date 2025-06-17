@@ -1,0 +1,552 @@
+[
+    {
+        "pergunta": "O que é um átomo?",
+        "opcoes": {
+            "a": "A menor partícula de uma molécula",
+            "b": "Uma partícula carregada negativamente",
+            "c": "A menor parte de um elemento químico que mantém suas propriedades",
+            "d": "A união de dois ou mais elementos"
+        },
+        "resposta": "c",
+        "explicacao": "O átomo é a menor parte de um elemento químico que ainda mantém as propriedades desse elemento."
+    },
+    {
+        "pergunta": "Qual partícula do átomo possui carga negativa?",
+        "opcoes": {
+            "a": "Nêutron",
+            "b": "Próton",
+            "c": "Elétron",
+            "d": "Núcleo"
+        },
+        "resposta": "c",
+        "explicacao": "Os elétrons são partículas com carga negativa que orbitam o núcleo do átomo."
+    },
+    {
+        "pergunta": "O que é uma molécula?",
+        "opcoes": {
+            "a": "A combinação de dois ou mais átomos unidos por ligações químicas",
+            "b": "Uma substância pura formada por íons",
+            "c": "Um agrupamento de prótons e nêutrons",
+            "d": "Um tipo de solução aquosa"
+        },
+        "resposta": "a",
+        "explicacao": "Molécula é a união de dois ou mais átomos ligados quimicamente, podendo ser do mesmo elemento ou de elementos diferentes."
+    },
+    {
+        "pergunta": "Qual é a fórmula da água?",
+        "opcoes": {
+            "a": "CO2",
+            "b": "O2",
+            "c": "H2O",
+            "d": "H2SO4"
+        },
+        "resposta": "c",
+        "explicacao": "A fórmula da água é H2O, pois cada molécula contém dois átomos de hidrogênio e um de oxigênio."
+    },
+    {
+        "pergunta": "O que é uma reação química?",
+        "opcoes": {
+            "a": "A formação de um novo elemento",
+            "b": "A transformação de substâncias com rearranjo dos átomos",
+            "c": "A quebra de um átomo",
+            "d": "A dissolução de um sólido em água"
+        },
+        "resposta": "b",
+        "explicacao": "Uma reação química envolve a transformação de reagentes em produtos por meio do rearranjo de átomos."
+    },
+    {
+        "pergunta": "O que é um cátion?",
+        "opcoes": {
+            "a": "Um íon com carga negativa",
+            "b": "Um íon com carga positiva",
+            "c": "Um átomo neutro",
+            "d": "Um nêutron fora do núcleo"
+        },
+        "resposta": "b",
+        "explicacao": "Um cátion é um íon com carga positiva, formado quando um átomo perde elétrons."
+    },
+    {
+        "pergunta": "O que é um ânion?",
+        "opcoes": {
+            "a": "Um átomo com mais prótons que nêutrons",
+            "b": "Um íon com carga positiva",
+            "c": "Um íon com carga negativa",
+            "d": "Um átomo que perdeu prótons"
+        },
+        "resposta": "c",
+        "explicacao": "Um ânion é um íon com carga negativa, formado quando um átomo ganha elétrons."
+    },
+    {
+        "pergunta": "Qual é o nome do processo de separação que usa a diferença dos pontos de ebulição?",
+        "opcoes": {
+            "a": "Decantação",
+            "b": "Filtração",
+            "c": "Destilação",
+            "d": "Sublimação"
+        },
+        "resposta": "c",
+        "explicacao": "A destilação separa misturas com base na diferença dos pontos de ebulição entre os componentes."
+    },
+    {
+        "pergunta": "Qual o número atômico do oxigênio?",
+        "opcoes": {
+            "a": "6",
+            "b": "7",
+            "c": "8",
+            "d": "16"
+        },
+        "resposta": "c",
+        "explicacao": "O oxigênio tem número atômico 8, o que significa que possui 8 prótons em seu núcleo."
+    },
+    {
+        "pergunta": "Qual das alternativas representa uma ligação covalente?",
+        "opcoes": {
+            "a": "NaCl",
+            "b": "H2O",
+            "c": "CaCl2",
+            "d": "KBr"
+        },
+        "resposta": "b",
+        "explicacao": "A molécula de água (H2O) apresenta ligações covalentes entre seus átomos, pois há compartilhamento de elétrons."
+    },
+    {
+        "pergunta": "O que é eletronegatividade?",
+        "opcoes": {
+            "a": "Capacidade de um átomo doar elétrons",
+            "b": "Capacidade de um átomo receber prótons",
+            "c": "Capacidade de um átomo atrair elétrons em uma ligação química",
+            "d": "Capacidade de um átomo perder nêutrons"
+        },
+        "resposta": "c",
+        "explicacao": "Eletronegatividade é a tendência de um átomo atrair elétrons em uma ligação química."
+    },
+    {
+        "pergunta": "Qual elemento é o mais eletronegativo da Tabela Periódica?",
+        "opcoes": {
+            "a": "Oxigênio",
+            "b": "Cloro",
+            "c": "Flúor",
+            "d": "Nitrogênio"
+        },
+        "resposta": "c",
+        "explicacao": "O flúor é o elemento mais eletronegativo, ou seja, o que mais atrai elétrons em uma ligação química."
+    },
+    {
+        "pergunta": "Qual é a fórmula química do gás carbônico?",
+        "opcoes": {
+            "a": "CO2",
+            "b": "C2O",
+            "c": "CH4",
+            "d": "CO"
+        },
+        "resposta": "a",
+        "explicacao": "O gás carbônico é representado pela fórmula CO2, composta por um átomo de carbono e dois de oxigênio."
+    },
+    {
+        "pergunta": "O que ocorre com a velocidade das partículas em uma reação ao aumentar a temperatura?",
+        "opcoes": {
+            "a": "Diminui",
+            "b": "Permanece constante",
+            "c": "Aumenta",
+            "d": "Desaparece"
+        },
+        "resposta": "c",
+        "explicacao": "Com o aumento da temperatura, as partículas ganham mais energia cinética, aumentando sua velocidade e favorecendo as colisões."
+    },
+    {
+        "pergunta": "Qual das substâncias a seguir é um ácido segundo a teoria de Arrhenius?",
+        "opcoes": {
+            "a": "NaOH",
+            "b": "HCl",
+            "c": "NH3",
+            "d": "CH4"
+        },
+        "resposta": "b",
+        "explicacao": "Segundo Arrhenius, ácidos são substâncias que liberam H+ em solução aquosa. O HCl é um exemplo clássico de ácido."
+    },
+    {
+        "pergunta": "O que é uma reação de neutralização?",
+        "opcoes": {
+            "a": "Reação entre dois metais",
+            "b": "Reação entre um sal e uma base",
+            "c": "Reação entre um ácido e uma base formando sal e água",
+            "d": "Reação de combustão completa"
+        },
+        "resposta": "c",
+        "explicacao": "Uma reação de neutralização ocorre entre um ácido e uma base, resultando em sal e água."
+    },
+    {
+        "pergunta": "O que é uma solução saturada?",
+        "opcoes": {
+            "a": "Contém menos soluto do que o solvente pode dissolver",
+            "b": "Contém a quantidade máxima de soluto dissolvido em uma dada temperatura",
+            "c": "Não contém nenhum soluto",
+            "d": "É sempre sólida"
+        },
+        "resposta": "b",
+        "explicacao": "Uma solução saturada contém a quantidade máxima de soluto que o solvente pode dissolver naquela temperatura."
+    },
+    {
+        "pergunta": "Qual das alternativas representa uma reação endotérmica?",
+        "opcoes": {
+            "a": "Libera calor para o ambiente",
+            "b": "Absorve calor do ambiente",
+            "c": "Ocasiona combustão espontânea",
+            "d": "Produz luz visível"
+        },
+        "resposta": "b",
+        "explicacao": "Reações endotérmicas absorvem calor do meio, como no processo de fotossíntese."
+    },
+    {
+        "pergunta": "Qual a principal função da água como solvente em reações químicas?",
+        "opcoes": {
+            "a": "Impedir as reações",
+            "b": "Diluir apenas compostos iônicos",
+            "c": "Favorecer a dissolução e o contato entre reagentes",
+            "d": "Reagir com todos os solutos"
+        },
+        "resposta": "c",
+        "explicacao": "A água facilita o contato entre as partículas reagentes, permitindo a ocorrência das reações."
+    },
+    {
+        "pergunta": "Qual composto representa uma base segundo Arrhenius?",
+        "opcoes": {
+            "a": "H2SO4",
+            "b": "NaCl",
+            "c": "NaOH",
+            "d": "CH3COOH"
+        },
+        "resposta": "c",
+        "explicacao": "Segundo a teoria de Arrhenius, uma base libera íons OH- em solução aquosa. O NaOH é um exemplo."
+    },
+    {
+        "pergunta": "Qual é a principal diferença entre ligações iônicas e covalentes?",
+        "opcoes": {
+            "a": "Ligações iônicas compartilham elétrons, enquanto as covalentes transferem",
+            "b": "Ligações iônicas envolvem transferência de elétrons, e covalentes compartilham elétrons",
+            "c": "Ambas compartilham elétrons igualmente",
+            "d": "As covalentes ocorrem apenas entre metais"
+        },
+        "resposta": "b",
+        "explicacao": "Ligações iônicas ocorrem com a transferência de elétrons (geralmente entre metais e ametais), enquanto as covalentes envolvem o compartilhamento de elétrons entre átomos."
+    },
+    {
+        "pergunta": "O que caracteriza uma reação de combustão completa?",
+        "opcoes": {
+            "a": "Formação de CO e fuligem",
+            "b": "Presença de oxigênio e liberação de energia com formação de CO2 e H2O",
+            "c": "Produção de gás hidrogênio",
+            "d": "Liberação de vapor de enxofre"
+        },
+        "resposta": "b",
+        "explicacao": "A combustão completa ocorre na presença de oxigênio suficiente e produz dióxido de carbono (CO2) e água (H2O), além de liberar energia."
+    },
+    {
+        "pergunta": "Qual propriedade dos ácidos pode ser verificada com papel tornassol?",
+        "opcoes": {
+            "a": "Condutividade elétrica",
+            "b": "Cor azul no papel tornassol",
+            "c": "Cor vermelha no papel tornassol",
+            "d": "Efervescência"
+        },
+        "resposta": "c",
+        "explicacao": "Ácidos tornam o papel tornassol azul em vermelho, indicando seu caráter ácido."
+    },
+    {
+        "pergunta": "Qual é a função do catalisador em uma reação química?",
+        "opcoes": {
+            "a": "Aumentar a energia de ativação",
+            "b": "Diminuir a velocidade da reação",
+            "c": "Ser consumido na reação",
+            "d": "Aumentar a velocidade da reação sem ser consumido"
+        },
+        "resposta": "d",
+        "explicacao": "Catalisadores aceleram reações químicas diminuindo a energia de ativação, mas não são consumidos no processo."
+    },
+    {
+        "pergunta": "O que é uma reação de decomposição?",
+        "opcoes": {
+            "a": "Dois reagentes formando um único produto",
+            "b": "Um reagente formando dois ou mais produtos",
+            "c": "Troca de elementos entre reagentes",
+            "d": "Combustão de hidrocarbonetos"
+        },
+        "resposta": "b",
+        "explicacao": "Na reação de decomposição, um único reagente se decompõe em duas ou mais substâncias mais simples."
+    },
+    {
+        "pergunta": "Qual é o número atômico do oxigênio?",
+        "opcoes": {
+            "a": "6",
+            "b": "7",
+            "c": "8",
+            "d": "16"
+        },
+        "resposta": "c",
+        "explicacao": "O número atômico do oxigênio é 8, o que indica que ele possui 8 prótons em seu núcleo."
+    },
+    {
+        "pergunta": "O que indica o número de massa de um átomo?",
+        "opcoes": {
+            "a": "A quantidade de elétrons",
+            "b": "A soma do número de prótons e nêutrons",
+            "c": "A quantidade de ligações possíveis",
+            "d": "A reatividade do elemento"
+        },
+        "resposta": "b",
+        "explicacao": "O número de massa é a soma dos prótons e nêutrons presentes no núcleo do átomo."
+    },
+    {
+        "pergunta": "O que é eletronegatividade?",
+        "opcoes": {
+            "a": "Capacidade de doar elétrons",
+            "b": "Capacidade de reter nêutrons",
+            "c": "Capacidade de atrair elétrons em uma ligação",
+            "d": "Quantidade de prótons no núcleo"
+        },
+        "resposta": "c",
+        "explicacao": "Eletronegatividade é a tendência de um átomo atrair elétrons quando está ligado a outro átomo."
+    },
+    {
+        "pergunta": "Qual elemento químico é mais eletronegativo?",
+        "opcoes": {
+            "a": "Cloro",
+            "b": "Oxigênio",
+            "c": "Flúor",
+            "d": "Nitrogênio"
+        },
+        "resposta": "c",
+        "explicacao": "O flúor é o elemento mais eletronegativo da tabela periódica, com maior capacidade de atrair elétrons em uma ligação química."
+    },
+    {
+        "pergunta": "O que é uma substância pura?",
+        "opcoes": {
+            "a": "Mistura de dois ou mais compostos",
+            "b": "Material formado por um único tipo de componente químico",
+            "c": "Elemento encontrado na natureza",
+            "d": "Matéria que pode ser separada por filtração"
+        },
+        "resposta": "b",
+        "explicacao": "Substância pura é composta por um único tipo de substância química, com composição constante e propriedades definidas."
+    },
+    {
+        "pergunta": "O que é uma mistura homogênea?",
+        "opcoes": {
+            "a": "Mistura com duas fases visíveis",
+            "b": "Mistura com composição uniforme em toda a extensão",
+            "c": "Mistura que pode ser separada manualmente",
+            "d": "Mistura de sólidos visíveis a olho nu"
+        },
+        "resposta": "b",
+        "explicacao": "Mistura homogênea apresenta apenas uma fase visível, com composição e propriedades uniformes em toda sua extensão."
+    },
+    {
+        "pergunta": "Qual é a unidade de concentração em molaridade?",
+        "opcoes": {
+            "a": "g/L",
+            "b": "mol/L",
+            "c": "g/mol",
+            "d": "mol/g"
+        },
+        "resposta": "b",
+        "explicacao": "A molaridade (ou concentração molar) é expressa em mol/L, ou seja, quantidade de mols de soluto por litro de solução."
+    },
+    {
+        "pergunta": "O que ocorre em uma reação endotérmica?",
+        "opcoes": {
+            "a": "Liberação de calor",
+            "b": "Produção de luz",
+            "c": "Absorção de calor",
+            "d": "Explosão"
+        },
+        "resposta": "c",
+        "explicacao": "Reações endotérmicas absorvem calor do meio ambiente para ocorrerem, ao contrário das exotérmicas, que liberam calor."
+    },
+    {
+        "pergunta": "Qual dos seguintes compostos é um sal?",
+        "opcoes": {
+            "a": "NaCl",
+            "b": "H2O",
+            "c": "HCl",
+            "d": "NaOH"
+        },
+        "resposta": "a",
+        "explicacao": "O cloreto de sódio (NaCl) é um sal formado pela reação entre um ácido (HCl) e uma base (NaOH)."
+    },
+    {
+        "pergunta": "Como se chama a separação de uma mistura com base na diferença de ponto de ebulição?",
+        "opcoes": {
+            "a": "Filtração",
+            "b": "Decantação",
+            "c": "Destilação",
+            "d": "Peneiração"
+        },
+        "resposta": "c",
+        "explicacao": "A destilação é usada para separar os componentes de uma mistura com base na diferença de seus pontos de ebulição."
+    },
+    {
+        "pergunta": "Qual das alternativas representa uma ligação iônica?",
+        "opcoes": {
+            "a": "H2O",
+            "b": "CO2",
+            "c": "NaCl",
+            "d": "CH4"
+        },
+        "resposta": "c",
+        "explicacao": "NaCl é formado pela transferência de elétrons entre o sódio (metal) e o cloro (não metal), caracterizando uma ligação iônica."
+    },
+    {
+        "pergunta": "Qual é o pH de uma solução neutra à temperatura ambiente?",
+        "opcoes": {
+            "a": "0",
+            "b": "7",
+            "c": "14",
+            "d": "10"
+        },
+        "resposta": "b",
+        "explicacao": "Uma solução neutra apresenta pH igual a 7, como é o caso da água pura em temperatura ambiente."
+    },
+    {
+        "pergunta": "O que é uma reação de neutralização?",
+        "opcoes": {
+            "a": "Reação entre dois metais",
+            "b": "Reação entre ácido e base formando sal e água",
+            "c": "Reação entre dois sais",
+            "d": "Reação de combustão com liberação de CO2"
+        },
+        "resposta": "b",
+        "explicacao": "Reação de neutralização ocorre entre um ácido e uma base, formando sal e água como produtos."
+    },
+    {
+        "pergunta": "Qual gás é comumente liberado em reações de combustão completa?",
+        "opcoes": {
+            "a": "O2",
+            "b": "N2",
+            "c": "CO2",
+            "d": "H2"
+        },
+        "resposta": "c",
+        "explicacao": "Na combustão completa, o combustível reage com oxigênio, produzindo dióxido de carbono (CO2) e água."
+    },
+    {
+        "pergunta": "O que é o número de oxidação (NOX) de um elemento?",
+        "opcoes": {
+            "a": "Quantidade de prótons no núcleo",
+            "b": "Carga real de um átomo no estado fundamental",
+            "c": "Carga que o átomo parece ter ao formar uma substância",
+            "d": "Número de elétrons em sua última camada"
+        },
+        "resposta": "c",
+        "explicacao": "O número de oxidação representa a carga aparente de um átomo ao participar de uma ligação química."
+    },
+    {
+        "pergunta": "Qual é a fórmula química da glicose?",
+        "opcoes": {
+            "a": "C6H12O6",
+            "b": "C2H5OH",
+            "c": "CO2",
+            "d": "CH4"
+        },
+        "resposta": "a",
+        "explicacao": "A glicose é um monossacarídeo cuja fórmula molecular é C6H12O6, sendo uma importante fonte de energia para os organismos vivos."
+    },
+    {
+        "pergunta": "O que caracteriza uma reação de oxirredução?",
+        "opcoes": {
+            "a": "Troca de íons positivos",
+            "b": "Formação de um precipitado",
+            "c": "Transferência de elétrons entre espécies",
+            "d": "Formação de gás oxigênio"
+        },
+        "resposta": "c",
+        "explicacao": "Nas reações de oxirredução (redox), há transferência de elétrons entre as substâncias envolvidas: uma se oxida e outra se reduz."
+    },
+    {
+        "pergunta": "Qual é a principal característica dos hidrocarbonetos?",
+        "opcoes": {
+            "a": "Contêm oxigênio na estrutura",
+            "b": "São compostos apenas por carbono e hidrogênio",
+            "c": "Reagem com ácidos para formar sal",
+            "d": "Possuem cadeia heterogênea"
+        },
+        "resposta": "b",
+        "explicacao": "Hidrocarbonetos são compostos orgânicos formados apenas por átomos de carbono e hidrogênio, como o metano (CH4)."
+    },
+    {
+        "pergunta": "Qual propriedade da água permite que ela dissolva muitas substâncias?",
+        "opcoes": {
+            "a": "Baixo calor específico",
+            "b": "Polaridade",
+            "c": "Baixa densidade",
+            "d": "Alta viscosidade"
+        },
+        "resposta": "b",
+        "explicacao": "A água é uma molécula polar, o que permite interações com muitas outras moléculas também polares ou iônicas, facilitando a dissolução."
+    },
+    {
+        "pergunta": "Qual é o composto responsável pelo sabor ácido dos refrigerantes?",
+        "opcoes": {
+            "a": "Ácido sulfúrico",
+            "b": "Ácido clorídrico",
+            "c": "Ácido carbônico",
+            "d": "Ácido nítrico"
+        },
+        "resposta": "c",
+        "explicacao": "O ácido carbônico (H2CO3) é formado pela dissolução de CO2 na água presente nos refrigerantes, conferindo o sabor levemente ácido."
+    },
+    {
+        "pergunta": "O que são catalisadores em uma reação química?",
+        "opcoes": {
+            "a": "Substâncias que aumentam a massa dos reagentes",
+            "b": "Substâncias que diminuem a temperatura da reação",
+            "c": "Substâncias que aceleram a reação sem serem consumidas",
+            "d": "Produtos formados no final da reação"
+        },
+        "resposta": "c",
+        "explicacao": "Catalisadores são substâncias que aceleram a velocidade da reação química ao reduzir a energia de ativação, sem serem consumidos no processo."
+    },
+    {
+        "pergunta": "Qual é a unidade usada para medir a concentração de uma solução?",
+        "opcoes": {
+            "a": "mol",
+            "b": "mol/L",
+            "c": "g",
+            "d": "mL"
+        },
+        "resposta": "b",
+        "explicacao": "A concentração molar (ou molaridade) é expressa em mol/L, representando a quantidade de soluto por litro de solução."
+    },
+    {
+        "pergunta": "Qual tipo de ligação ocorre entre átomos que compartilham elétrons?",
+        "opcoes": {
+            "a": "Iônica",
+            "b": "Metálica",
+            "c": "Covalente",
+            "d": "Hidrogênio"
+        },
+        "resposta": "c",
+        "explicacao": "Na ligação covalente, dois átomos compartilham pares de elétrons para alcançar estabilidade eletrônica."
+    },
+    {
+        "pergunta": "O que representa o número atômico de um elemento?",
+        "opcoes": {
+            "a": "A quantidade de nêutrons no núcleo",
+            "b": "A massa do átomo",
+            "c": "A quantidade de elétrons na última camada",
+            "d": "A quantidade de prótons no núcleo"
+        },
+        "resposta": "d",
+        "explicacao": "O número atômico representa a quantidade de prótons no núcleo do átomo, e é único para cada elemento químico."
+    },
+    {
+        "pergunta": "Qual o nome do processo que separa os componentes de uma mistura homogênea por diferença de ponto de ebulição?",
+        "opcoes": {
+            "a": "Filtração",
+            "b": "Decantação",
+            "c": "Destilação",
+            "d": "Imantação"
+        },
+        "resposta": "c",
+        "explicacao": "A destilação é o processo de separação de misturas homogêneas com base na diferença de ponto de ebulição entre os componentes."
+    }
+]

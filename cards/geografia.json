@@ -1,0 +1,552 @@
+[
+    {
+        "pergunta": "Qual é o bioma predominante na região Norte do Brasil?",
+        "opcoes": {
+            "a": "Cerrado",
+            "b": "Mata Atlântica",
+            "c": "Caatinga",
+            "d": "Floresta Amazônica"
+        },
+        "resposta": "d",
+        "explicacao": "A Floresta Amazônica é o bioma predominante na região Norte, sendo a maior floresta tropical do mundo em biodiversidade e extensão."
+    },
+    {
+        "pergunta": "O que caracteriza um clima equatorial?",
+        "opcoes": {
+            "a": "Invernos rigorosos e verões amenos",
+            "b": "Alta amplitude térmica anual",
+            "c": "Altas temperaturas e chuvas constantes ao longo do ano",
+            "d": "Estação seca bem definida"
+        },
+        "resposta": "c",
+        "explicacao": "O clima equatorial apresenta altas temperaturas e chuvas bem distribuídas ao longo do ano, típico de regiões como a Amazônia."
+    },
+    {
+        "pergunta": "Qual é a principal fonte de energia utilizada no Brasil?",
+        "opcoes": {
+            "a": "Termelétrica",
+            "b": "Nuclear",
+            "c": "Hidrelétrica",
+            "d": "Solar"
+        },
+        "resposta": "c",
+        "explicacao": "A matriz energética brasileira é majoritariamente composta por energia hidrelétrica, devido ao grande número de rios e ao relevo propício."
+    },
+    {
+        "pergunta": "O que é um aquífero?",
+        "opcoes": {
+            "a": "Um tipo de rocha sedimentar",
+            "b": "Camada atmosférica rica em oxigênio",
+            "c": "Reserva subterrânea de água",
+            "d": "Sistema de irrigação natural"
+        },
+        "resposta": "c",
+        "explicacao": "Um aquífero é uma formação geológica que armazena água subterrânea, como o Aquífero Guarani, um dos maiores do mundo."
+    },
+    {
+        "pergunta": "Qual fenômeno natural está relacionado ao aquecimento anormal das águas do Oceano Pacífico?",
+        "opcoes": {
+            "a": "La Niña",
+            "b": "Tsunami",
+            "c": "Terremoto",
+            "d": "El Niño"
+        },
+        "resposta": "d",
+        "explicacao": "O El Niño é um fenômeno climático caracterizado pelo aquecimento anormal das águas do Oceano Pacífico, afetando o clima em várias partes do mundo."
+    },
+    {
+        "pergunta": "Qual é o principal fator responsável pela desertificação?",
+        "opcoes": {
+            "a": "Atividade vulcânica",
+            "b": "Desmatamento e uso inadequado do solo",
+            "c": "Erosão glacial",
+            "d": "Poluição do ar"
+        },
+        "resposta": "b",
+        "explicacao": "A desertificação é causada principalmente pelo desmatamento, pastagens excessivas e práticas agrícolas inadequadas, que degradam o solo."
+    },
+    {
+        "pergunta": "O que significa o termo 'urbanização'?",
+        "opcoes": {
+            "a": "Aumento da área rural",
+            "b": "Êxodo de cidades para áreas naturais",
+            "c": "Crescimento da população urbana",
+            "d": "Desindustrialização dos centros urbanos"
+        },
+        "resposta": "c",
+        "explicacao": "Urbanização é o crescimento da população urbana em relação à rural, geralmente associado ao desenvolvimento de cidades."
+    },
+    {
+        "pergunta": "O que são recursos naturais renováveis?",
+        "opcoes": {
+            "a": "Recursos que nunca se esgotam",
+            "b": "Recursos que se regeneram naturalmente em curto prazo",
+            "c": "Recursos artificiais produzidos em laboratório",
+            "d": "Recursos que não têm impacto ambiental"
+        },
+        "resposta": "b",
+        "explicacao": "Recursos naturais renováveis são aqueles que podem se regenerar naturalmente em um curto espaço de tempo, como a água, vento e biomassa."
+    },
+    {
+        "pergunta": "Qual cidade brasileira é considerada a maior em população?",
+        "opcoes": {
+            "a": "Belo Horizonte",
+            "b": "Salvador",
+            "c": "São Paulo",
+            "d": "Rio de Janeiro"
+        },
+        "resposta": "c",
+        "explicacao": "São Paulo é a cidade mais populosa do Brasil e uma das maiores do mundo, com milhões de habitantes."
+    },
+    {
+        "pergunta": "A produção agrícola brasileira é influenciada principalmente por qual fator?",
+        "opcoes": {
+            "a": "Baixa fertilidade do solo",
+            "b": "Clima tropical e subtropical favorável",
+            "c": "Relevo montanhoso em todo o país",
+            "d": "Frequentes terremotos"
+        },
+        "resposta": "b",
+        "explicacao": "O clima tropical e subtropical, aliado à extensão territorial e diversidade de solos, favorece a produção agrícola no Brasil."
+    },
+    {
+        "pergunta": "O que caracteriza uma região metropolitana?",
+        "opcoes": {
+            "a": "Área exclusivamente rural",
+            "b": "Conjunto de cidades interligadas a uma metrópole",
+            "c": "Área isolada de grande biodiversidade",
+            "d": "Região com baixo desenvolvimento urbano"
+        },
+        "resposta": "b",
+        "explicacao": "Regiões metropolitanas são formadas por uma metrópole e cidades vizinhas integradas economicamente e socialmente a ela."
+    },
+    {
+        "pergunta": "Qual bioma brasileiro é conhecido por sua maior biodiversidade?",
+        "opcoes": {
+            "a": "Pantanal",
+            "b": "Cerrado",
+            "c": "Caatinga",
+            "d": "Amazônia"
+        },
+        "resposta": "d",
+        "explicacao": "A Amazônia é o bioma brasileiro com a maior biodiversidade, abrigando inúmeras espécies de plantas e animais."
+    },
+    {
+        "pergunta": "O que é globalização?",
+        "opcoes": {
+            "a": "Processo de fragmentação econômica mundial",
+            "b": "Isolamento cultural e tecnológico entre países",
+            "c": "Integração econômica, cultural e tecnológica entre as nações",
+            "d": "Expansão agrícola em zonas rurais"
+        },
+        "resposta": "c",
+        "explicacao": "A globalização é o processo de integração mundial por meio de avanços nos transportes, tecnologia, comunicações e comércio."
+    },
+    {
+        "pergunta": "Quais são os principais agentes responsáveis pelo relevo terrestre?",
+        "opcoes": {
+            "a": "Vulcões e terremotos apenas",
+            "b": "Chuva e vento exclusivamente",
+            "c": "Agentes internos e externos como tectonismo, intemperismo e erosão",
+            "d": "Apenas ação humana"
+        },
+        "resposta": "c",
+        "explicacao": "O relevo é moldado por agentes internos (tectonismo, vulcanismo) e externos (intemperismo, erosão)."
+    },
+    {
+        "pergunta": "Qual é a consequência do desmatamento nas florestas tropicais?",
+        "opcoes": {
+            "a": "Aumento da biodiversidade",
+            "b": "Melhoria na qualidade do solo",
+            "c": "Redução da emissão de gases",
+            "d": "Perda da biodiversidade e desequilíbrio climático"
+        },
+        "resposta": "d",
+        "explicacao": "O desmatamento causa perda de espécies, degradação do solo e contribui para o aquecimento global pela liberação de CO₂."
+    },
+    {
+        "pergunta": "Qual é a principal causa da desertificação?",
+        "opcoes": {
+            "a": "Excesso de chuvas",
+            "b": "Reflorestamento desordenado",
+            "c": "Manejo inadequado do solo e desmatamento",
+            "d": "Preservação ambiental"
+        },
+        "resposta": "c",
+        "explicacao": "A desertificação é causada pela degradação do solo, geralmente provocada pelo desmatamento, agricultura intensiva e uso inadequado da terra."
+    },
+    {
+        "pergunta": "O que é urbanização?",
+        "opcoes": {
+            "a": "Expansão de áreas agrícolas",
+            "b": "Aumento da população rural",
+            "c": "Processo de crescimento das cidades",
+            "d": "Redução da densidade populacional urbana"
+        },
+        "resposta": "c",
+        "explicacao": "Urbanização é o processo de crescimento das cidades, tanto em população quanto em infraestrutura urbana."
+    },
+    {
+        "pergunta": "O que caracteriza uma área de risco em centros urbanos?",
+        "opcoes": {
+            "a": "Boa infraestrutura e saneamento básico",
+            "b": "Localização próxima a escolas e hospitais",
+            "c": "Presença de equipamentos urbanos modernos",
+            "d": "Locais sujeitos a deslizamentos, enchentes ou construções precárias"
+        },
+        "resposta": "d",
+        "explicacao": "Áreas de risco são locais urbanos vulneráveis a desastres naturais e problemas estruturais, geralmente ocupadas por populações de baixa renda."
+    },
+    {
+        "pergunta": "O que é agricultura de subsistência?",
+        "opcoes": {
+            "a": "Produção voltada para o mercado internacional",
+            "b": "Cultivo de plantas ornamentais",
+            "c": "Produção para consumo próprio e da família",
+            "d": "Produção com alta tecnologia e mecanização"
+        },
+        "resposta": "c",
+        "explicacao": "A agricultura de subsistência é praticada em pequena escala, geralmente por famílias, com o objetivo de produzir alimentos para o próprio consumo."
+    },
+    {
+        "pergunta": "O que são favelas?",
+        "opcoes": {
+            "a": "Bairros planejados pelo governo",
+            "b": "Zonas industriais urbanas",
+            "c": "Áreas urbanas com habitações precárias e falta de infraestrutura",
+            "d": "Regiões agrícolas produtivas"
+        },
+        "resposta": "c",
+        "explicacao": "Favelas são assentamentos urbanos informais, geralmente em áreas irregulares, sem serviços básicos e com habitações improvisadas."
+    },
+    {
+        "pergunta": "O que são os movimentos tectônicos?",
+        "opcoes": {
+            "a": "Movimentações do magma em vulcões",
+            "b": "Movimentos das placas da crosta terrestre",
+            "c": "Movimentos de rios durante enchentes",
+            "d": "Deslocamento das nuvens durante tempestades"
+        },
+        "resposta": "b",
+        "explicacao": "Movimentos tectônicos referem-se ao deslocamento das placas que formam a crosta terrestre, causando fenômenos como terremotos e formação de montanhas."
+    },
+    {
+        "pergunta": "O que é efeito estufa?",
+        "opcoes": {
+            "a": "Reflexo da luz solar nas nuvens",
+            "b": "Aquecimento da Terra por gases que retêm o calor",
+            "c": "Resfriamento da Terra causado pelos polos",
+            "d": "Aumento da camada de ozônio"
+        },
+        "resposta": "b",
+        "explicacao": "O efeito estufa é um fenômeno natural em que gases na atmosfera retêm o calor irradiado pela Terra, mantendo a temperatura do planeta adequada para a vida."
+    },
+    {
+        "pergunta": "Qual o principal bioma brasileiro?",
+        "opcoes": {
+            "a": "Cerrado",
+            "b": "Pampa",
+            "c": "Amazônia",
+            "d": "Caatinga"
+        },
+        "resposta": "c",
+        "explicacao": "A Amazônia é o maior bioma do Brasil e abriga a maior floresta tropical do mundo, com enorme biodiversidade."
+    },
+    {
+        "pergunta": "Qual é a função da ONU?",
+        "opcoes": {
+            "a": "Organizar campeonatos mundiais de futebol",
+            "b": "Promover a guerra entre países rivais",
+            "c": "Manter a paz e promover a cooperação internacional",
+            "d": "Administrar o comércio mundial"
+        },
+        "resposta": "c",
+        "explicacao": "A ONU (Organização das Nações Unidas) busca manter a paz, promover os direitos humanos e incentivar a cooperação entre as nações."
+    },
+    {
+        "pergunta": "O que significa IDH?",
+        "opcoes": {
+            "a": "Índice de Densidade Humana",
+            "b": "Índice de Desenvolvimento Humano",
+            "c": "Incentivo Direto à Habitação",
+            "d": "Índice Demográfico Habitacional"
+        },
+        "resposta": "b",
+        "explicacao": "O IDH é um indicador que mede o desenvolvimento de um país com base em renda, educação e expectativa de vida."
+    },
+    {
+        "pergunta": "Quais são os países que formam o Mercosul original?",
+        "opcoes": {
+            "a": "Brasil, Argentina, Chile e Bolívia",
+            "b": "Brasil, Argentina, Paraguai e Uruguai",
+            "c": "Brasil, Peru, Venezuela e Colômbia",
+            "d": "Brasil, Equador, Chile e Uruguai"
+        },
+        "resposta": "b",
+        "explicacao": "Os países fundadores do Mercosul são Brasil, Argentina, Paraguai e Uruguai, com o objetivo de promover integração econômica e comercial na América do Sul."
+    },
+    {
+        "pergunta": "O que é agropecuária intensiva?",
+        "opcoes": {
+            "a": "Sistema com baixa produtividade e uso de técnicas rudimentares",
+            "b": "Atividade de subsistência com uso de mão de obra familiar",
+            "c": "Produção em grande escala com alta tecnologia e mecanização",
+            "d": "Criação de animais em áreas extensas e naturais"
+        },
+        "resposta": "c",
+        "explicacao": "A agropecuária intensiva se caracteriza pelo uso de tecnologia e mecanização para maximizar a produção em áreas reduzidas."
+    },
+    {
+        "pergunta": "Qual fenômeno natural pode ser causado pelo aquecimento das águas do Pacífico?",
+        "opcoes": {
+            "a": "La Niña",
+            "b": "El Niño",
+            "c": "Aurora Boreal",
+            "d": "Maremoto"
+        },
+        "resposta": "b",
+        "explicacao": "O El Niño é um fenômeno climático causado pelo aquecimento anormal das águas do Oceano Pacífico, afetando o clima global."
+    },
+    {
+        "pergunta": "A desertificação é causada principalmente por:",
+        "opcoes": {
+            "a": "Erupções vulcânicas",
+            "b": "Tsunamis",
+            "c": "Uso inadequado do solo e desmatamento",
+            "d": "Aumento da biodiversidade"
+        },
+        "resposta": "c",
+        "explicacao": "A desertificação ocorre devido ao uso inadequado da terra, desmatamento e práticas agrícolas insustentáveis, tornando o solo infértil."
+    },
+    {
+        "pergunta": "O que é migração pendular?",
+        "opcoes": {
+            "a": "Mudança definitiva de uma pessoa para outra cidade",
+            "b": "Migração entre países vizinhos",
+            "c": "Deslocamento diário entre casa e trabalho",
+            "d": "Movimento populacional rural para urbano"
+        },
+        "resposta": "c",
+        "explicacao": "A migração pendular refere-se ao deslocamento diário de pessoas entre a residência e o local de trabalho ou estudo, comum em grandes cidades."
+    },
+    {
+        "pergunta": "O que caracteriza um país subdesenvolvido?",
+        "opcoes": {
+            "a": "Alto PIB per capita e IDH elevado",
+            "b": "Alta taxa de urbanização e industrialização",
+            "c": "Baixa renda, desigualdade social e dependência econômica",
+            "d": "Grande produção de tecnologia e inovação"
+        },
+        "resposta": "c",
+        "explicacao": "Países subdesenvolvidos apresentam baixa renda per capita, alto índice de desigualdade e forte dependência econômica de países desenvolvidos."
+    },
+    {
+        "pergunta": "Qual é a principal consequência do crescimento desordenado das cidades?",
+        "opcoes": {
+            "a": "Desenvolvimento rural",
+            "b": "Melhora no transporte público",
+            "c": "Expansão de áreas verdes",
+            "d": "Formação de favelas e falta de infraestrutura"
+        },
+        "resposta": "d",
+        "explicacao": "O crescimento desordenado das cidades leva à formação de favelas, problemas de saneamento, trânsito e serviços públicos precários."
+    },
+    {
+        "pergunta": "A hidrosfera é composta por:",
+        "opcoes": {
+            "a": "Atmosfera e solo",
+            "b": "Oceanos, rios, lagos e águas subterrâneas",
+            "c": "Vegetação e clima",
+            "d": "Montanhas e planaltos"
+        },
+        "resposta": "b",
+        "explicacao": "A hidrosfera abrange toda a água existente na Terra, incluindo oceanos, mares, rios, lagos, geleiras e águas subterrâneas."
+    },
+    {
+        "pergunta": "Qual a principal fonte de energia no Brasil atualmente?",
+        "opcoes": {
+            "a": "Termelétrica",
+            "b": "Nuclear",
+            "c": "Hidrelétrica",
+            "d": "Solar"
+        },
+        "resposta": "c",
+        "explicacao": "A matriz energética brasileira é predominantemente baseada em energia hidrelétrica, devido à grande quantidade de rios e relevo favorável."
+    },
+    {
+        "pergunta": "O que são refugiados ambientais?",
+        "opcoes": {
+            "a": "Pessoas que viajam por turismo ecológico",
+            "b": "Pessoas que migram por questões climáticas ou desastres naturais",
+            "c": "Grupos que buscam proteção por perseguição política",
+            "d": "Populações indígenas em áreas de proteção ambiental"
+        },
+        "resposta": "b",
+        "explicacao": "Refugiados ambientais são pessoas obrigadas a deixar suas casas por motivos como secas, enchentes, terremotos ou outros desastres naturais."
+    },
+    {
+        "pergunta": "O que é efeito estufa?",
+        "opcoes": {
+            "a": "Aquecimento artificial de estufas agrícolas",
+            "b": "Fenômeno natural que mantém a temperatura da Terra estável",
+            "c": "Processo de resfriamento da atmosfera",
+            "d": "Destruição da camada de ozônio"
+        },
+        "resposta": "b",
+        "explicacao": "O efeito estufa é um fenômeno natural causado por gases que retêm o calor na atmosfera, mantendo a temperatura adequada para a vida."
+    },
+    {
+        "pergunta": "A desertificação está relacionada com:",
+        "opcoes": {
+            "a": "Excesso de água no solo",
+            "b": "Reflorestamento de áreas áridas",
+            "c": "Uso inadequado do solo em regiões semiáridas",
+            "d": "Erupções vulcânicas frequentes"
+        },
+        "resposta": "c",
+        "explicacao": "A desertificação ocorre devido ao uso inadequado do solo, como desmatamento e agricultura intensiva, em regiões áridas e semiáridas."
+    },
+    {
+        "pergunta": "Qual o principal bioma brasileiro impactado pelo agronegócio?",
+        "opcoes": {
+            "a": "Amazônia",
+            "b": "Pampa",
+            "c": "Pantanal",
+            "d": "Cerrado"
+        },
+        "resposta": "d",
+        "explicacao": "O Cerrado é o bioma mais impactado pela expansão da agricultura e pecuária, devido à sua localização e características do solo."
+    },
+    {
+        "pergunta": "Qual o principal fator que influencia o clima de uma região?",
+        "opcoes": {
+            "a": "Altura dos prédios",
+            "b": "População local",
+            "c": "Latitude",
+            "d": "Horário de verão"
+        },
+        "resposta": "c",
+        "explicacao": "A latitude influencia diretamente a quantidade de radiação solar recebida por uma região, sendo o principal fator climático."
+    },
+    {
+        "pergunta": "A transição demográfica diz respeito:",
+        "opcoes": {
+            "a": "À migração rural-urbana",
+            "b": "À mudança de estrutura etária da população",
+            "c": "À globalização econômica",
+            "d": "À digitalização de censos populacionais"
+        },
+        "resposta": "b",
+        "explicacao": "A transição demográfica é a passagem de altos para baixos níveis de natalidade e mortalidade, alterando a estrutura etária da população."
+    },
+    {
+        "pergunta": "O que caracteriza a urbanização nos países subdesenvolvidos?",
+        "opcoes": {
+            "a": "Planejamento urbano eficiente",
+            "b": "Desenvolvimento sustentável",
+            "c": "Crescimento acelerado e desordenado das cidades",
+            "d": "Alta renda per capita"
+        },
+        "resposta": "c",
+        "explicacao": "Nos países subdesenvolvidos, a urbanização ocorre de forma rápida e sem planejamento adequado, resultando em problemas como favelização e falta de infraestrutura."
+    },
+    {
+        "pergunta": "A maior parte da energia elétrica no Brasil é gerada por:",
+        "opcoes": {
+            "a": "Termelétricas a carvão",
+            "b": "Energia solar",
+            "c": "Hidrelétricas",
+            "d": "Energia nuclear"
+        },
+        "resposta": "c",
+        "explicacao": "As hidrelétricas são a principal fonte de energia elétrica no Brasil devido à grande disponibilidade de rios com potencial hidráulico."
+    },
+    {
+        "pergunta": "A agropecuária extensiva é caracterizada por:",
+        "opcoes": {
+            "a": "Uso intensivo de tecnologia e insumos",
+            "b": "Grande produtividade em pequenas áreas",
+            "c": "Baixa produtividade e uso de grandes áreas",
+            "d": "Cultivo hidropônico em estufas"
+        },
+        "resposta": "c",
+        "explicacao": "A agropecuária extensiva utiliza grandes áreas com baixa produtividade, geralmente com pouca tecnologia e mão de obra tradicional."
+    },
+    {
+        "pergunta": "As migrações sazonais ocorrem quando:",
+        "opcoes": {
+            "a": "A população migra de forma permanente para outra cidade",
+            "b": "Há migração de uma região para outra com retorno ao local de origem",
+            "c": "A migração ocorre apenas em países desenvolvidos",
+            "d": "Há guerra civil"
+        },
+        "resposta": "b",
+        "explicacao": "As migrações sazonais são movimentos temporários, geralmente motivados por trabalho em determinadas épocas do ano, com retorno ao local de origem."
+    },
+    {
+        "pergunta": "O Aquífero Guarani é importante porque:",
+        "opcoes": {
+            "a": "É uma reserva de petróleo no Brasil",
+            "b": "Alimenta as hidrelétricas da Amazônia",
+            "c": "É uma das maiores reservas subterrâneas de água doce do mundo",
+            "d": "Produz energia eólica"
+        },
+        "resposta": "c",
+        "explicacao": "O Aquífero Guarani é uma das maiores reservas de água doce subterrânea do planeta, sendo essencial para o abastecimento de milhões de pessoas."
+    },
+    {
+        "pergunta": "O que é efeito estufa?",
+        "opcoes": {
+            "a": "A entrada de radiação solar na Terra",
+            "b": "O fenômeno natural de aquecimento da superfície terrestre",
+            "c": "A camada de ozônio",
+            "d": "A emissão de CO2 pelas plantas"
+        },
+        "resposta": "b",
+        "explicacao": "O efeito estufa é um fenômeno natural que mantém a Terra aquecida, causado pela retenção do calor dos raios solares por gases como CO2 e metano na atmosfera."
+    },
+    {
+        "pergunta": "Quais são os principais biomas brasileiros?",
+        "opcoes": {
+            "a": "Pantanal, Pampas, Cerrado, Caatinga, Mata Atlântica e Amazônia",
+            "b": "Tundra, Taiga, Savana e Floresta Temperada",
+            "c": "Mata Atlântica, Deserto e Mangue",
+            "d": "Cerrado, Caatinga, Floresta Temperada e Pântano"
+        },
+        "resposta": "a",
+        "explicacao": "Os principais biomas do Brasil são: Pantanal, Pampas, Cerrado, Caatinga, Mata Atlântica e Amazônia, cada um com características únicas de fauna e flora."
+    },
+    {
+        "pergunta": "O que é desertificação?",
+        "opcoes": {
+            "a": "A formação natural de desertos",
+            "b": "O aumento das chuvas em regiões secas",
+            "c": "A transformação de áreas férteis em áridas por ações humanas",
+            "d": "O resfriamento do solo em climas tropicais"
+        },
+        "resposta": "c",
+        "explicacao": "A desertificação é o processo de degradação do solo em regiões áridas ou semiáridas, geralmente causada por desmatamento, pastoreio excessivo e má gestão da terra."
+    },
+    {
+        "pergunta": "A globalização é um processo caracterizado por:",
+        "opcoes": {
+            "a": "Isolamento cultural",
+            "b": "Interdependência entre as nações em várias áreas",
+            "c": "Fechamento das fronteiras econômicas",
+            "d": "Desvalorização da tecnologia"
+        },
+        "resposta": "b",
+        "explicacao": "A globalização é o processo de integração econômica, cultural, política e social entre os países, promovido por avanços em comunicação e transporte."
+    },
+    {
+        "pergunta": "O que são áreas de risco nas cidades?",
+        "opcoes": {
+            "a": "Locais com alta valorização imobiliária",
+            "b": "Regiões próximas a centros comerciais",
+            "c": "Áreas suscetíveis a deslizamentos, enchentes ou outras ameaças naturais",
+            "d": "Bairros com grande infraestrutura urbana"
+        },
+        "resposta": "c",
+        "explicacao": "Áreas de risco são locais onde a ocupação humana está sujeita a ameaças naturais como deslizamentos, enchentes ou erosão, geralmente por falta de planejamento urbano."
+    }
+]

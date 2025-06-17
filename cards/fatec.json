@@ -1,0 +1,552 @@
+[
+    {
+        "pergunta": "Qual o formato da prova da Fatec?",
+        "opcoes": {
+            "a": "40 questões objetivas e uma redação.",
+            "b": "50 questões objetivas, sem redação.",
+            "c": "54 questões objetivas e uma redação.",
+            "d": "60 questões objetivas e duas redações."
+        },
+        "resposta": "c",
+        "explicacao": "A prova da Fatec é composta por 54 questões objetivas e uma redação dissertativa-argumentativa."
+    },
+    {
+        "pergunta": "Quantas questões de Matemática caem na prova da Fatec?",
+        "opcoes": {
+            "a": "5",
+            "b": "7",
+            "c": "9",
+            "d": "12"
+        },
+        "resposta": "c",
+        "explicacao": "A prova da Fatec contém 9 questões de Matemática, abordando álgebra, geometria, estatística e raciocínio lógico."
+    },
+    {
+        "pergunta": "Como a redação da Fatec é avaliada?",
+        "opcoes": {
+            "a": "Pelo número de palavras.",
+            "b": "Pelo uso de conectivos apenas.",
+            "c": "Por critérios como coesão, coerência, argumentação e norma culta.",
+            "d": "Apenas pela criatividade."
+        },
+        "resposta": "c",
+        "explicacao": "A redação é avaliada com base na estrutura, coesão, coerência, domínio da norma padrão e argumentação."
+    },
+    {
+        "pergunta": "Em qual disciplina se concentram os maiores pesos para cursos de tecnologia da informação?",
+        "opcoes": {
+            "a": "Português",
+            "b": "Matemática",
+            "c": "História",
+            "d": "Biologia"
+        },
+        "resposta": "b",
+        "explicacao": "Para cursos como Análise e Desenvolvimento de Sistemas, Matemática tem maior peso na pontuação."
+    },
+    {
+        "pergunta": "Quantas questões de Português caem na Fatec?",
+        "opcoes": {
+            "a": "5",
+            "b": "7",
+            "c": "9",
+            "d": "10"
+        },
+        "resposta": "d",
+        "explicacao": "A prova da Fatec contém 10 questões de Português, incluindo interpretação de texto e gramática."
+    },
+    {
+        "pergunta": "O que é necessário para se inscrever na Fatec?",
+        "opcoes": {
+            "a": "Estar cursando o ensino médio.",
+            "b": "Ter concluído o ensino médio ou estar prestes a concluir.",
+            "c": "Ser maior de 18 anos.",
+            "d": "Apresentar histórico universitário."
+        },
+        "resposta": "b",
+        "explicacao": "O candidato deve ter concluído ou estar concluindo o ensino médio no ano do vestibular."
+    },
+    {
+        "pergunta": "Qual o tempo total da prova da Fatec?",
+        "opcoes": {
+            "a": "3 horas",
+            "b": "4 horas",
+            "c": "4 horas e meia",
+            "d": "5 horas"
+        },
+        "resposta": "c",
+        "explicacao": "O tempo de duração da prova da Fatec é de 4 horas e meia para responder as 54 questões e elaborar a redação."
+    },
+    {
+        "pergunta": "Quantas questões de inglês são cobradas na prova da Fatec?",
+        "opcoes": {
+            "a": "5",
+            "b": "6",
+            "c": "7",
+            "d": "8"
+        },
+        "resposta": "a",
+        "explicacao": "A prova da Fatec cobra 5 questões de inglês, geralmente baseadas em interpretação de texto."
+    },
+    {
+        "pergunta": "Qual é o tipo de redação exigida na Fatec?",
+        "opcoes": {
+            "a": "Narrativa",
+            "b": "Dissertativa-argumentativa",
+            "c": "Carta argumentativa",
+            "d": "Resumo crítico"
+        },
+        "resposta": "b",
+        "explicacao": "A redação da Fatec é sempre do tipo dissertativa-argumentativa, com base em temas de atualidade."
+    },
+    {
+        "pergunta": "Qual a nota máxima da redação na Fatec?",
+        "opcoes": {
+            "a": "50",
+            "b": "60",
+            "c": "80",
+            "d": "100"
+        },
+        "resposta": "d",
+        "explicacao": "A redação da Fatec vale até 100 pontos e tem peso significativo na nota final."
+    },
+    {
+        "pergunta": "O que acontece se o candidato zerar a redação da Fatec?",
+        "opcoes": {
+            "a": "Perde apenas alguns pontos.",
+            "b": "Pode continuar concorrendo normalmente.",
+            "c": "É eliminado do processo seletivo.",
+            "d": "Recebe uma penalidade leve."
+        },
+        "resposta": "c",
+        "explicacao": "Zerar a redação implica em eliminação automática do vestibular da Fatec."
+    },
+    {
+        "pergunta": "Quantas questões de física caem na Fatec?",
+        "opcoes": {
+            "a": "5",
+            "b": "6",
+            "c": "7",
+            "d": "8"
+        },
+        "resposta": "b",
+        "explicacao": "A prova da Fatec contém 6 questões de Física, abrangendo conteúdos como mecânica, eletricidade e ótica."
+    },
+    {
+        "pergunta": "A Fatec pertence a qual instituição?",
+        "opcoes": {
+            "a": "USP",
+            "b": "UNESP",
+            "c": "Centro Paula Souza",
+            "d": "UNIFESP"
+        },
+        "resposta": "c",
+        "explicacao": "A Fatec é gerida pelo Centro Paula Souza, uma autarquia do Governo do Estado de São Paulo."
+    },
+    {
+        "pergunta": "Quais temas são mais comuns na redação da Fatec?",
+        "opcoes": {
+            "a": "Ciência e tecnologia, educação e sociedade.",
+            "b": "Esportes, entretenimento e culinária.",
+            "c": "Biologia e matemática.",
+            "d": "Moda e arte."
+        },
+        "resposta": "a",
+        "explicacao": "Os temas da redação costumam envolver discussões sociais, tecnológicas e educacionais."
+    },
+    {
+        "pergunta": "Qual o peso da redação na nota final da Fatec?",
+        "opcoes": {
+            "a": "20%",
+            "b": "30%",
+            "c": "40%",
+            "d": "50%"
+        },
+        "resposta": "b",
+        "explicacao": "A redação tem peso de 30% na nota final do vestibular da Fatec."
+    },
+    {
+        "pergunta": "Qual conteúdo de química é frequentemente cobrado na Fatec?",
+        "opcoes": {
+            "a": "Citologia",
+            "b": "Eletroquímica e estequiometria",
+            "c": "História da química",
+            "d": "Educação ambiental"
+        },
+        "resposta": "b",
+        "explicacao": "A Fatec costuma abordar temas clássicos como eletroquímica, ligações, reações e estequiometria."
+    },
+    {
+        "pergunta": "As questões de História na Fatec abrangem qual período?",
+        "opcoes": {
+            "a": "Apenas Idade Média.",
+            "b": "Somente história do Brasil.",
+            "c": "Diversos períodos: Antiga, Moderna, Contemporânea e Brasil.",
+            "d": "História da Arte apenas."
+        },
+        "resposta": "c",
+        "explicacao": "As questões de História são bem distribuídas entre os principais períodos históricos, inclusive História do Brasil."
+    },
+    {
+        "pergunta": "Na Fatec, o que é considerado plágio na redação?",
+        "opcoes": {
+            "a": "Escrever frases famosas.",
+            "b": "Reproduzir partes de textos motivadores sem autoria própria.",
+            "c": "Escrever citações literárias.",
+            "d": "Usar palavras estrangeiras."
+        },
+        "resposta": "b",
+        "explicacao": "Plágio ocorre quando o candidato copia trechos dos textos de apoio sem elaboração própria."
+    },
+    {
+        "pergunta": "Qual o papel da interdisciplinaridade na prova da Fatec?",
+        "opcoes": {
+            "a": "Não existe, cada questão é isolada.",
+            "b": "É central, com questões que mesclam áreas diferentes.",
+            "c": "Aparece apenas na redação.",
+            "d": "Só está presente nas questões de matemática."
+        },
+        "resposta": "b",
+        "explicacao": "A Fatec valoriza questões interdisciplinares, que exigem articulação entre conhecimentos de diferentes áreas."
+    },
+    {
+        "pergunta": "Como é a distribuição das disciplinas na prova objetiva da Fatec?",
+        "opcoes": {
+            "a": "Todas as disciplinas têm a mesma quantidade de questões.",
+            "b": "Depende do curso escolhido.",
+            "c": "Cada disciplina tem número fixo de questões.",
+            "d": "Varia conforme o campus."
+        },
+        "resposta": "c",
+        "explicacao": "A Fatec organiza a prova com um número fixo de questões por disciplina, conforme edital padrão."
+    },
+    {
+        "pergunta": "Em relação ao tempo de prova da Fatec, quanto tempo o candidato tem para resolver todas as questões e fazer a redação?",
+        "opcoes": {
+            "a": "3 horas",
+            "b": "4 horas",
+            "c": "4 horas e 30 minutos",
+            "d": "5 horas"
+        },
+        "resposta": "c",
+        "explicacao": "O candidato tem 4 horas e 30 minutos para realizar toda a prova, incluindo a redação."
+    },
+    {
+        "pergunta": "Qual tipo de texto é exigido na redação da Fatec?",
+        "opcoes": {
+            "a": "Narrativo",
+            "b": "Dissertativo-argumentativo",
+            "c": "Descritivo",
+            "d": "Carta pessoal"
+        },
+        "resposta": "b",
+        "explicacao": "A Fatec exige um texto dissertativo-argumentativo, no qual o candidato deve defender um ponto de vista com argumentos."
+    },
+    {
+        "pergunta": "Como a Fatec utiliza a nota do Enem?",
+        "opcoes": {
+            "a": "Substitui a prova objetiva e a redação.",
+            "b": "É somada à nota da prova.",
+            "c": "É usada apenas como critério de desempate.",
+            "d": "Pode substituir a prova, caso o candidato opte por usar a nota."
+        },
+        "resposta": "d",
+        "explicacao": "O candidato pode optar por utilizar a nota do Enem em vez de realizar a prova da Fatec, desde que atenda aos critérios estabelecidos no edital."
+    },
+    {
+        "pergunta": "Quantas alternativas têm as questões objetivas da Fatec?",
+        "opcoes": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "resposta": "c",
+        "explicacao": "As questões da Fatec são de múltipla escolha com 5 alternativas (A a E)."
+    },
+    {
+        "pergunta": "Qual é o peso das disciplinas de acordo com o curso na Fatec?",
+        "opcoes": {
+            "a": "Todas têm o mesmo peso.",
+            "b": "Depende do campus.",
+            "c": "Cada curso atribui pesos diferentes para disciplinas específicas.",
+            "d": "Só matemática tem peso maior em todos os cursos."
+        },
+        "resposta": "c",
+        "explicacao": "Os cursos da Fatec atribuem pesos distintos às disciplinas com base em sua relevância para a formação profissional."
+    },
+    {
+        "pergunta": "Qual a melhor forma de se preparar para a redação da Fatec?",
+        "opcoes": {
+            "a": "Focar em gramática.",
+            "b": "Estudar apenas atualidades.",
+            "c": "Praticar escrita e ler bons textos argumentativos.",
+            "d": "Assistir a vídeos de redação prontos."
+        },
+        "resposta": "c",
+        "explicacao": "A prática da escrita e o hábito de leitura crítica ajudam a desenvolver a argumentação necessária para a redação dissertativa."
+    },
+    {
+        "pergunta": "Qual desses temas seria mais provável numa redação da Fatec?",
+        "opcoes": {
+            "a": "Importância da nanotecnologia na medicina",
+            "b": "História da arte renascentista",
+            "c": "Receitas culinárias tradicionais",
+            "d": "Moda na cultura pop"
+        },
+        "resposta": "a",
+        "explicacao": "Temas com viés científico-social e impacto na sociedade são comuns na redação da Fatec."
+    },
+    {
+        "pergunta": "A prova da Fatec é aplicada:",
+        "opcoes": {
+            "a": "Duas vezes ao ano",
+            "b": "Apenas uma vez por ano",
+            "c": "Somente quando há vagas",
+            "d": "Quatro vezes ao ano"
+        },
+        "resposta": "a",
+        "explicacao": "A Fatec realiza dois vestibulares por ano: um no primeiro semestre e outro no segundo."
+    },
+    {
+        "pergunta": "Além da nota da prova, o que pode influenciar na classificação do candidato na Fatec?",
+        "opcoes": {
+            "a": "Participação em olimpíadas",
+            "b": "Nota do boletim escolar",
+            "c": "Sistema de pontuação acrescida (cotas)",
+            "d": "Entrevista com coordenadores"
+        },
+        "resposta": "c",
+        "explicacao": "A Fatec aplica o sistema de pontuação acrescida para candidatos autodeclarados pretos, pardos e indígenas e para alunos de escola pública."
+    },
+    {
+        "pergunta": "A Fatec exige domínio de quais competências para bom desempenho na prova?",
+        "opcoes": {
+            "a": "Memorização e velocidade",
+            "b": "Leitura, interpretação e raciocínio lógico",
+            "c": "Capacidade motora e criatividade",
+            "d": "Técnicas de laboratório e expressão artística"
+        },
+        "resposta": "b",
+        "explicacao": "A prova valoriza interpretação de textos, análise crítica e lógica para resolução de problemas."
+    },
+    {
+        "pergunta": "A pontuação acrescida da Fatec é somada:",
+        "opcoes": {
+            "a": "Apenas na redação",
+            "b": "Apenas na média final",
+            "c": "A todas as notas da prova objetiva",
+            "d": "Ao total da nota final do candidato"
+        },
+        "resposta": "d",
+        "explicacao": "A pontuação acrescida é somada ao total da nota final do candidato e pode chegar a até 15%."
+    },
+    {
+        "pergunta": "Um dos principais critérios de desempate na Fatec é:",
+        "opcoes": {
+            "a": "Maior idade",
+            "b": "Nota da redação",
+            "c": "Nota em matemática",
+            "d": "Ordem de inscrição"
+        },
+        "resposta": "b",
+        "explicacao": "Quando há empate na pontuação, a nota da redação é um dos critérios utilizados para o desempate."
+    },
+    {
+        "pergunta": "A prova da Fatec apresenta questões interdisciplinares?",
+        "opcoes": {
+            "a": "Sim, muitas questões misturam conteúdos de diferentes áreas.",
+            "b": "Não, cada questão é isolada por disciplina.",
+            "c": "Apenas na redação.",
+            "d": "Somente para o curso de tecnologia."
+        },
+        "resposta": "a",
+        "explicacao": "A Fatec valoriza a integração entre disciplinas, propondo questões interdisciplinares com foco na resolução de problemas."
+    },
+    {
+        "pergunta": "Qual a importância da leitura cuidadosa dos enunciados na prova da Fatec?",
+        "opcoes": {
+            "a": "Evita erros por distração e melhora o tempo de prova.",
+            "b": "Serve apenas para relaxar a mente.",
+            "c": "Ajuda a responder questões decoradas.",
+            "d": "Permite pular questões difíceis."
+        },
+        "resposta": "a",
+        "explicacao": "A interpretação correta dos enunciados é essencial para identificar o que está sendo cobrado e evitar erros."
+    },
+    {
+        "pergunta": "Para se dar bem em matemática na Fatec, o candidato deve:",
+        "opcoes": {
+            "a": "Decorar fórmulas.",
+            "b": "Entender os conceitos e praticar resolução de problemas.",
+            "c": "Focar em teoria apenas.",
+            "d": "Estudar apenas geometria."
+        },
+        "resposta": "b",
+        "explicacao": "A prova exige mais do que memorização: é necessário compreender os conceitos e praticar sua aplicação."
+    },
+    {
+        "pergunta": "Como a Fatec aborda a língua portuguesa em sua prova?",
+        "opcoes": {
+            "a": "Com foco apenas em gramática tradicional.",
+            "b": "Com textos literários e questões sobre interpretação e análise linguística.",
+            "c": "Apenas com questões sobre redação oficial.",
+            "d": "Com perguntas de vocabulário técnico."
+        },
+        "resposta": "b",
+        "explicacao": "A prova trabalha a compreensão textual e o uso da linguagem, com base em diferentes tipos de textos."
+    },
+    {
+        "pergunta": "Na prova da Fatec, é comum encontrar questões com gráficos e tabelas?",
+        "opcoes": {
+            "a": "Não, apenas textos corridos.",
+            "b": "Sim, especialmente em matemática, geografia e atualidades.",
+            "c": "Somente em inglês.",
+            "d": "Apenas para os cursos de exatas."
+        },
+        "resposta": "b",
+        "explicacao": "A interpretação de gráficos e tabelas é muito comum e exige atenção e raciocínio lógico."
+    },
+    {
+        "pergunta": "O conteúdo de inglês na Fatec costuma cobrar:",
+        "opcoes": {
+            "a": "Traduções literais de frases.",
+            "b": "Gramática avançada.",
+            "c": "Interpretação de texto em língua inglesa.",
+            "d": "Expressões idiomáticas exclusivamente."
+        },
+        "resposta": "c",
+        "explicacao": "A prova foca na leitura e interpretação de textos em inglês, com vocabulário do cotidiano e linguagem formal."
+    },
+    {
+        "pergunta": "Na redação da Fatec, o que é avaliado além da argumentação?",
+        "opcoes": {
+            "a": "A criatividade do enredo.",
+            "b": "A capacidade de seguir a estrutura dissertativa e a norma padrão da língua.",
+            "c": "O uso de gírias e regionalismos.",
+            "d": "O número de páginas escritas."
+        },
+        "resposta": "b",
+        "explicacao": "É necessário apresentar um texto bem estruturado, com coesão, coerência e uso adequado da norma culta."
+    },
+    {
+        "pergunta": "Qual estratégia é indicada para revisar os conteúdos da Fatec?",
+        "opcoes": {
+            "a": "Ler resumos e fazer simulados frequentemente.",
+            "b": "Ver filmes legendados apenas.",
+            "c": "Decorar todos os conteúdos.",
+            "d": "Assistir a vídeos motivacionais."
+        },
+        "resposta": "a",
+        "explicacao": "Simulados e revisões com resumos são eficientes para consolidar o aprendizado e preparar para a prova real."
+    },
+    {
+        "pergunta": "Qual alternativa melhor descreve a abordagem da Fatec em atualidades?",
+        "opcoes": {
+            "a": "Cobrança de datas e nomes exatos dos acontecimentos.",
+            "b": "Foco em interpretação e análise de temas contemporâneos.",
+            "c": "Apenas fatos históricos passados.",
+            "d": "Questões sobre a cultura pop apenas."
+        },
+        "resposta": "b",
+        "explicacao": "A Fatec cobra o entendimento crítico sobre questões atuais, muitas vezes relacionadas a sociedade, meio ambiente e política."
+    },
+    {
+        "pergunta": "Uma característica importante da prova da Fatec é:",
+        "opcoes": {
+            "a": "Distribuição igual de questões entre todas as matérias.",
+            "b": "Maior foco em exatas e linguagens.",
+            "c": "Predomínio de perguntas regionais.",
+            "d": "Prova composta só por múltipla escolha e discursivas."
+        },
+        "resposta": "b",
+        "explicacao": "A distribuição da prova geralmente favorece áreas como português, matemática e raciocínio lógico."
+    },
+    {
+        "pergunta": "Como o tempo de prova da Fatec impacta a estratégia do candidato?",
+        "opcoes": {
+            "a": "É suficiente para fazer tudo com calma, sem plano.",
+            "b": "Exige foco e gerenciamento do tempo entre questões e redação.",
+            "c": "É necessário começar pela redação sempre.",
+            "d": "O tempo é irrelevante, pois a prova é fácil."
+        },
+        "resposta": "b",
+        "explicacao": "O tempo deve ser bem distribuído, principalmente para garantir atenção à redação, que tem peso considerável."
+    },
+    {
+        "pergunta": "É possível conseguir uma boa nota na Fatec mesmo errando algumas questões?",
+        "opcoes": {
+            "a": "Não, é necessário acertar todas.",
+            "b": "Sim, o importante é manter a média e ir bem na redação.",
+            "c": "Somente se tiver bônus.",
+            "d": "A prova é eliminatória por questão errada."
+        },
+        "resposta": "b",
+        "explicacao": "A prova é classificatória, e uma boa média geral junto com a redação pode garantir uma boa colocação mesmo com erros."
+    },
+    {
+        "pergunta": "O conteúdo de química na Fatec tende a cobrar:",
+        "opcoes": {
+            "a": "Reações orgânicas complexas.",
+            "b": "Aplicações práticas e conceitos básicos da química geral.",
+            "c": "Cálculo de química nuclear.",
+            "d": "Teorias avançadas sem contextualização."
+        },
+        "resposta": "b",
+        "explicacao": "A prova costuma abordar conteúdos básicos com foco em situações cotidianas e aplicação prática."
+    },
+    {
+        "pergunta": "É recomendável começar a resolução da prova Fatec por:",
+        "opcoes": {
+            "a": "A disciplina mais difícil.",
+            "b": "A redação, para garantir concentração no início.",
+            "c": "As questões mais fáceis ou da área de maior afinidade.",
+            "d": "Qualquer ordem, desde que se pule todas as difíceis."
+        },
+        "resposta": "c",
+        "explicacao": "Começar pelas áreas de maior domínio ajuda a ganhar confiança e administrar melhor o tempo."
+    },
+    {
+        "pergunta": "Os simulados específicos da Fatec são úteis porque:",
+        "opcoes": {
+            "a": "Imitam o formato da prova e ajudam a praticar com o tempo real.",
+            "b": "Têm gabarito automático apenas.",
+            "c": "São mais curtos e fáceis que a prova real.",
+            "d": "Têm perguntas idênticas às da prova oficial."
+        },
+        "resposta": "a",
+        "explicacao": "Simulados oferecem experiência próxima da prova, permitindo treino de tempo, formato e conteúdo."
+    },
+    {
+        "pergunta": "A Fatec considera a nota da redação como:",
+        "opcoes": {
+            "a": "Desempate apenas.",
+            "b": "Elemento opcional.",
+            "c": "Parte essencial da nota final.",
+            "d": "Exclusiva para cursos de humanas."
+        },
+        "resposta": "c",
+        "explicacao": "A redação tem peso significativo na nota final do candidato e pode determinar sua classificação."
+    },
+    {
+        "pergunta": "Para garantir uma boa performance em interpretação de texto, é indicado:",
+        "opcoes": {
+            "a": "Decorar regras gramaticais.",
+            "b": "Praticar leitura crítica e resumir ideias principais.",
+            "c": "Ler textos apenas uma vez.",
+            "d": "Ignorar o contexto."
+        },
+        "resposta": "b",
+        "explicacao": "Compreender o texto como um todo e treinar a identificação de informações principais é essencial para boas respostas."
+    },
+    {
+        "pergunta": "Um diferencial na preparação para a Fatec é:",
+        "opcoes": {
+            "a": "Revisar apenas na véspera da prova.",
+            "b": "Estudar com base em provas anteriores e usar flashcards com questões comentadas.",
+            "c": "Focar apenas na redação.",
+            "d": "Fazer apenas cursinho presencial."
+        },
+        "resposta": "b",
+        "explicacao": "Estudar com provas anteriores e usar ferramentas como flashcards ajuda a fixar conteúdos e treinar interpretação e raciocínio."
+    }
+]

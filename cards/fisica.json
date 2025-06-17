@@ -1,0 +1,552 @@
+[
+    {
+        "pergunta": "O que é velocidade escalar média?",
+        "opcoes": {
+            "a": "A variação da aceleração ao longo do tempo",
+            "b": "A razão entre a distância percorrida e o tempo gasto",
+            "c": "A distância total dividida pelo tempo inicial",
+            "d": "A variação do espaço ao quadrado"
+        },
+        "resposta": "b",
+        "explicacao": "Velocidade escalar média é dada pela fórmula v = ΔS/Δt, ou seja, distância percorrida dividida pelo tempo gasto."
+    },
+    {
+        "pergunta": "O que acontece com um corpo em queda livre na ausência de resistência do ar?",
+        "opcoes": {
+            "a": "Ele para no meio do caminho",
+            "b": "Cai com velocidade constante",
+            "c": "Cai com aceleração constante",
+            "d": "Sobe antes de cair"
+        },
+        "resposta": "c",
+        "explicacao": "Em queda livre sem resistência do ar, o corpo acelera constantemente devido à gravidade, com aceleração de aproximadamente 9,8 m/s²."
+    },
+    {
+        "pergunta": "Qual a unidade de trabalho no Sistema Internacional?",
+        "opcoes": {
+            "a": "Newton",
+            "b": "Joule",
+            "c": "Watt",
+            "d": "Pascal"
+        },
+        "resposta": "b",
+        "explicacao": "A unidade de trabalho no SI é o Joule (J), que representa a energia transferida quando uma força é aplicada a um corpo e causa deslocamento."
+    },
+    {
+        "pergunta": "Qual é a fórmula da 2ª Lei de Newton?",
+        "opcoes": {
+            "a": "F = m × a",
+            "b": "E = m × c²",
+            "c": "P = m × g",
+            "d": "V = s / t"
+        },
+        "resposta": "a",
+        "explicacao": "A 2ª Lei de Newton diz que a força resultante sobre um corpo é igual à massa vezes sua aceleração: F = m × a."
+    },
+    {
+        "pergunta": "O que é inércia?",
+        "opcoes": {
+            "a": "Capacidade de ganhar velocidade rapidamente",
+            "b": "Tendência dos corpos de permanecer em repouso ou em movimento uniforme",
+            "c": "Resistência dos corpos à atração gravitacional",
+            "d": "Capacidade de um corpo de cair livremente"
+        },
+        "resposta": "b",
+        "explicacao": "Inércia é a tendência de um corpo manter seu estado de movimento ou repouso, a menos que uma força externa atue sobre ele (1ª Lei de Newton)."
+    },
+    {
+        "pergunta": "Qual dessas grandezas é escalar?",
+        "opcoes": {
+            "a": "Velocidade",
+            "b": "Aceleração",
+            "c": "Força",
+            "d": "Temperatura"
+        },
+        "resposta": "d",
+        "explicacao": "Temperatura é uma grandeza escalar porque é completamente definida apenas por um valor numérico e uma unidade, sem direção ou sentido."
+    },
+    {
+        "pergunta": "O que é energia cinética?",
+        "opcoes": {
+            "a": "Energia armazenada em uma mola",
+            "b": "Energia de um corpo devido à sua velocidade",
+            "c": "Energia acumulada em repouso",
+            "d": "Energia térmica de um corpo"
+        },
+        "resposta": "b",
+        "explicacao": "Energia cinética é a energia associada ao movimento de um corpo e depende da sua massa e velocidade (Ec = ½mv²)."
+    },
+    {
+        "pergunta": "O que é impulso?",
+        "opcoes": {
+            "a": "Força que mantém um corpo em repouso",
+            "b": "Produto da força pela variação do tempo em que ela atua",
+            "c": "Força gravitacional",
+            "d": "Soma da massa com a aceleração"
+        },
+        "resposta": "b",
+        "explicacao": "Impulso é o produto da força aplicada em um corpo pelo tempo de aplicação dessa força: I = F × Δt."
+    },
+    {
+        "pergunta": "O que é uma onda mecânica?",
+        "opcoes": {
+            "a": "Uma onda que se propaga no vácuo",
+            "b": "Uma vibração que precisa de um meio material para se propagar",
+            "c": "Uma radiação eletromagnética",
+            "d": "Uma onda de rádio"
+        },
+        "resposta": "b",
+        "explicacao": "Onda mecânica necessita de um meio material para se propagar, como o som ou as ondas em cordas."
+    },
+    {
+        "pergunta": "Qual é a unidade de potência no Sistema Internacional?",
+        "opcoes": {
+            "a": "Joule",
+            "b": "Newton",
+            "c": "Watt",
+            "d": "Pascal"
+        },
+        "resposta": "c",
+        "explicacao": "A potência mede a quantidade de energia transferida por unidade de tempo e sua unidade no SI é o Watt (W)."
+    },
+    {
+        "pergunta": "Qual a fórmula da energia potencial gravitacional?",
+        "opcoes": {
+            "a": "Epg = m × g × h",
+            "b": "Epg = m × v²",
+            "c": "Epg = m / h",
+            "d": "Epg = g / m"
+        },
+        "resposta": "a",
+        "explicacao": "A energia potencial gravitacional é dada pela fórmula Epg = m × g × h, onde m é a massa, g é a gravidade e h é a altura."
+    },
+    {
+        "pergunta": "Qual o valor aproximado da aceleração da gravidade na Terra?",
+        "opcoes": {
+            "a": "1 m/s²",
+            "b": "5 m/s²",
+            "c": "9,8 m/s²",
+            "d": "20 m/s²"
+        },
+        "resposta": "c",
+        "explicacao": "A aceleração da gravidade na Terra é aproximadamente 9,8 metros por segundo ao quadrado (m/s²)."
+    },
+    {
+        "pergunta": "Como é calculada a densidade de um corpo?",
+        "opcoes": {
+            "a": "D = massa + volume",
+            "b": "D = volume / massa",
+            "c": "D = massa / volume",
+            "d": "D = peso × volume"
+        },
+        "resposta": "c",
+        "explicacao": "A densidade é dada pela razão entre a massa e o volume de um corpo: D = m / V."
+    },
+    {
+        "pergunta": "O que caracteriza um movimento uniformemente variado (MUV)?",
+        "opcoes": {
+            "a": "Velocidade constante",
+            "b": "Aceleração constante",
+            "c": "Aceleração variável",
+            "d": "Ausência de força"
+        },
+        "resposta": "b",
+        "explicacao": "No MUV, a aceleração é constante e a velocidade varia uniformemente com o tempo."
+    },
+    {
+        "pergunta": "O que é ressonância?",
+        "opcoes": {
+            "a": "Perda de energia por atrito",
+            "b": "Aumento da frequência de vibração por interferência externa",
+            "c": "Redução da amplitude de uma onda",
+            "d": "Frequência constante em todas as ondas"
+        },
+        "resposta": "b",
+        "explicacao": "Ressonância ocorre quando um sistema oscila com maior amplitude ao receber energia numa frequência igual à sua frequência natural."
+    },
+    {
+        "pergunta": "Qual das alternativas representa uma unidade de pressão no SI?",
+        "opcoes": {
+            "a": "Watt",
+            "b": "Joule",
+            "c": "Pascal",
+            "d": "Newton"
+        },
+        "resposta": "c",
+        "explicacao": "A unidade de pressão no Sistema Internacional é o Pascal (Pa), que equivale a N/m² (Newton por metro quadrado)."
+    },
+    {
+        "pergunta": "Qual dessas grandezas é vetorial?",
+        "opcoes": {
+            "a": "Massa",
+            "b": "Temperatura",
+            "c": "Energia",
+            "d": "Velocidade"
+        },
+        "resposta": "d",
+        "explicacao": "Velocidade é uma grandeza vetorial, pois possui módulo, direção e sentido."
+    },
+    {
+        "pergunta": "O que é refração da luz?",
+        "opcoes": {
+            "a": "Mudança de direção da luz ao refletir em um espelho",
+            "b": "Separação da luz branca em cores",
+            "c": "Mudança na velocidade e direção da luz ao passar de um meio para outro",
+            "d": "Desvio da luz por obstáculos pequenos"
+        },
+        "resposta": "c",
+        "explicacao": "Refração é a mudança na velocidade e direção da luz ao passar de um meio para outro com densidade diferente."
+    },
+    {
+        "pergunta": "Qual dessas grandezas é conservada em um sistema isolado de colisões elásticas?",
+        "opcoes": {
+            "a": "Energia potencial",
+            "b": "Impulso",
+            "c": "Energia cinética e quantidade de movimento",
+            "d": "Aceleração"
+        },
+        "resposta": "c",
+        "explicacao": "Em colisões elásticas, tanto a energia cinética quanto a quantidade de movimento são conservadas."
+    },
+    {
+        "pergunta": "O que é trabalho na Física?",
+        "opcoes": {
+            "a": "Força aplicada sem deslocamento",
+            "b": "Produto da força pelo deslocamento na direção da força",
+            "c": "Potência aplicada durante um segundo",
+            "d": "Quantidade de calor transferida"
+        },
+        "resposta": "b",
+        "explicacao": "Trabalho é o produto da força aplicada por um corpo e o deslocamento produzido na direção dessa força: W = F × d."
+    },
+    {
+        "pergunta": "Qual é a equação da Lei de Ohm?",
+        "opcoes": {
+            "a": "V = R / I",
+            "b": "R = V × I",
+            "c": "V = R × I",
+            "d": "I = V × R"
+        },
+        "resposta": "c",
+        "explicacao": "A Lei de Ohm estabelece que a tensão (V) é igual ao produto da resistência (R) pela corrente (I): V = R × I."
+    },
+    {
+        "pergunta": "Em qual situação a força centrípeta atua?",
+        "opcoes": {
+            "a": "Corpo em queda livre",
+            "b": "Corpo em movimento retilíneo uniforme",
+            "c": "Corpo em movimento circular",
+            "d": "Corpo parado"
+        },
+        "resposta": "c",
+        "explicacao": "A força centrípeta é necessária para manter um corpo em movimento circular, sempre apontando para o centro da trajetória."
+    },
+    {
+        "pergunta": "O que determina a intensidade de uma corrente elétrica?",
+        "opcoes": {
+            "a": "Quantidade de energia transportada",
+            "b": "Quantidade de carga elétrica que passa por um ponto em um intervalo de tempo",
+            "c": "Potência dissipada pelo circuito",
+            "d": "Número de resistores em série"
+        },
+        "resposta": "b",
+        "explicacao": "A intensidade da corrente elétrica é a razão entre a carga elétrica que passa e o tempo: I = Q / t."
+    },
+    {
+        "pergunta": "Como se calcula a potência elétrica dissipada em um resistor?",
+        "opcoes": {
+            "a": "P = I / R",
+            "b": "P = V / R",
+            "c": "P = V × I",
+            "d": "P = V - I"
+        },
+        "resposta": "c",
+        "explicacao": "A potência dissipada em um resistor é dada por P = V × I, onde V é a tensão e I é a corrente elétrica."
+    },
+    {
+        "pergunta": "O que é efeito Joule?",
+        "opcoes": {
+            "a": "Produção de corrente por campo magnético",
+            "b": "Transformação de energia elétrica em energia térmica",
+            "c": "Conversão de energia térmica em energia elétrica",
+            "d": "Geração de luz a partir de energia térmica"
+        },
+        "resposta": "b",
+        "explicacao": "O efeito Joule é a transformação de energia elétrica em calor quando a corrente elétrica passa por um condutor com resistência."
+    },
+    {
+        "pergunta": "Qual é a unidade de medida da carga elétrica no SI?",
+        "opcoes": {
+            "a": "Volt",
+            "b": "Coulomb",
+            "c": "Ampère",
+            "d": "Ohm"
+        },
+        "resposta": "b",
+        "explicacao": "A unidade padrão de carga elétrica no Sistema Internacional é o Coulomb (C)."
+    },
+    {
+        "pergunta": "O que acontece com a resistência equivalente ao ligar dois resistores em paralelo?",
+        "opcoes": {
+            "a": "Aumenta",
+            "b": "Diminui",
+            "c": "Permanece a mesma",
+            "d": "É igual à soma dos resistores"
+        },
+        "resposta": "b",
+        "explicacao": "Ao ligar resistores em paralelo, a resistência equivalente diminui, sendo sempre menor que a menor resistência individual."
+    },
+    {
+        "pergunta": "Qual é a fórmula da velocidade escalar média?",
+        "opcoes": {
+            "a": "v = Δs / Δt",
+            "b": "v = s × t",
+            "c": "v = Δt / Δs",
+            "d": "v = s² / t"
+        },
+        "resposta": "a",
+        "explicacao": "A velocidade escalar média é calculada pela razão entre o deslocamento (Δs) e o tempo decorrido (Δt)."
+    },
+    {
+        "pergunta": "Qual das situações representa um movimento uniformemente variado?",
+        "opcoes": {
+            "a": "Carro em velocidade constante",
+            "b": "Objeto em queda livre sem resistência do ar",
+            "c": "Pessoa parada",
+            "d": "Bicicleta descendo uma ladeira sem pedalar"
+        },
+        "resposta": "b",
+        "explicacao": "Queda livre (sem resistência do ar) é um exemplo de movimento uniformemente variado, pois a aceleração (gravidade) é constante."
+    },
+    {
+        "pergunta": "Qual o nome do fenômeno de propagação de ondas ao contornar obstáculos?",
+        "opcoes": {
+            "a": "Refração",
+            "b": "Reflexão",
+            "c": "Interferência",
+            "d": "Difração"
+        },
+        "resposta": "d",
+        "explicacao": "Difração é a capacidade das ondas de contornar obstáculos ou se propagarem por frestas."
+    },
+    {
+        "pergunta": "Qual é a constante da gravidade na Terra utilizada nos cálculos?",
+        "opcoes": {
+            "a": "8,8 m/s²",
+            "b": "9,8 m/s²",
+            "c": "10,8 m/s²",
+            "d": "12 m/s²"
+        },
+        "resposta": "b",
+        "explicacao": "A aceleração da gravidade na Terra, usada em cálculos, é aproximadamente 9,8 m/s²."
+    },
+    {
+        "pergunta": "Qual é a unidade de medida da energia no Sistema Internacional?",
+        "opcoes": {
+            "a": "Joule",
+            "b": "Watt",
+            "c": "Newton",
+            "d": "Pascal"
+        },
+        "resposta": "a",
+        "explicacao": "A energia é medida em Joules (J), que equivale a 1 Newton × metro."
+    },
+    {
+        "pergunta": "O que é necessário para que haja trabalho mecânico?",
+        "opcoes": {
+            "a": "Apenas força",
+            "b": "Apenas deslocamento",
+            "c": "Força e deslocamento na mesma direção",
+            "d": "Força e massa"
+        },
+        "resposta": "c",
+        "explicacao": "Para que haja trabalho mecânico, é necessário que uma força provoque deslocamento na mesma direção dessa força."
+    },
+    {
+        "pergunta": "Qual das alternativas representa energia cinética?",
+        "opcoes": {
+            "a": "Energia armazenada em uma mola comprimida",
+            "b": "Energia de um objeto em movimento",
+            "c": "Energia contida no alimento",
+            "d": "Energia elétrica acumulada em uma bateria"
+        },
+        "resposta": "b",
+        "explicacao": "Energia cinética é a energia relacionada ao movimento de um corpo."
+    },
+    {
+        "pergunta": "Qual é a fórmula da energia cinética?",
+        "opcoes": {
+            "a": "Ec = m × g × h",
+            "b": "Ec = 1/2 × m × v²",
+            "c": "Ec = m × a",
+            "d": "Ec = F × d"
+        },
+        "resposta": "b",
+        "explicacao": "A energia cinética é calculada pela fórmula: Ec = 1/2 × massa × velocidade ao quadrado."
+    },
+    {
+        "pergunta": "O que é energia potencial gravitacional?",
+        "opcoes": {
+            "a": "Energia de um corpo em movimento",
+            "b": "Energia armazenada em uma mola",
+            "c": "Energia de posição em relação ao solo",
+            "d": "Energia elétrica acumulada"
+        },
+        "resposta": "c",
+        "explicacao": "Energia potencial gravitacional é a energia que um corpo possui devido à sua altura em relação a um ponto de referência, geralmente o solo."
+    },
+    {
+        "pergunta": "Qual é a fórmula da energia potencial gravitacional?",
+        "opcoes": {
+            "a": "Ep = m × g × h",
+            "b": "Ep = 1/2 × m × v²",
+            "c": "Ep = F × d",
+            "d": "Ep = m × a"
+        },
+        "resposta": "a",
+        "explicacao": "A energia potencial gravitacional é dada por Ep = massa × gravidade × altura (Ep = m × g × h)."
+    },
+    {
+        "pergunta": "O que é a lei da conservação de energia?",
+        "opcoes": {
+            "a": "Energia não pode ser criada, apenas destruída",
+            "b": "Energia é infinita",
+            "c": "Energia pode ser criada e destruída",
+            "d": "Energia não se cria nem se destrói, apenas se transforma"
+        },
+        "resposta": "d",
+        "explicacao": "Segundo a lei da conservação de energia, ela não pode ser criada nem destruída, apenas transformada de uma forma para outra."
+    },
+    {
+        "pergunta": "O que é potência em Física?",
+        "opcoes": {
+            "a": "Força aplicada em um objeto",
+            "b": "Energia gasta em um determinado tempo",
+            "c": "Velocidade de um objeto",
+            "d": "Quantidade de massa em movimento"
+        },
+        "resposta": "b",
+        "explicacao": "Potência é a quantidade de energia transformada ou consumida por unidade de tempo."
+    },
+    {
+        "pergunta": "Qual a unidade de potência no Sistema Internacional?",
+        "opcoes": {
+            "a": "Joule",
+            "b": "Watt",
+            "c": "Newton",
+            "d": "Pascal"
+        },
+        "resposta": "b",
+        "explicacao": "A unidade de potência no SI é o Watt (W), que equivale a Joule por segundo (J/s)."
+    },
+    {
+        "pergunta": "O que significa dizer que um corpo está em equilíbrio estático?",
+        "opcoes": {
+            "a": "Está se movendo com velocidade constante",
+            "b": "Está acelerando",
+            "c": "Está em repouso com forças resultantes nulas",
+            "d": "Está sob ação de uma única força"
+        },
+        "resposta": "c",
+        "explicacao": "Equilíbrio estático ocorre quando o corpo está em repouso e a soma das forças atuando nele é zero."
+    },
+    {
+        "pergunta": "A força centrípeta atua em que direção?",
+        "opcoes": {
+            "a": "Tangente ao movimento",
+            "b": "No sentido do movimento",
+            "c": "No sentido contrário ao movimento",
+            "d": "Em direção ao centro da trajetória circular"
+        },
+        "resposta": "d",
+        "explicacao": "A força centrípeta é a responsável por manter um corpo em movimento circular e sempre aponta para o centro da trajetória."
+    },
+    {
+        "pergunta": "O que é movimento harmônico simples (MHS)?",
+        "opcoes": {
+            "a": "Movimento uniforme e constante",
+            "b": "Movimento oscilatório periódico em torno de um ponto de equilíbrio",
+            "c": "Movimento retilíneo acelerado",
+            "d": "Movimento circular uniforme"
+        },
+        "resposta": "b",
+        "explicacao": "O MHS é um movimento oscilatório que ocorre em torno de um ponto de equilíbrio, como o de um pêndulo ou mola."
+    },
+    {
+        "pergunta": "Qual é a fórmula da força elástica de uma mola (Lei de Hooke)?",
+        "opcoes": {
+            "a": "F = m × a",
+            "b": "F = k × x",
+            "c": "F = m × g",
+            "d": "F = v × t"
+        },
+        "resposta": "b",
+        "explicacao": "A força elástica é dada pela Lei de Hooke: F = constante elástica (k) × deformação (x)."
+    },
+    {
+        "pergunta": "Quando um corpo está em queda livre, qual é a única força que atua sobre ele (desconsiderando a resistência do ar)?",
+        "opcoes": {
+            "a": "Força elástica",
+            "b": "Força centrífuga",
+            "c": "Força de atrito",
+            "d": "Força gravitacional"
+        },
+        "resposta": "d",
+        "explicacao": "Na queda livre, a única força atuante sobre o corpo é a força gravitacional."
+    },
+    {
+        "pergunta": "O que é impulso em Física?",
+        "opcoes": {
+            "a": "A variação da posição de um corpo",
+            "b": "A força dividida pelo tempo",
+            "c": "O produto da força pelo intervalo de tempo em que ela atua",
+            "d": "A força que mantém um corpo em equilíbrio"
+        },
+        "resposta": "c",
+        "explicacao": "Impulso é definido como o produto da força pelo tempo em que ela é aplicada: I = F × Δt."
+    },
+    {
+        "pergunta": "Qual grandeza é alterada quando se aplica um impulso sobre um corpo?",
+        "opcoes": {
+            "a": "Massa",
+            "b": "Velocidade escalar média",
+            "c": "Quantidade de movimento",
+            "d": "Aceleração centrípeta"
+        },
+        "resposta": "c",
+        "explicacao": "O impulso provoca uma variação na quantidade de movimento (ou momento linear) de um corpo."
+    },
+    {
+        "pergunta": "A quantidade de movimento é calculada por qual fórmula?",
+        "opcoes": {
+            "a": "Q = m × a",
+            "b": "Q = m × v",
+            "c": "Q = F × d",
+            "d": "Q = v × t"
+        },
+        "resposta": "b",
+        "explicacao": "A quantidade de movimento (ou momento linear) é dada por Q = massa × velocidade (Q = m × v)."
+    },
+    {
+        "pergunta": "O que é colisão elástica?",
+        "opcoes": {
+            "a": "Colisão em que há perda de massa",
+            "b": "Colisão em que há perda de energia",
+            "c": "Colisão em que se conservam a energia cinética e a quantidade de movimento",
+            "d": "Colisão em que os corpos permanecem juntos após o choque"
+        },
+        "resposta": "c",
+        "explicacao": "Na colisão elástica, tanto a quantidade de movimento quanto a energia cinética são conservadas."
+    },
+    {
+        "pergunta": "Qual é a aceleração da gravidade média na superfície da Terra?",
+        "opcoes": {
+            "a": "8,81 m/s²",
+            "b": "9,8 m/s²",
+            "c": "10,5 m/s²",
+            "d": "7,5 m/s²"
+        },
+        "resposta": "b",
+        "explicacao": "A aceleração da gravidade na superfície terrestre é, em média, 9,8 metros por segundo ao quadrado (m/s²)."
+    }
+]

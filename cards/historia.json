@@ -1,0 +1,552 @@
+[
+    {
+        "pergunta": "Qual foi o principal objetivo das Grandes Navegações no século XV?",
+        "opcoes": {
+            "a": "Expandir o cristianismo pelo mundo",
+            "b": "Descobrir novas terras por curiosidade",
+            "c": "Buscar novas rotas comerciais para as Índias",
+            "d": "Conquistar territórios para turismo"
+        },
+        "resposta": "c",
+        "explicacao": "As Grandes Navegações tinham como objetivo encontrar novas rotas para as Índias, visando o comércio de especiarias, ouro e outros produtos valiosos."
+    },
+    {
+        "pergunta": "Qual foi o acontecimento que marcou o início da Idade Moderna?",
+        "opcoes": {
+            "a": "Queda de Roma",
+            "b": "Queda de Constantinopla",
+            "c": "Descobrimento da América",
+            "d": "Início da Revolução Industrial"
+        },
+        "resposta": "b",
+        "explicacao": "A Queda de Constantinopla em 1453 é considerada o marco do fim da Idade Média e o início da Idade Moderna."
+    },
+    {
+        "pergunta": "Quem liderou a independência do Haiti, o primeiro país da América Latina a se tornar independente?",
+        "opcoes": {
+            "a": "Simón Bolívar",
+            "b": "Napoleão Bonaparte",
+            "c": "Toussaint Louverture",
+            "d": "Dom Pedro I"
+        },
+        "resposta": "c",
+        "explicacao": "Toussaint Louverture liderou a revolta dos escravizados e foi essencial na independência do Haiti em 1804, a primeira do continente latino-americano."
+    },
+    {
+        "pergunta": "O que foi a Revolução Francesa?",
+        "opcoes": {
+            "a": "A tomada de poder pelos nobres",
+            "b": "Um movimento monárquico",
+            "c": "Uma revolta da burguesia contra os privilégios do Antigo Regime",
+            "d": "A invasão da França por Napoleão"
+        },
+        "resposta": "c",
+        "explicacao": "A Revolução Francesa (1789) foi um movimento social e político que derrubou a monarquia absolutista e o sistema de privilégios do Antigo Regime."
+    },
+    {
+        "pergunta": "Qual foi o tratado que pôs fim à Primeira Guerra Mundial?",
+        "opcoes": {
+            "a": "Tratado de Tordesilhas",
+            "b": "Tratado de Paris",
+            "c": "Tratado de Versalhes",
+            "d": "Tratado de Viena"
+        },
+        "resposta": "c",
+        "explicacao": "O Tratado de Versalhes, assinado em 1919, impôs duras sanções à Alemanha e pôs fim à Primeira Guerra Mundial."
+    },
+    {
+        "pergunta": "O que foi a Revolução Industrial?",
+        "opcoes": {
+            "a": "Uma revolta popular contra os impostos",
+            "b": "A mecanização da produção e mudanças econômicas e sociais",
+            "c": "A substituição da agricultura pela pesca",
+            "d": "Uma revolução contra o feudalismo"
+        },
+        "resposta": "b",
+        "explicacao": "A Revolução Industrial foi um processo iniciado na Inglaterra no século XVIII, caracterizado pela substituição do trabalho manual por máquinas, transformando a economia e a sociedade."
+    },
+    {
+        "pergunta": "Qual foi a principal causa da Segunda Guerra Mundial?",
+        "opcoes": {
+            "a": "A independência da Índia",
+            "b": "O assassinato do arquiduque Francisco Ferdinando",
+            "c": "As sanções do Tratado de Versalhes e o avanço do nazismo",
+            "d": "A crise do petróleo"
+        },
+        "resposta": "c",
+        "explicacao": "A Segunda Guerra Mundial teve como causas principais as duras imposições do Tratado de Versalhes, a ascensão do nazismo e o expansionismo alemão."
+    },
+    {
+        "pergunta": "Qual foi a importância da abolição da escravidão no Brasil em 1888?",
+        "opcoes": {
+            "a": "Gerou igualdade social imediata",
+            "b": "Eliminou o trabalho informal",
+            "c": "Foi um marco legal, mas não garantiu inclusão social aos ex-escravizados",
+            "d": "Fortaleceu o sistema colonial"
+        },
+        "resposta": "c",
+        "explicacao": "A abolição da escravidão foi um avanço legal, mas os ex-escravizados continuaram sem acesso a terra, educação ou emprego, permanecendo à margem da sociedade."
+    },
+    {
+        "pergunta": "Quem proclamou a independência do Brasil?",
+        "opcoes": {
+            "a": "Dom Pedro I",
+            "b": "Dom João VI",
+            "c": "Getúlio Vargas",
+            "d": "Tiradentes"
+        },
+        "resposta": "a",
+        "explicacao": "Dom Pedro I proclamou a independência do Brasil em 7 de setembro de 1822 às margens do Rio Ipiranga."
+    },
+    {
+        "pergunta": "O que foi a Guerra Fria?",
+        "opcoes": {
+            "a": "Conflito militar direto entre EUA e URSS",
+            "b": "Período de tensão ideológica, política e econômica entre EUA e URSS",
+            "c": "Guerra civil nos Estados Unidos",
+            "d": "Conflito entre países europeus e africanos"
+        },
+        "resposta": "b",
+        "explicacao": "A Guerra Fria foi uma disputa entre os EUA (capitalista) e a URSS (socialista), marcada por corrida armamentista, espionagem e guerras indiretas."
+    },
+    {
+        "pergunta": "Qual foi o papel de Getúlio Vargas na história do Brasil?",
+        "opcoes": {
+            "a": "Fundou a República Velha",
+            "b": "Liderou o movimento abolicionista",
+            "c": "Implantou o Estado Novo e promoveu modernizações trabalhistas",
+            "d": "Declarou guerra à Inglaterra"
+        },
+        "resposta": "c",
+        "explicacao": "Getúlio Vargas governou o Brasil entre 1930 e 1945 e entre 1951 e 1954, destacando-se pelo Estado Novo e por criar leis trabalhistas importantes."
+    },
+    {
+        "pergunta": "O que foi o Iluminismo?",
+        "opcoes": {
+            "a": "Movimento artístico da Idade Média",
+            "b": "Doutrina religiosa medieval",
+            "c": "Movimento intelectual que valorizava a razão e criticava o absolutismo",
+            "d": "Revolta camponesa contra o capitalismo"
+        },
+        "resposta": "c",
+        "explicacao": "O Iluminismo foi um movimento do século XVIII que defendia o uso da razão, o progresso, a liberdade e o fim dos privilégios da nobreza e do clero."
+    },
+    {
+        "pergunta": "Quem foram os jesuítas no período colonial brasileiro?",
+        "opcoes": {
+            "a": "Comerciantes portugueses",
+            "b": "Exploradores de ouro",
+            "c": "Missionários que catequizavam indígenas",
+            "d": "Militares contratados pela coroa"
+        },
+        "resposta": "c",
+        "explicacao": "Os jesuítas eram religiosos da Companhia de Jesus, com a missão de catequizar os indígenas e defender a cultura cristã no Brasil Colônia."
+    },
+    {
+        "pergunta": "Qual evento marcou o fim da monarquia no Brasil?",
+        "opcoes": {
+            "a": "A Proclamação da República em 1889",
+            "b": "A Independência em 1822",
+            "c": "A assinatura da Lei Áurea",
+            "d": "A Revolução de 1930"
+        },
+        "resposta": "a",
+        "explicacao": "A Proclamação da República, em 15 de novembro de 1889, encerrou o período monárquico no Brasil, substituindo-o por um regime republicano."
+    },
+    {
+        "pergunta": "O que foi o Tratado de Tordesilhas?",
+        "opcoes": {
+            "a": "Tratado entre Brasil e Argentina",
+            "b": "Acordo comercial entre colonos e indígenas",
+            "c": "Divisão das terras americanas entre Portugal e Espanha",
+            "d": "Contrato de exploração de ouro no Brasil"
+        },
+        "resposta": "c",
+        "explicacao": "Assinado em 1494, o Tratado de Tordesilhas dividia as terras recém-descobertas entre Portugal e Espanha, com uma linha imaginária a 370 léguas a oeste de Cabo Verde."
+    },
+    {
+        "pergunta": "Qual foi o principal objetivo da Inconfidência Mineira?",
+        "opcoes": {
+            "a": "Proclamar a independência do Brasil",
+            "b": "Abolir a escravidão",
+            "c": "Reclamar contra a cobrança de impostos pela Coroa portuguesa",
+            "d": "Criar uma república socialista"
+        },
+        "resposta": "c",
+        "explicacao": "A Inconfidência Mineira foi um movimento do final do século XVIII que protestava contra a alta carga tributária imposta por Portugal, especialmente a derrama."
+    },
+    {
+        "pergunta": "Quem foi Zumbi dos Palmares?",
+        "opcoes": {
+            "a": "Imperador do Brasil",
+            "b": "Líder indígena contra a colonização",
+            "c": "Líder do Quilombo dos Palmares",
+            "d": "Rei africano que colonizou o Brasil"
+        },
+        "resposta": "c",
+        "explicacao": "Zumbi foi o principal líder do Quilombo dos Palmares, símbolo da resistência negra contra a escravidão no Brasil."
+    },
+    {
+        "pergunta": "A Guerra Fria foi caracterizada por:",
+        "opcoes": {
+            "a": "Conflito armado entre EUA e URSS",
+            "b": "Disputa ideológica e política entre EUA e URSS",
+            "c": "Domínio colonial europeu",
+            "d": "Guerras civis na América Latina"
+        },
+        "resposta": "b",
+        "explicacao": "A Guerra Fria foi um período de tensão política, ideológica e econômica entre os EUA (capitalista) e URSS (socialista), sem confronto militar direto entre as duas potências."
+    },
+    {
+        "pergunta": "Qual foi o impacto da Revolução Industrial no século XIX?",
+        "opcoes": {
+            "a": "Retorno à produção artesanal",
+            "b": "Crescimento da escravidão",
+            "c": "Urbanização e avanço tecnológico",
+            "d": "Feudalização da Europa"
+        },
+        "resposta": "c",
+        "explicacao": "A Revolução Industrial provocou profundas mudanças econômicas e sociais, como o êxodo rural, urbanização, mecanização da produção e surgimento do proletariado."
+    },
+    {
+        "pergunta": "O que foi a Revolução Francesa?",
+        "opcoes": {
+            "a": "Um movimento pela independência das colônias",
+            "b": "Movimento revolucionário que derrubou a monarquia absolutista",
+            "c": "Expansão do império napoleônico",
+            "d": "Aliança entre França e Inglaterra contra o feudalismo"
+        },
+        "resposta": "b",
+        "explicacao": "A Revolução Francesa (1789) representou o fim do absolutismo e o início de ideias de liberdade, igualdade e fraternidade na Europa moderna."
+    },
+    {
+        "pergunta": "Qual foi a principal causa da Primeira Guerra Mundial?",
+        "opcoes": {
+            "a": "Conflitos religiosos na Europa",
+            "b": "Disputa territorial entre EUA e Japão",
+            "c": "Imperialismo, nacionalismo e alianças militares",
+            "d": "Crise financeira mundial"
+        },
+        "resposta": "c",
+        "explicacao": "A Primeira Guerra Mundial foi causada por uma combinação de fatores como o imperialismo, o nacionalismo exacerbado e alianças entre potências europeias que aumentaram as tensões."
+    },
+    {
+        "pergunta": "O que representou a queda do Muro de Berlim em 1989?",
+        "opcoes": {
+            "a": "Fim do comunismo mundial",
+            "b": "Divisão definitiva da Alemanha",
+            "c": "Reunificação da Europa Oriental",
+            "d": "Símbolo do fim da Guerra Fria e do regime comunista na Alemanha Oriental"
+        },
+        "resposta": "d",
+        "explicacao": "A queda do Muro de Berlim marcou o colapso do regime comunista na Alemanha Oriental e o fim da divisão entre as Alemanhas, simbolizando o término da Guerra Fria."
+    },
+    {
+        "pergunta": "Qual foi o papel dos bandeirantes na colonização do Brasil?",
+        "opcoes": {
+            "a": "Combater invasores europeus",
+            "b": "Organizar o comércio de escravos africanos",
+            "c": "Expandir o território e capturar indígenas",
+            "d": "Fundar universidades coloniais"
+        },
+        "resposta": "c",
+        "explicacao": "Os bandeirantes exploravam o interior do Brasil, contribuindo para a expansão territorial da colônia e atuando na captura de indígenas para o trabalho forçado."
+    },
+    {
+        "pergunta": "O que foi o Iluminismo?",
+        "opcoes": {
+            "a": "Movimento artístico do século XV",
+            "b": "Ideologia religiosa medieval",
+            "c": "Movimento intelectual que defendia razão e liberdade",
+            "d": "Grupo militar revolucionário"
+        },
+        "resposta": "c",
+        "explicacao": "O Iluminismo foi um movimento intelectual que surgiu no século XVIII e valorizava a razão, a ciência e a liberdade como instrumentos para transformar a sociedade."
+    },
+    {
+        "pergunta": "Quem foi Tiradentes na história do Brasil?",
+        "opcoes": {
+            "a": "Imperador do Brasil",
+            "b": "Líder da Revolta da Vacina",
+            "c": "Figura central da Inconfidência Mineira",
+            "d": "Presidente da Primeira República"
+        },
+        "resposta": "c",
+        "explicacao": "Tiradentes foi o principal líder da Inconfidência Mineira, movimento que buscava a independência de Minas Gerais e que resultou em sua execução pela Coroa portuguesa."
+    },
+    {
+        "pergunta": "Qual foi o impacto da Revolução Industrial na sociedade europeia?",
+        "opcoes": {
+            "a": "Fortalecimento do poder feudal",
+            "b": "Redução das desigualdades sociais",
+            "c": "Urbanização e surgimento do proletariado",
+            "d": "Retorno ao modelo agrário de produção"
+        },
+        "resposta": "c",
+        "explicacao": "A Revolução Industrial levou ao crescimento das cidades (urbanização) e ao surgimento do proletariado, a classe trabalhadora assalariada das fábricas."
+    },
+    {
+        "pergunta": "A escravidão no Brasil foi oficialmente abolida em que ano?",
+        "opcoes": {
+            "a": "1822",
+            "b": "1888",
+            "c": "1871",
+            "d": "1891"
+        },
+        "resposta": "b",
+        "explicacao": "A escravidão no Brasil foi abolida em 13 de maio de 1888 com a assinatura da Lei Áurea pela Princesa Isabel."
+    },
+    {
+        "pergunta": "Durante o Estado Novo (1937-1945), Getúlio Vargas governou o Brasil de forma:",
+        "opcoes": {
+            "a": "Democrática e parlamentar",
+            "b": "Autoritária e centralizadora",
+            "c": "Monárquica",
+            "d": "Federalista descentralizada"
+        },
+        "resposta": "b",
+        "explicacao": "O Estado Novo foi um regime ditatorial em que Getúlio Vargas concentrou o poder, censurou a imprensa e perseguiu opositores."
+    },
+    {
+        "pergunta": "O que foi o Tratado de Tordesilhas?",
+        "opcoes": {
+            "a": "Acordo comercial entre Portugal e Espanha",
+            "b": "Pacto entre potências para dividir a África",
+            "c": "Divisão das terras descobertas entre Portugal e Espanha",
+            "d": "Tratado que autorizava a escravidão"
+        },
+        "resposta": "c",
+        "explicacao": "Assinado em 1494, o Tratado de Tordesilhas dividia as terras descobertas fora da Europa entre Portugal e Espanha com base em um meridiano."
+    },
+    {
+        "pergunta": "Qual foi o motivo principal da Revolução Francesa?",
+        "opcoes": {
+            "a": "Dominação britânica na França",
+            "b": "Crise econômica e desigualdade social",
+            "c": "Conflitos religiosos entre católicos e protestantes",
+            "d": "Intervenção do Papa no governo francês"
+        },
+        "resposta": "b",
+        "explicacao": "A Revolução Francesa foi impulsionada pela grave crise econômica, a insatisfação popular com os privilégios do clero e da nobreza e a influência do Iluminismo."
+    },
+    {
+        "pergunta": "O que foi a Guerra Fria?",
+        "opcoes": {
+            "a": "Conflito militar direto entre EUA e URSS",
+            "b": "Período de tensão ideológica entre capitalismo e socialismo",
+            "c": "Aliança econômica entre países da OTAN",
+            "d": "Revolta das colônias contra os impérios europeus"
+        },
+        "resposta": "b",
+        "explicacao": "A Guerra Fria foi uma disputa política, ideológica e econômica entre os EUA (capitalismo) e URSS (socialismo), sem confronto militar direto entre as duas potências."
+    },
+    {
+        "pergunta": "A Inconfidência Mineira, ocorrida em 1789, foi um movimento:",
+        "opcoes": {
+            "a": "Religioso contra a Igreja Católica",
+            "b": "De caráter separatista e inspirado no Iluminismo",
+            "c": "A favor da manutenção da escravidão",
+            "d": "Organizado por comerciantes portugueses"
+        },
+        "resposta": "b",
+        "explicacao": "A Inconfidência Mineira foi um movimento separatista influenciado pelas ideias iluministas e pela independência dos EUA, com o objetivo de tornar Minas Gerais independente de Portugal."
+    },
+    {
+        "pergunta": "Qual era o nome do movimento que propunha a independência das colônias americanas no século XVIII?",
+        "opcoes": {
+            "a": "Movimento Abolicionista",
+            "b": "Movimento Iluminista",
+            "c": "Movimento de Emancipação",
+            "d": "Independência das Treze Colônias"
+        },
+        "resposta": "d",
+        "explicacao": "A Independência das Treze Colônias foi o movimento que levou à independência dos EUA do domínio britânico, em 1776."
+    },
+    {
+        "pergunta": "A expansão marítima europeia nos séculos XV e XVI foi motivada principalmente por:",
+        "opcoes": {
+            "a": "Busca por terras férteis",
+            "b": "Fuga de epidemias",
+            "c": "Interesse em novas rotas comerciais",
+            "d": "Propagação de religiões orientais"
+        },
+        "resposta": "c",
+        "explicacao": "A principal motivação para a expansão marítima europeia foi a busca por rotas alternativas de comércio com o Oriente, especialmente para especiarias e metais preciosos."
+    },
+    {
+        "pergunta": "Quem foi Tiradentes?",
+        "opcoes": {
+            "a": "Imperador do Brasil",
+            "b": "Militar e líder da Inconfidência Mineira",
+            "c": "Presidente da República Velha",
+            "d": "Organizador da Revolução de 1930"
+        },
+        "resposta": "b",
+        "explicacao": "Tiradentes foi um dos líderes da Inconfidência Mineira e é considerado um mártir da luta pela independência do Brasil em relação a Portugal."
+    },
+    {
+        "pergunta": "O que foi o Iluminismo?",
+        "opcoes": {
+            "a": "Uma doutrina religiosa medieval",
+            "b": "Movimento artístico do Renascimento",
+            "c": "Corrente filosófica que valorizava a razão e a liberdade",
+            "d": "Revolução socialista do século XIX"
+        },
+        "resposta": "c",
+        "explicacao": "O Iluminismo foi um movimento intelectual do século XVIII que defendia a razão, a ciência, a liberdade individual e a crítica aos poderes absolutistas."
+    },
+    {
+        "pergunta": "Qual foi a principal consequência da Revolução Francesa?",
+        "opcoes": {
+            "a": "Expansão do feudalismo",
+            "b": "Fortalecimento da monarquia absolutista",
+            "c": "Queda do absolutismo e difusão de ideais de liberdade",
+            "d": "Dominação da França por Napoleão desde o início"
+        },
+        "resposta": "c",
+        "explicacao": "A Revolução Francesa foi um marco na história da luta contra o absolutismo, promovendo a valorização da liberdade, igualdade e fraternidade."
+    },
+    {
+        "pergunta": "Durante o Estado Novo (1937–1945), Getúlio Vargas instaurou um governo de caráter:",
+        "opcoes": {
+            "a": "Liberal-democrático",
+            "b": "Parlamentarista",
+            "c": "Totalitário e centralizador",
+            "d": "Anarquista e descentralizado"
+        },
+        "resposta": "c",
+        "explicacao": "O Estado Novo foi um período autoritário da Era Vargas, com censura, repressão e concentração de poder nas mãos do presidente."
+    },
+    {
+        "pergunta": "A Lei Áurea, de 1888, teve como principal consequência:",
+        "opcoes": {
+            "a": "Fim da monarquia no Brasil",
+            "b": "Libertação oficial dos escravizados",
+            "c": "Início da imigração europeia",
+            "d": "Proclamação da República"
+        },
+        "resposta": "b",
+        "explicacao": "A Lei Áurea foi sancionada pela princesa Isabel em 1888 e aboliu oficialmente a escravidão no Brasil."
+    },
+    {
+        "pergunta": "Qual foi o papel da imprensa durante o período da Ditadura Militar no Brasil (1964–1985)?",
+        "opcoes": {
+            "a": "Atuação livre e crítica ao regime",
+            "b": "Censura e repressão aos meios de comunicação",
+            "c": "Apoio irrestrito à oposição armada",
+            "d": "Neutralidade total diante dos conflitos"
+        },
+        "resposta": "b",
+        "explicacao": "Durante a Ditadura Militar, a imprensa sofreu forte censura, com notícias sendo vetadas ou alteradas para atender aos interesses do regime."
+    },
+    {
+        "pergunta": "O que caracterizou o período conhecido como Guerra Fria?",
+        "opcoes": {
+            "a": "Conflito direto entre EUA e URSS",
+            "b": "Aliança política entre capitalistas e socialistas",
+            "c": "Disputa ideológica, militar e tecnológica entre EUA e URSS",
+            "d": "Domínio absoluto da ONU sobre os países-membros"
+        },
+        "resposta": "c",
+        "explicacao": "A Guerra Fria foi uma disputa entre EUA e URSS pela hegemonia mundial, marcada por corrida armamentista, espacial e conflitos indiretos."
+    },
+    {
+        "pergunta": "O que foi o Plano Marshall?",
+        "opcoes": {
+            "a": "Ajuda da URSS à Europa Oriental",
+            "b": "Projeto de espionagem soviético",
+            "c": "Plano econômico dos EUA para reconstrução da Europa",
+            "d": "Acordo entre EUA e China sobre comércio"
+        },
+        "resposta": "c",
+        "explicacao": "O Plano Marshall foi um programa dos EUA que forneceu ajuda econômica para reconstruir a Europa após a Segunda Guerra Mundial, freando o avanço do comunismo."
+    },
+    {
+        "pergunta": "Qual era o objetivo do movimento conhecido como Diretas Já?",
+        "opcoes": {
+            "a": "Impedir o voto popular",
+            "b": "Defender o AI-5",
+            "c": "Lutar pelo fim da escravidão",
+            "d": "Restaurar as eleições diretas para presidente no Brasil"
+        },
+        "resposta": "d",
+        "explicacao": "O movimento Diretas Já, nos anos 1980, lutava pela volta das eleições diretas para presidente, num contexto de redemocratização do Brasil."
+    },
+    {
+        "pergunta": "Qual foi o principal impacto da chegada da Família Real ao Brasil em 1808?",
+        "opcoes": {
+            "a": "Estabelecimento da capital em São Paulo",
+            "b": "Abertura dos portos às nações amigas",
+            "c": "Volta do sistema de capitanias hereditárias",
+            "d": "Proclamação da Independência"
+        },
+        "resposta": "b",
+        "explicacao": "A chegada da Família Real resultou na abertura dos portos brasileiros às nações amigas, encerrando o monopólio comercial português."
+    },
+    {
+        "pergunta": "O que foi o AI-5 durante a Ditadura Militar?",
+        "opcoes": {
+            "a": "Abertura imediata do regime militar",
+            "b": "Medida de anistia aos presos políticos",
+            "c": "Ato que intensificou a repressão política no Brasil",
+            "d": "Criação de uma nova Constituição"
+        },
+        "resposta": "c",
+        "explicacao": "O Ato Institucional nº 5, decretado em 1968, deu plenos poderes ao governo militar, intensificando a censura, a repressão e a suspensão de direitos civis."
+    },
+    {
+        "pergunta": "Qual foi o papel de Tiradentes na Inconfidência Mineira?",
+        "opcoes": {
+            "a": "Líder religioso contra a escravidão",
+            "b": "Principal articulador e mártir do movimento",
+            "c": "Aliado da Coroa portuguesa",
+            "d": "Fundador do Brasil Império"
+        },
+        "resposta": "b",
+        "explicacao": "Tiradentes foi um dos principais articuladores da Inconfidência Mineira, movimento contra a exploração portuguesa, sendo executado e transformado em mártir da causa."
+    },
+    {
+        "pergunta": "Qual foi o impacto do Tratado de Tordesilhas para o Brasil?",
+        "opcoes": {
+            "a": "Separação do Brasil em dois países",
+            "b": "Divisão das terras descobertas entre Portugal e Espanha",
+            "c": "Fim da colonização portuguesa",
+            "d": "União Ibérica"
+        },
+        "resposta": "b",
+        "explicacao": "O Tratado de Tordesilhas, de 1494, dividiu as terras do Novo Mundo entre Portugal e Espanha, garantindo ao Brasil a posse das terras a leste da linha imaginária."
+    },
+    {
+        "pergunta": "Qual foi a importância da Revolução de 1930 para a política brasileira?",
+        "opcoes": {
+            "a": "Reforço da política do café com leite",
+            "b": "Consolidação do regime militar",
+            "c": "Início da Era Vargas e fim da República Velha",
+            "d": "Independência do Brasil"
+        },
+        "resposta": "c",
+        "explicacao": "A Revolução de 1930 marcou o fim da República Velha e deu início ao governo de Getúlio Vargas, que implantou mudanças significativas no país."
+    },
+    {
+        "pergunta": "O que foi o feudalismo?",
+        "opcoes": {
+            "a": "Sistema econômico mercantil",
+            "b": "Organização econômica e social da Idade Moderna",
+            "c": "Sistema baseado em propriedades rurais, vassalagem e servidão",
+            "d": "Conjunto de leis gregas antigas"
+        },
+        "resposta": "c",
+        "explicacao": "O feudalismo foi um sistema da Idade Média caracterizado pela descentralização do poder, domínio de senhores feudais e trabalho servil dos camponeses."
+    },
+    {
+        "pergunta": "Qual foi o principal objetivo das Grandes Navegações europeias?",
+        "opcoes": {
+            "a": "Conquistar o Império Romano",
+            "b": "Encontrar novos caminhos para as Índias e expandir territórios",
+            "c": "Estabelecer alianças com a África",
+            "d": "Fugir das Cruzadas"
+        },
+        "resposta": "b",
+        "explicacao": "As Grandes Navegações buscavam novas rotas comerciais para as Índias e a expansão do domínio europeu sobre novas terras, marcando o início da colonização."
+    }
+]

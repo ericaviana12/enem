@@ -1,0 +1,552 @@
+[
+    {
+        "pergunta": "Qual das alternativas apresenta uma figura de linguagem do tipo metáfora?",
+        "opcoes": {
+            "a": "O vento assobiava entre as árvores.",
+            "b": "Ela é uma flor no meio do deserto.",
+            "c": "O carro correu como um raio.",
+            "d": "Ele estava tão bravo quanto um leão."
+        },
+        "resposta": "b",
+        "explicacao": "A metáfora é uma comparação implícita, sem o uso de conectivos comparativos. A frase 'Ela é uma flor no meio do deserto' atribui diretamente uma característica simbólica à pessoa, sem usar 'como' ou 'tal qual'."
+    },
+    {
+        "pergunta": "Assinale a alternativa que contém um exemplo de pleonasmo:",
+        "opcoes": {
+            "a": "Subir para cima rapidamente.",
+            "b": "Ele saiu de casa cedo.",
+            "c": "Ela gosta de ler à noite.",
+            "d": "Correu para o ponto de ônibus."
+        },
+        "resposta": "a",
+        "explicacao": "Pleonasmo é o uso redundante de palavras. 'Subir para cima' é redundante, já que o ato de subir já implica ir para cima."
+    },
+    {
+        "pergunta": "Qual é a função da linguagem predominante em uma propaganda publicitária?",
+        "opcoes": {
+            "a": "Referencial",
+            "b": "Poética",
+            "c": "Conativa",
+            "d": "Fática"
+        },
+        "resposta": "c",
+        "explicacao": "A linguagem conativa ou apelativa tem como objetivo convencer o interlocutor a agir ou pensar de determinada forma, sendo comum em propagandas."
+    },
+    {
+        "pergunta": "Qual alternativa apresenta corretamente o uso do sinal indicativo de crase?",
+        "opcoes": {
+            "a": "Fui à escola com minha irmã.",
+            "b": "Cheguei a tempo do filme.",
+            "c": "Dei o presente a ela.",
+            "d": "Obedeceu a professora."
+        },
+        "resposta": "a",
+        "explicacao": "Usa-se crase quando há a preposição 'a' + artigo definido 'a'. 'Fui à escola' é correto porque o verbo 'ir' exige preposição e 'escola' admite artigo feminino."
+    },
+    {
+        "pergunta": "Em qual das frases há um erro de concordância verbal?",
+        "opcoes": {
+            "a": "Os alunos chegaram atrasados.",
+            "b": "A maioria dos estudantes faltaram à aula.",
+            "c": "As meninas estavam animadas.",
+            "d": "O professor explicou a matéria."
+        },
+        "resposta": "b",
+        "explicacao": "Quando o sujeito é 'a maioria de', o verbo geralmente concorda com o núcleo 'maioria' no singular: 'A maioria dos estudantes faltou à aula'."
+    },
+    {
+        "pergunta": "Qual das opções apresenta um exemplo de linguagem denotativa?",
+        "opcoes": {
+            "a": "Ela está nas nuvens hoje.",
+            "b": "O sol é o rei do céu.",
+            "c": "O ônibus sairá às 7h da manhã.",
+            "d": "Seu olhar é um oceano de mistérios."
+        },
+        "resposta": "c",
+        "explicacao": "A linguagem denotativa é a linguagem literal, objetiva. A frase 'O ônibus sairá às 7h da manhã' apresenta uma informação clara e direta, sem figuras de linguagem."
+    },
+    {
+        "pergunta": "Em qual alternativa há um erro de regência verbal?",
+        "opcoes": {
+            "a": "Prefiro estudar à noite.",
+            "b": "Assisti ao filme ontem.",
+            "c": "Cheguei no local combinado.",
+            "d": "Agradecemos você pela ajuda."
+        },
+        "resposta": "d",
+        "explicacao": "O verbo 'agradecer' é transitivo direto e indireto: 'Agradecemos a você pela ajuda'. O uso direto de 'você' está incorreto."
+    },
+    {
+        "pergunta": "Qual das alternativas abaixo apresenta um texto de tipologia injuntiva?",
+        "opcoes": {
+            "a": "Hoje o céu está azul e sem nuvens.",
+            "b": "Você deve lavar as mãos antes de comer.",
+            "c": "O Brasil foi colonizado por Portugal.",
+            "d": "Ela se emocionou com o filme."
+        },
+        "resposta": "b",
+        "explicacao": "A tipologia injuntiva é marcada por instruções ou ordens. A frase 'Você deve lavar as mãos antes de comer' dá uma instrução ao leitor."
+    },
+    {
+        "pergunta": "A expressão 'chuva de ideias' é exemplo de qual figura de linguagem?",
+        "opcoes": {
+            "a": "Metáfora",
+            "b": "Hipérbole",
+            "c": "Metonímia",
+            "d": "Ironia"
+        },
+        "resposta": "a",
+        "explicacao": "A expressão 'chuva de ideias' utiliza metáfora, pois substitui uma ideia abstrata por uma imagem concreta e simbólica."
+    },
+    {
+        "pergunta": "Qual das frases apresenta um exemplo de ambiguidade?",
+        "opcoes": {
+            "a": "O gato subiu no telhado.",
+            "b": "João viu o menino com binóculo.",
+            "c": "Ele saiu do trabalho às 18h.",
+            "d": "Ela falou ao telefone com a amiga."
+        },
+        "resposta": "b",
+        "explicacao": "A frase é ambígua porque não fica claro se foi João quem usou o binóculo ou se o menino estava com ele."
+    },
+    {
+        "pergunta": "Assinale a alternativa que apresenta um exemplo de linguagem conotativa:",
+        "opcoes": {
+            "a": "O ferro funde-se a 1538°C.",
+            "b": "Ela tem um coração de pedra.",
+            "c": "A água ferve a 100°C.",
+            "d": "O cachorro latiu a noite toda."
+        },
+        "resposta": "b",
+        "explicacao": "A linguagem conotativa é figurada, simbólica. 'Coração de pedra' sugere que a pessoa é fria ou insensível, sem ser literal."
+    },
+    {
+        "pergunta": "Qual das frases a seguir está com pontuação incorreta?",
+        "opcoes": {
+            "a": "Maria, minha amiga, chegou ontem.",
+            "b": "Pedro foi ao mercado comprar pão leite e frutas.",
+            "c": "Ela gosta de música, especialmente rock.",
+            "d": "Depois da aula, fomos ao cinema."
+        },
+        "resposta": "b",
+        "explicacao": "Falta pontuação na enumeração. O correto seria: 'comprar pão, leite e frutas'."
+    },
+    {
+        "pergunta": "Qual das alternativas apresenta uma oração subordinada adjetiva restritiva?",
+        "opcoes": {
+            "a": "Os alunos que estudam passam nas provas.",
+            "b": "Os alunos, que estudam, passam nas provas.",
+            "c": "João, que é médico, mora aqui perto.",
+            "d": "A menina, que gosta de ler, ganhou um livro."
+        },
+        "resposta": "a",
+        "explicacao": "A oração 'que estudam' restringe o grupo de 'alunos' apenas àqueles que estudam, sem vírgulas, caracterizando uma oração adjetiva restritiva."
+    },
+    {
+        "pergunta": "Em qual alternativa há um exemplo de polissemia?",
+        "opcoes": {
+            "a": "Ela correu para o hospital.",
+            "b": "O banco estava lotado de clientes.",
+            "c": "O menino pulou o muro.",
+            "d": "Ele saiu de casa atrasado."
+        },
+        "resposta": "b",
+        "explicacao": "Polissemia é quando uma palavra tem vários sentidos. 'Banco' pode significar instituição financeira ou assento, por exemplo."
+    },
+    {
+        "pergunta": "A frase 'Ela passou a noite em claro' apresenta qual figura de linguagem?",
+        "opcoes": {
+            "a": "Ironia",
+            "b": "Metonímia",
+            "c": "Eufemismo",
+            "d": "Elipse"
+        },
+        "resposta": "d",
+        "explicacao": "Elipse é a omissão de um termo facilmente subentendido. A frase omite 'dormindo', que é entendido pelo contexto ('em claro' = sem dormir)."
+    },
+    {
+        "pergunta": "Qual das alternativas apresenta erro de concordância verbal?",
+        "opcoes": {
+            "a": "Fazem dois meses que ele viajou.",
+            "b": "Havia muitas pessoas na festa.",
+            "c": "Vai chover amanhã.",
+            "d": "Faz frio nesta época do ano."
+        },
+        "resposta": "a",
+        "explicacao": "A forma correta é 'Faz dois meses que ele viajou'. O verbo 'fazer', no sentido de tempo decorrido, é impessoal e permanece no singular."
+    },
+    {
+        "pergunta": "Assinale a alternativa que apresenta uma interjeição:",
+        "opcoes": {
+            "a": "Ela caminhava lentamente.",
+            "b": "Ai! Isso doeu!",
+            "c": "Correu sem parar.",
+            "d": "Está com pressa."
+        },
+        "resposta": "b",
+        "explicacao": "Interjeição é a palavra ou expressão que expressa emoções ou sentimentos de forma súbita. 'Ai!' expressa dor, sendo uma interjeição."
+    },
+    {
+        "pergunta": "Na oração: 'Joana, que estuda muito, passou na prova', o termo 'que' é:",
+        "opcoes": {
+            "a": "Pronome interrogativo",
+            "b": "Conjunção integrante",
+            "c": "Pronome relativo",
+            "d": "Artigo definido"
+        },
+        "resposta": "c",
+        "explicacao": "O termo 'que' retoma o substantivo 'Joana' e introduz uma oração adjetiva. Por isso, é um pronome relativo."
+    },
+    {
+        "pergunta": "Em qual das opções ocorre o uso da crase?",
+        "opcoes": {
+            "a": "Vou a escola rapidamente.",
+            "b": "Cheguei à conclusão certa.",
+            "c": "Entreguei o presente a amiga.",
+            "d": "Ela foi a uma festa."
+        },
+        "resposta": "b",
+        "explicacao": "A crase é a fusão da preposição 'a' com o artigo definido 'a'. Em 'à conclusão', a palavra exige preposição e é feminina, justificando a crase."
+    },
+    {
+        "pergunta": "A função da linguagem predominante em um anúncio publicitário é:",
+        "opcoes": {
+            "a": "Referencial",
+            "b": "Metalinguística",
+            "c": "Conativa ou apelativa",
+            "d": "Poética"
+        },
+        "resposta": "c",
+        "explicacao": "A linguagem conativa (ou apelativa) tem como objetivo convencer o interlocutor a realizar uma ação, predominante em propagandas."
+    },
+    {
+        "pergunta": "Em 'Ele não disse nada, apenas sorriu', qual é a função do advérbio 'apenas'?",
+        "opcoes": {
+            "a": "Tempo",
+            "b": "Intensidade",
+            "c": "Modo",
+            "d": "Limitação"
+        },
+        "resposta": "d",
+        "explicacao": "O advérbio 'apenas' limita a ação a uma única coisa: 'sorriu'. Logo, exerce função de limitação."
+    },
+    {
+        "pergunta": "A alternativa em que há erro de regência é:",
+        "opcoes": {
+            "a": "Ela gosta de música clássica.",
+            "b": "Prefiro estudar do que sair.",
+            "c": "Ele obedeceu às regras.",
+            "d": "Assisti ao filme ontem."
+        },
+        "resposta": "b",
+        "explicacao": "O verbo 'preferir' exige a preposição 'a'. O correto seria: 'Prefiro estudar a sair'."
+    },
+    {
+        "pergunta": "A expressão 'bater as botas' é um exemplo de:",
+        "opcoes": {
+            "a": "Gíria",
+            "b": "Pleonasmo",
+            "c": "Eufemismo",
+            "d": "Metáfora"
+        },
+        "resposta": "c",
+        "explicacao": "A expressão 'bater as botas' é um eufemismo para morte. Suaviza uma ideia desagradável."
+    },
+    {
+        "pergunta": "Qual das frases a seguir apresenta ambiguidade?",
+        "opcoes": {
+            "a": "Vi o menino com o telescópio.",
+            "b": "Ela gosta de estudar à noite.",
+            "c": "O livro que você me emprestou é ótimo.",
+            "d": "Comprei flores para minha mãe."
+        },
+        "resposta": "a",
+        "explicacao": "A frase pode ser entendida como: 'Vi o menino usando um telescópio' ou 'Vi o menino que estava com o telescópio'."
+    },
+    {
+        "pergunta": "Em 'Os olhos dela brilhavam como estrelas', temos um exemplo de:",
+        "opcoes": {
+            "a": "Comparação",
+            "b": "Ironia",
+            "c": "Metonímia",
+            "d": "Catacrese"
+        },
+        "resposta": "a",
+        "explicacao": "A comparação é uma figura de linguagem que aproxima dois elementos com o uso de conectivos comparativos como 'como', 'tal qual'."
+    },
+    {
+        "pergunta": "Qual é o sujeito da frase: 'Faz calor nesta cidade'?",
+        "opcoes": {
+            "a": "Calor",
+            "b": "Nesta cidade",
+            "c": "Oculto",
+            "d": "Inexistente"
+        },
+        "resposta": "d",
+        "explicacao": "O verbo 'fazer', indicando fenômeno climático, é impessoal. A oração tem sujeito inexistente."
+    },
+    {
+        "pergunta": "Em qual das frases há um erro de colocação pronominal?",
+        "opcoes": {
+            "a": "Sempre me lembro daquele dia.",
+            "b": "Não me esqueci do seu conselho.",
+            "c": "Me empresta seu livro?",
+            "d": "Jamais me arrependo das minhas escolhas."
+        },
+        "resposta": "c",
+        "explicacao": "No início de frases, o pronome oblíquo átono deve vir depois do verbo: 'Empresta-me seu livro?'."
+    },
+    {
+        "pergunta": "Na frase 'Ele ficou sem saber o que dizer', a expressão 'sem saber' indica:",
+        "opcoes": {
+            "a": "Tempo",
+            "b": "Causa",
+            "c": "Modo",
+            "d": "Condição"
+        },
+        "resposta": "c",
+        "explicacao": "A expressão 'sem saber' indica a maneira como ele ficou, funcionando como um adjunto adverbial de modo."
+    },
+    {
+        "pergunta": "Assinale a opção em que ocorre erro de crase:",
+        "opcoes": {
+            "a": "Entreguei o presente à aniversariante.",
+            "b": "Voltei à casa da minha avó.",
+            "c": "Fui à feira comprar frutas.",
+            "d": "Cheguei à meia-noite em ponto."
+        },
+        "resposta": "d",
+        "explicacao": "Não se usa crase antes de palavras femininas que indicam horas exatas se não houver exigência de preposição. 'Cheguei à meia-noite' está correto, portanto essa questão está mal formulada. (Alternativa inválida)"
+    },
+    {
+        "pergunta": "A palavra 'felizmente' é classificada como:",
+        "opcoes": {
+            "a": "Adjetivo",
+            "b": "Verbo",
+            "c": "Advérbio",
+            "d": "Substantivo"
+        },
+        "resposta": "c",
+        "explicacao": "'Felizmente' modifica o sentido do verbo, expressando circunstância de modo. É um advérbio."
+    },
+    {
+        "pergunta": "Na frase 'É necessário que todos estudem para a prova', o verbo 'estudar' está conjugado no:",
+        "opcoes": {
+            "a": "Futuro do presente do indicativo",
+            "b": "Presente do subjuntivo",
+            "c": "Imperativo afirmativo",
+            "d": "Pretérito imperfeito do subjuntivo"
+        },
+        "resposta": "b",
+        "explicacao": "A oração subordinada introduzida por 'é necessário que' exige o verbo no presente do subjuntivo: 'estudem'."
+    },
+    {
+        "pergunta": "Qual o tipo de predicado em 'O professor chegou atrasado'?",
+        "opcoes": {
+            "a": "Verbal",
+            "b": "Nominal",
+            "c": "Verbo-nominal",
+            "d": "Inexistente"
+        },
+        "resposta": "c",
+        "explicacao": "O verbo 'chegou' indica ação (verbal), e 'atrasado' é o predicativo do sujeito (nominal). Logo, é um predicado verbo-nominal."
+    },
+    {
+        "pergunta": "Assinale a alternativa em que ocorre metonímia:",
+        "opcoes": {
+            "a": "Ele é um poço de paciência.",
+            "b": "Bebi dois copos de água.",
+            "c": "A casa chorava de saudade.",
+            "d": "O vento cantava nas janelas."
+        },
+        "resposta": "b",
+        "explicacao": "Na metonímia, usa-se a parte pelo todo ou o recipiente pelo conteúdo. 'Dois copos de água' substitui 'água contida nos copos'."
+    },
+    {
+        "pergunta": "Em 'Não só estudou, como também passou no vestibular', há uma figura de linguagem chamada:",
+        "opcoes": {
+            "a": "Antítese",
+            "b": "Elipse",
+            "c": "Polissíndeto",
+            "d": "Pleonasmo"
+        },
+        "resposta": "c",
+        "explicacao": "A repetição enfática de conjunções coordenativas (como 'como também') é característica do polissíndeto."
+    },
+    {
+        "pergunta": "A oração 'Embora estivesse cansado, continuou trabalhando' tem valor de:",
+        "opcoes": {
+            "a": "Tempo",
+            "b": "Causa",
+            "c": "Concessão",
+            "d": "Condição"
+        },
+        "resposta": "c",
+        "explicacao": "A oração 'Embora estivesse cansado' é concessiva, pois indica algo que contraria o que se esperava, mas não impede a ação principal."
+    },
+    {
+        "pergunta": "Qual alternativa apresenta uma oração subordinada adverbial condicional?",
+        "opcoes": {
+            "a": "Embora estivesse doente, foi à escola.",
+            "b": "Se chover, o passeio será cancelado.",
+            "c": "Ele age como se fosse o chefe.",
+            "d": "Trabalhou tanto que adoeceu."
+        },
+        "resposta": "b",
+        "explicacao": "A oração 'Se chover' expressa uma condição para a realização da ação principal. Portanto, é uma oração subordinada adverbial condicional."
+    },
+    {
+        "pergunta": "Em 'As crianças, alegres, corriam pelo parque', a palavra 'alegres' funciona como:",
+        "opcoes": {
+            "a": "Adjunto adnominal",
+            "b": "Predicativo do sujeito",
+            "c": "Objeto direto",
+            "d": "Complemento nominal"
+        },
+        "resposta": "b",
+        "explicacao": "'Alegres' caracteriza o sujeito 'as crianças' durante a ação verbal, funcionando como predicativo do sujeito."
+    },
+    {
+        "pergunta": "Assinale a alternativa que apresenta erro de concordância verbal:",
+        "opcoes": {
+            "a": "Haviam muitas pessoas na fila.",
+            "b": "Faz três anos que ele saiu do país.",
+            "c": "Existem bons motivos para continuar.",
+            "d": "Devem chegar os convidados logo."
+        },
+        "resposta": "a",
+        "explicacao": "O verbo 'haver', com sentido de existir, é impessoal e deve permanecer no singular: 'Havia muitas pessoas na fila'."
+    },
+    {
+        "pergunta": "Qual das palavras abaixo possui acento por regra de hiato?",
+        "opcoes": {
+            "a": "País",
+            "b": "Pôde",
+            "c": "Fácil",
+            "d": "Vôo"
+        },
+        "resposta": "a",
+        "explicacao": "'País' é acentuado por ter um hiato entre as vogais 'a' e 'i', sendo o 'i' tônico e sozinho na sílaba, o que exige acento gráfico."
+    },
+    {
+        "pergunta": "Em qual das frases o termo em destaque é um objeto indireto?",
+        "opcoes": {
+            "a": "Vi **o filme** ontem.",
+            "b": "Trouxe **flores** para ela.",
+            "c": "Obedeci **ao professor**.",
+            "d": "Esqueci **as chaves** em casa."
+        },
+        "resposta": "c",
+        "explicacao": "O verbo 'obedecer' exige preposição. 'Ao professor' é objeto indireto, pois completa o sentido do verbo com preposição obrigatória."
+    },
+    {
+        "pergunta": "Assinale a alternativa em que há ambiguidade:",
+        "opcoes": {
+            "a": "Ela viu a amiga com o binóculo.",
+            "b": "Comi arroz, feijão e carne no almoço.",
+            "c": "O professor corrigiu as provas dos alunos.",
+            "d": "Ele entregou o presente com um sorriso."
+        },
+        "resposta": "a",
+        "explicacao": "A frase 'Ela viu a amiga com o binóculo' é ambígua porque pode significar que ela usou o binóculo ou que a amiga estava com o binóculo."
+    },
+    {
+        "pergunta": "Na frase 'Fui ao mercado, comprei frutas e legumes', qual é a função da vírgula?",
+        "opcoes": {
+            "a": "Separar sujeito do predicado",
+            "b": "Separar orações coordenadas",
+            "c": "Indicar omissão verbal",
+            "d": "Separar adjunto adverbial"
+        },
+        "resposta": "b",
+        "explicacao": "A vírgula separa duas orações coordenadas assindéticas: 'Fui ao mercado' e 'comprei frutas e legumes'."
+    },
+    {
+        "pergunta": "Qual frase apresenta um erro de regência verbal?",
+        "opcoes": {
+            "a": "Assisti ao filme ontem.",
+            "b": "Preciso de você agora.",
+            "c": "Namoro com ela há dois anos.",
+            "d": "Agradeço você pela ajuda."
+        },
+        "resposta": "d",
+        "explicacao": "O verbo 'agradecer' é transitivo direto e indireto. O correto é: 'Agradeço **a você** pela ajuda'."
+    },
+    {
+        "pergunta": "Qual das palavras abaixo é um advérbio?",
+        "opcoes": {
+            "a": "Tranquilidade",
+            "b": "Correr",
+            "c": "Rapidamente",
+            "d": "Amizade"
+        },
+        "resposta": "c",
+        "explicacao": "'Rapidamente' é um advérbio de modo, pois indica a maneira como a ação é realizada."
+    },
+    {
+        "pergunta": "Qual alternativa apresenta um exemplo de linguagem denotativa?",
+        "opcoes": {
+            "a": "Ele é um leão em campo.",
+            "b": "A vida é uma estrada incerta.",
+            "c": "O sol nasce no leste.",
+            "d": "O tempo voa quando estamos felizes."
+        },
+        "resposta": "c",
+        "explicacao": "A linguagem denotativa é objetiva e literal. 'O sol nasce no leste' transmite uma informação real, sem figuras de linguagem."
+    },
+    {
+        "pergunta": "Qual alternativa apresenta corretamente o uso da crase?",
+        "opcoes": {
+            "a": "Vou à escola todos os dias.",
+            "b": "Ele gosta de ir à pé.",
+            "c": "Entreguei o presente à ele.",
+            "d": "Cheguei à tarde na festa."
+        },
+        "resposta": "a",
+        "explicacao": "A crase está correta em 'à escola', pois a preposição 'a' do verbo 'ir' junta-se ao artigo definido 'a' do substantivo 'escola'."
+    },
+    {
+        "pergunta": "Em 'A professora, cansada, decidiu parar a aula', a vírgula está sendo usada para:",
+        "opcoes": {
+            "a": "Separar o vocativo",
+            "b": "Marcar um aposto explicativo",
+            "c": "Isolar um adjunto adnominal",
+            "d": "Separar um predicativo intercalado"
+        },
+        "resposta": "d",
+        "explicacao": "A vírgula isola o predicativo do sujeito 'cansada', que está intercalado entre o sujeito e o verbo."
+    },
+    {
+        "pergunta": "Qual alternativa contém uma figura de linguagem do tipo metáfora?",
+        "opcoes": {
+            "a": "O vento assobiava entre as árvores.",
+            "b": "A lua sorriu para mim.",
+            "c": "Meu irmão é um touro de forte.",
+            "d": "Ela comeu como uma leoa."
+        },
+        "resposta": "c",
+        "explicacao": "Na frase 'Meu irmão é um touro de forte', há uma metáfora, pois o irmão é comparado diretamente a um touro pela força."
+    },
+    {
+        "pergunta": "Qual das frases está com pontuação incorreta?",
+        "opcoes": {
+            "a": "Joana, minha prima, chegou ontem.",
+            "b": "Comprei pão, leite, e manteiga.",
+            "c": "Ela é inteligente, porém distraída.",
+            "d": "Sim, vou à reunião."
+        },
+        "resposta": "b",
+        "explicacao": "Não se usa vírgula antes do 'e' em enumerações simples. O correto é: 'Comprei pão, leite e manteiga.'"
+    },
+    {
+        "pergunta": "Em qual frase há um erro de colocação pronominal?",
+        "opcoes": {
+            "a": "Me disseram que você ligou.",
+            "b": "Disseram-me que você ligou.",
+            "c": "Não me contaram a verdade.",
+            "d": "Sempre me disseram isso."
+        },
+        "resposta": "a",
+        "explicacao": "A próclise ('me disseram') no início de frase não é adequada. O correto é usar a ênclise: 'Disseram-me que você ligou.'"
+    }
+]

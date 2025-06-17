@@ -1,0 +1,552 @@
+[
+    {
+        "pergunta": "Qual é a estrutura básica de uma redação dissertativa-argumentativa do Enem?",
+        "opcoes": {
+            "a": "Introdução, desenvolvimento e conclusão.",
+            "b": "Resumo, desenvolvimento e proposta.",
+            "c": "Argumentação, exemplo e título.",
+            "d": "Introdução, resumo e conclusão."
+        },
+        "resposta": "a",
+        "explicacao": "A redação do Enem deve seguir a estrutura: introdução (apresentação da tese), desenvolvimento (argumentos) e conclusão (fechamento com proposta de intervenção)."
+    },
+    {
+        "pergunta": "O que caracteriza um bom argumento?",
+        "opcoes": {
+            "a": "Opinião pessoal sem justificativa.",
+            "b": "Fatos, dados e exemplos que sustentam a tese.",
+            "c": "Informações vagas e subjetivas.",
+            "d": "Crítica direta ao leitor."
+        },
+        "resposta": "b",
+        "explicacao": "Um bom argumento se baseia em fatos concretos, dados estatísticos, exemplos históricos ou referências que sustentam a tese apresentada."
+    },
+    {
+        "pergunta": "O que deve conter obrigatoriamente na proposta de intervenção?",
+        "opcoes": {
+            "a": "Somente a solução do problema.",
+            "b": "Agente, ação, meio, efeito e detalhamento.",
+            "c": "Crítica ao governo.",
+            "d": "Sugestão utópica e genérica."
+        },
+        "resposta": "b",
+        "explicacao": "A proposta de intervenção do Enem precisa conter: agente (quem faz), ação (o que será feito), meio (como), finalidade (efeito) e detalhamento (explicação)."
+    },
+    {
+        "pergunta": "Qual das alternativas apresenta uma tese clara?",
+        "opcoes": {
+            "a": "A sociedade atual está em constante mudança.",
+            "b": "É importante refletir sobre os problemas sociais.",
+            "c": "O aumento da violência urbana está relacionado à falta de políticas públicas eficazes.",
+            "d": "Vivemos em um mundo desigual e isso precisa mudar."
+        },
+        "resposta": "c",
+        "explicacao": "A alternativa 'c' apresenta uma tese clara e específica, com causa e consequência, que pode ser defendida ao longo da redação."
+    },
+    {
+        "pergunta": "Qual é a função do parágrafo de desenvolvimento?",
+        "opcoes": {
+            "a": "Apresentar a proposta de intervenção.",
+            "b": "Encerrar a redação.",
+            "c": "Apresentar argumentos e comprovar a tese.",
+            "d": "Introduzir o tema."
+        },
+        "resposta": "c",
+        "explicacao": "O parágrafo de desenvolvimento serve para apresentar argumentos sólidos que comprovem a tese defendida na introdução."
+    },
+    {
+        "pergunta": "É permitido usar linguagem informal na redação do Enem?",
+        "opcoes": {
+            "a": "Sim, para aproximar-se do leitor.",
+            "b": "Não, a linguagem deve ser formal e objetiva.",
+            "c": "Apenas nas citações.",
+            "d": "Sim, se for uma redação narrativa."
+        },
+        "resposta": "b",
+        "explicacao": "A redação do Enem exige linguagem formal e objetiva, evitando gírias, expressões populares e marcas de oralidade."
+    },
+    {
+        "pergunta": "Qual a importância da coesão textual?",
+        "opcoes": {
+            "a": "Evita repetir palavras.",
+            "b": "Ajuda a conectar as ideias, garantindo fluidez ao texto.",
+            "c": "Faz a redação ficar mais longa.",
+            "d": "Serve apenas para evitar erros gramaticais."
+        },
+        "resposta": "b",
+        "explicacao": "A coesão textual conecta ideias e parágrafos, facilitando a leitura e compreensão do texto como um todo."
+    },
+    {
+        "pergunta": "Citar dados de fontes confiáveis na redação do Enem é:",
+        "opcoes": {
+            "a": "Proibido.",
+            "b": "Opcional e não acrescenta muito.",
+            "c": "Indicado, pois fortalece os argumentos.",
+            "d": "Apenas permitido se for do IBGE."
+        },
+        "resposta": "c",
+        "explicacao": "Utilizar dados de fontes confiáveis fortalece os argumentos e demonstra conhecimento de mundo."
+    },
+    {
+        "pergunta": "Qual das opções apresenta um conectivo adequado para introdução de contraste?",
+        "opcoes": {
+            "a": "Logo",
+            "b": "Por isso",
+            "c": "Entretanto",
+            "d": "Em seguida"
+        },
+        "resposta": "c",
+        "explicacao": "'Entretanto' é um conectivo adequado para indicar contraste entre ideias."
+    },
+    {
+        "pergunta": "A redação do Enem pode ser zerada se:",
+        "opcoes": {
+            "a": "For escrita em caneta preta.",
+            "b": "Estiver com menos de 25 linhas.",
+            "c": "Tiver título criativo.",
+            "d": "Tiver uma proposta de intervenção muito ousada."
+        },
+        "resposta": "b",
+        "explicacao": "Textos com menos de 7 linhas ou com menos de 8 linhas copiadas da coletânea podem ser zerados. Recomenda-se sempre ultrapassar as 25 linhas."
+    },
+    {
+        "pergunta": "O que significa apresentar autoria na redação do Enem?",
+        "opcoes": {
+            "a": "Incluir o nome do autor no final.",
+            "b": "Fazer cópia dos textos motivadores.",
+            "c": "Apresentar argumentos originais e críticos.",
+            "d": "Escrever em primeira pessoa."
+        },
+        "resposta": "c",
+        "explicacao": "Autoria refere-se à capacidade de construir argumentos próprios, demonstrando pensamento crítico e domínio do tema."
+    },
+    {
+        "pergunta": "Qual é o papel da introdução em uma redação do Enem?",
+        "opcoes": {
+            "a": "Apresentar a proposta de intervenção.",
+            "b": "Explicar o tema e expor a tese que será defendida.",
+            "c": "Descrever uma situação hipotética.",
+            "d": "Concluir o texto."
+        },
+        "resposta": "b",
+        "explicacao": "A introdução apresenta o tema e a tese que será defendida ao longo do desenvolvimento."
+    },
+    {
+        "pergunta": "Como a proposta de intervenção deve ser relacionada ao problema abordado?",
+        "opcoes": {
+            "a": "Deve propor soluções gerais.",
+            "b": "Pode tratar de outro tema.",
+            "c": "Deve ser coerente com a argumentação do texto.",
+            "d": "Pode ser omitida."
+        },
+        "resposta": "c",
+        "explicacao": "A proposta deve dialogar com o problema abordado, sendo lógica, viável e bem fundamentada."
+    },
+    {
+        "pergunta": "O uso de exemplos históricos na redação do Enem é:",
+        "opcoes": {
+            "a": "Desnecessário.",
+            "b": "Inapropriado.",
+            "c": "Recomendado, pois fortalece os argumentos.",
+            "d": "Permitido apenas se for sobre o Brasil."
+        },
+        "resposta": "c",
+        "explicacao": "Exemplos históricos são estratégias válidas para ilustrar e sustentar argumentos de forma crítica."
+    },
+    {
+        "pergunta": "O que são operadores argumentativos?",
+        "opcoes": {
+            "a": "Adjetivos que descrevem o tema.",
+            "b": "Palavras que reforçam a opinião pessoal.",
+            "c": "Conectivos que organizam a progressão textual.",
+            "d": "Frases que encerram o parágrafo."
+        },
+        "resposta": "c",
+        "explicacao": "Operadores argumentativos são conectivos como 'portanto', 'além disso', 'no entanto', que ajudam a organizar e ligar ideias."
+    },
+    {
+        "pergunta": "Um dos critérios de correção da redação do Enem é a competência 5. O que ela avalia?",
+        "opcoes": {
+            "a": "A estrutura do parágrafo.",
+            "b": "A proposta de intervenção.",
+            "c": "O uso de coesão textual.",
+            "d": "A ortografia correta."
+        },
+        "resposta": "b",
+        "explicacao": "A competência 5 avalia se o candidato apresentou uma proposta de intervenção relacionada ao problema e bem detalhada."
+    },
+    {
+        "pergunta": "É permitido usar citações na redação do Enem?",
+        "opcoes": {
+            "a": "Sim, desde que sejam contextualizadas.",
+            "b": "Não, pois foge do tema.",
+            "c": "Apenas se for de filósofos.",
+            "d": "Sim, mas apenas no parágrafo de conclusão."
+        },
+        "resposta": "a",
+        "explicacao": "Citações são bem-vindas, desde que pertinentes e relacionadas à argumentação do texto."
+    },
+    {
+        "pergunta": "Em qual parágrafo geralmente está a proposta de intervenção?",
+        "opcoes": {
+            "a": "No primeiro.",
+            "b": "No desenvolvimento 1.",
+            "c": "No último (conclusão).",
+            "d": "No meio da introdução."
+        },
+        "resposta": "c",
+        "explicacao": "A proposta de intervenção costuma ser apresentada no último parágrafo, como parte da conclusão."
+    },
+    {
+        "pergunta": "O que NÃO é uma característica da conclusão?",
+        "opcoes": {
+            "a": "Retomar a tese.",
+            "b": "Apresentar nova informação.",
+            "c": "Fechar a argumentação.",
+            "d": "Propor soluções."
+        },
+        "resposta": "b",
+        "explicacao": "A conclusão não deve apresentar informações inéditas; deve apenas retomar e finalizar o que foi desenvolvido."
+    },
+    {
+        "pergunta": "Qual é a consequência de fugir ao tema proposto na redação do Enem?",
+        "opcoes": {
+            "a": "Redução de 100 pontos.",
+            "b": "Nota máxima na competência 2.",
+            "c": "Nota zero.",
+            "d": "Não há prejuízo."
+        },
+        "resposta": "c",
+        "explicacao": "Fugir completamente ao tema proposto resulta em nota zero na redação, segundo os critérios do Enem."
+    },
+    {
+        "pergunta": "Como a estrutura dissertativo-argumentativa é composta?",
+        "opcoes": {
+            "a": "Introdução, desenvolvimento e conclusão.",
+            "b": "Resumo, análise e opinião.",
+            "c": "Introdução, narrativa e desfecho.",
+            "d": "Tese, antítese e síntese."
+        },
+        "resposta": "a",
+        "explicacao": "A estrutura dissertativo-argumentativa do Enem é composta por introdução, desenvolvimento (com argumentos) e conclusão."
+    },
+    {
+        "pergunta": "Por que é importante usar conectivos na redação?",
+        "opcoes": {
+            "a": "Para deixar o texto mais longo.",
+            "b": "Para decorar o texto.",
+            "c": "Para organizar as ideias e garantir coesão.",
+            "d": "Para repetir informações."
+        },
+        "resposta": "c",
+        "explicacao": "Conectivos estabelecem relações entre ideias, organizam a argumentação e garantem coesão textual."
+    },
+    {
+        "pergunta": "É recomendável usar linguagem informal na redação do Enem?",
+        "opcoes": {
+            "a": "Sim, para mostrar naturalidade.",
+            "b": "Sim, se o tema for leve.",
+            "c": "Não, deve-se manter linguagem formal e impessoal.",
+            "d": "Sim, apenas na introdução."
+        },
+        "resposta": "c",
+        "explicacao": "A redação exige linguagem formal, clara e objetiva, adequada ao gênero dissertativo-argumentativo."
+    },
+    {
+        "pergunta": "Qual é o papel dos parágrafos de desenvolvimento?",
+        "opcoes": {
+            "a": "Apresentar a proposta de intervenção.",
+            "b": "Contar uma história.",
+            "c": "Apresentar e sustentar os argumentos.",
+            "d": "Iniciar e encerrar o texto."
+        },
+        "resposta": "c",
+        "explicacao": "Os parágrafos de desenvolvimento devem apresentar os argumentos e exemplos que sustentam a tese do texto."
+    },
+    {
+        "pergunta": "O que significa detalhar a proposta de intervenção?",
+        "opcoes": {
+            "a": "Escrever mais parágrafos.",
+            "b": "Apontar os cinco elementos: ação, agente, modo/meio, efeito e detalhamento.",
+            "c": "Fazer uma lista de soluções.",
+            "d": "Repetir a tese."
+        },
+        "resposta": "b",
+        "explicacao": "Uma proposta bem detalhada apresenta ação, agente, modo, finalidade e detalhamento, conforme a competência 5."
+    },
+    {
+        "pergunta": "O uso de dados estatísticos na redação pode:",
+        "opcoes": {
+            "a": "Comprometer a argumentação.",
+            "b": "Enfraquecer a tese.",
+            "c": "Fortalecer os argumentos, se bem utilizados.",
+            "d": "Tornar a redação impessoal demais."
+        },
+        "resposta": "c",
+        "explicacao": "Dados estatísticos bem utilizados contribuem para fundamentar os argumentos e dar credibilidade ao texto."
+    },
+    {
+        "pergunta": "A repetição excessiva de palavras na redação pode:",
+        "opcoes": {
+            "a": "Demonstrar domínio do tema.",
+            "b": "Conferir coesão lexical.",
+            "c": "Prejudicar a fluidez e a clareza do texto.",
+            "d": "Melhorar a nota na competência 1."
+        },
+        "resposta": "c",
+        "explicacao": "A repetição compromete a coesão e a variedade lexical, podendo prejudicar a clareza e a avaliação da competência 1."
+    },
+    {
+        "pergunta": "É correto apresentar apenas um ponto de vista na redação?",
+        "opcoes": {
+            "a": "Sim, desde que bem fundamentado.",
+            "b": "Não, é obrigatório citar dois lados.",
+            "c": "Sim, e é melhor não explicar muito.",
+            "d": "Não, deve-se apenas descrever o tema."
+        },
+        "resposta": "a",
+        "explicacao": "A dissertação exige a defesa de um ponto de vista com bons argumentos, sem a obrigatoriedade de apresentar os dois lados."
+    },
+    {
+        "pergunta": "Qual a consequência do uso de letra ilegível na redação?",
+        "opcoes": {
+            "a": "Redução de 200 pontos.",
+            "b": "Anulação da prova.",
+            "c": "A redação pode ser desconsiderada.",
+            "d": "Nenhuma, desde que coerente."
+        },
+        "resposta": "c",
+        "explicacao": "Se a letra for ilegível, a banca corretora pode anular a redação, atribuindo nota zero."
+    },
+    {
+        "pergunta": "A redação do Enem pode ter título?",
+        "opcoes": {
+            "a": "Sim, é obrigatório.",
+            "b": "Sim, mas é opcional.",
+            "c": "Não é permitido.",
+            "d": "É obrigatório em todas as competências."
+        },
+        "resposta": "b",
+        "explicacao": "O título é opcional e não interfere na nota da redação, podendo ser incluído ou não pelo candidato."
+    },
+    {
+        "pergunta": "Por que é importante evitar clichês na redação do Enem?",
+        "opcoes": {
+            "a": "Porque são difíceis de escrever.",
+            "b": "Porque tornam o texto confuso.",
+            "c": "Porque demonstram falta de originalidade e autoria.",
+            "d": "Porque são obrigatórios apenas na conclusão."
+        },
+        "resposta": "c",
+        "explicacao": "O uso de clichês pode prejudicar a originalidade do texto e comprometer a autoria exigida na redação."
+    },
+    {
+        "pergunta": "Qual a melhor estratégia para iniciar uma introdução?",
+        "opcoes": {
+            "a": "Fazer uma pergunta.",
+            "b": "Apresentar o tema de forma contextualizada e expor a tese.",
+            "c": "Começar com uma opinião pessoal.",
+            "d": "Repetir o tema proposto."
+        },
+        "resposta": "b",
+        "explicacao": "A introdução deve contextualizar o tema e apresentar claramente a tese a ser defendida no texto."
+    },
+    {
+        "pergunta": "A coesão referencial é obtida por meio de:",
+        "opcoes": {
+            "a": "Repetição de palavras.",
+            "b": "Uso de conectivos adversativos.",
+            "c": "Uso de pronomes e sinônimos para evitar repetições.",
+            "d": "Criação de neologismos."
+        },
+        "resposta": "c",
+        "explicacao": "A coesão referencial evita a repetição de termos, utilizando pronomes e sinônimos para manter o fluxo do texto."
+    },
+    {
+        "pergunta": "O que significa ter clareza na redação?",
+        "opcoes": {
+            "a": "Usar palavras difíceis.",
+            "b": "Ter letra bonita.",
+            "c": "Escrever de modo que o leitor compreenda facilmente a ideia.",
+            "d": "Fazer frases curtas sempre."
+        },
+        "resposta": "c",
+        "explicacao": "Clareza refere-se à facilidade de compreensão do texto, com ideias bem organizadas e linguagem adequada."
+    },
+    {
+        "pergunta": "O uso da primeira pessoa do singular é adequado na redação do Enem?",
+        "opcoes": {
+            "a": "Sim, sempre.",
+            "b": "Sim, na conclusão apenas.",
+            "c": "Não, o texto deve ser impessoal.",
+            "d": "Sim, se estiver falando de um caso pessoal."
+        },
+        "resposta": "c",
+        "explicacao": "A redação do Enem exige impessoalidade, portanto o uso da primeira pessoa deve ser evitado."
+    },
+    {
+        "pergunta": "Qual é o impacto de apresentar uma proposta de intervenção vaga?",
+        "opcoes": {
+            "a": "Aumenta a nota na competência 5.",
+            "b": "Não influencia a nota.",
+            "c": "Prejudica a avaliação da competência 5.",
+            "d": "Ajuda a economizar palavras."
+        },
+        "resposta": "c",
+        "explicacao": "Uma proposta vaga ou genérica compromete a pontuação da competência 5, que exige detalhamento e viabilidade."
+    },
+    {
+        "pergunta": "Como uma alusão histórica pode enriquecer a redação?",
+        "opcoes": {
+            "a": "Criando uma atmosfera poética.",
+            "b": "Tornando o texto mais informal.",
+            "c": "Conferindo base argumentativa e contextualização ao tema.",
+            "d": "Aumentando a quantidade de palavras."
+        },
+        "resposta": "c",
+        "explicacao": "Alusões históricas bem aplicadas fortalecem os argumentos e mostram repertório sociocultural."
+    },
+    {
+        "pergunta": "O que significa respeitar os direitos humanos na redação?",
+        "opcoes": {
+            "a": "Defender apenas grupos vulneráveis.",
+            "b": "Evitar propostas discriminatórias ou que firam a dignidade humana.",
+            "c": "Falar sobre política apenas.",
+            "d": "Não apresentar proposta de intervenção."
+        },
+        "resposta": "b",
+        "explicacao": "A proposta de intervenção e a argumentação devem respeitar os direitos humanos, sob risco de nota zero."
+    },
+    {
+        "pergunta": "Quantos parágrafos são recomendados em uma boa estrutura de redação do Enem?",
+        "opcoes": {
+            "a": "Dois.",
+            "b": "Três a quatro.",
+            "c": "Cinco a seis.",
+            "d": "Dez ou mais."
+        },
+        "resposta": "b",
+        "explicacao": "A estrutura mais comum e eficiente tem entre três a quatro parágrafos: introdução, dois de desenvolvimento e conclusão."
+    },
+    {
+        "pergunta": "Qual é a melhor forma de concluir a redação?",
+        "opcoes": {
+            "a": "Repetir a introdução.",
+            "b": "Apresentar uma nova tese.",
+            "c": "Retomar a tese e apresentar proposta de intervenção.",
+            "d": "Fazer uma pergunta retórica."
+        },
+        "resposta": "c",
+        "explicacao": "A conclusão deve reafirmar a tese e apresentar uma proposta de intervenção detalhada e viável."
+    },
+    {
+        "pergunta": "O que significa tangenciar o tema da redação?",
+        "opcoes": {
+            "a": "Fugir completamente do tema.",
+            "b": "Fazer referência superficial ou indireta ao tema.",
+            "c": "Ampliar o tema com exemplos.",
+            "d": "Falar de um tema relacionado e aceitável."
+        },
+        "resposta": "b",
+        "explicacao": "Tangenciar o tema é tratá-lo de maneira superficial ou indireta, o que pode comprometer a nota significativamente."
+    },
+    {
+        "pergunta": "Qual elemento da conclusão garante o máximo na competência 5?",
+        "opcoes": {
+            "a": "Uma proposta de intervenção completa e detalhada.",
+            "b": "Citações famosas.",
+            "c": "Repetição da introdução.",
+            "d": "Frases de efeito."
+        },
+        "resposta": "a",
+        "explicacao": "A proposta de intervenção deve ser completa, envolvendo agente, ação, meio, modo e finalidade, para garantir pontuação máxima."
+    },
+    {
+        "pergunta": "Por que o uso de repertório sociocultural é valorizado no Enem?",
+        "opcoes": {
+            "a": "Porque aumenta a nota automaticamente.",
+            "b": "Porque mostra conhecimento de atualidades.",
+            "c": "Porque enriquece a argumentação com base sólida e pertinente.",
+            "d": "Porque torna o texto mais longo."
+        },
+        "resposta": "c",
+        "explicacao": "Repertórios bem utilizados fortalecem os argumentos e mostram domínio do conteúdo de forma pertinente."
+    },
+    {
+        "pergunta": "Qual tipo de linguagem deve ser evitado na redação?",
+        "opcoes": {
+            "a": "Formal.",
+            "b": "Figurada.",
+            "c": "Coloquial e gírias.",
+            "d": "Objetiva."
+        },
+        "resposta": "c",
+        "explicacao": "A linguagem da redação deve ser formal, por isso gírias e expressões coloquiais devem ser evitadas."
+    },
+    {
+        "pergunta": "É permitido copiar trechos dos textos motivadores?",
+        "opcoes": {
+            "a": "Sim, se forem bem encaixados.",
+            "b": "Sim, desde que não passem de 5 linhas.",
+            "c": "Não, pois pode caracterizar cópia e zerar a redação.",
+            "d": "Sim, se for um trecho curto e entre aspas."
+        },
+        "resposta": "c",
+        "explicacao": "Copiar trechos dos textos motivadores pode ser considerado plágio, resultando em anulação da redação."
+    },
+    {
+        "pergunta": "O que torna um argumento eficaz?",
+        "opcoes": {
+            "a": "Ser emocional.",
+            "b": "Ser repetitivo.",
+            "c": "Ser baseado em dados, fatos ou repertórios legítimos e pertinentes.",
+            "d": "Ser curto."
+        },
+        "resposta": "c",
+        "explicacao": "Um bom argumento é sustentado por dados concretos, análises racionais e repertório bem aplicado."
+    },
+    {
+        "pergunta": "Qual desses conectivos indica causa?",
+        "opcoes": {
+            "a": "Contudo.",
+            "b": "Portanto.",
+            "c": "Porque.",
+            "d": "Apesar disso."
+        },
+        "resposta": "c",
+        "explicacao": "\"Porque\" é um conectivo causal, útil para explicações e justificativas dentro do texto."
+    },
+    {
+        "pergunta": "Qual aspecto é avaliado na competência 3 da redação do Enem?",
+        "opcoes": {
+            "a": "Ortografia.",
+            "b": "Uso de conectivos.",
+            "c": "Seleção e organização dos argumentos.",
+            "d": "Apresentação da proposta de intervenção."
+        },
+        "resposta": "c",
+        "explicacao": "A competência 3 avalia como o autor seleciona, organiza e desenvolve os argumentos de forma coerente."
+    },
+    {
+        "pergunta": "Uma proposta de intervenção que fere os direitos humanos resulta em:",
+        "opcoes": {
+            "a": "Desconto apenas na competência 5.",
+            "b": "Desclassificação do argumento.",
+            "c": "Nota zero na redação.",
+            "d": "Advertência, mas não afeta a nota."
+        },
+        "resposta": "c",
+        "explicacao": "Propostas que violam os direitos humanos anulam a redação, levando à nota zero."
+    },
+    {
+        "pergunta": "O que caracteriza fuga total ao tema?",
+        "opcoes": {
+            "a": "Falar superficialmente sobre o tema.",
+            "b": "Focar em outro assunto que não tem relação com o tema proposto.",
+            "c": "Usar linguagem informal.",
+            "d": "Desorganizar os parágrafos."
+        },
+        "resposta": "b",
+        "explicacao": "Fuga total ocorre quando o candidato escreve sobre um tema completamente distinto do proposto, o que zera a redação."
+    }
+]

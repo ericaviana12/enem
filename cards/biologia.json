@@ -1,0 +1,552 @@
+[
+    {
+        "pergunta": "Qual organela celular é responsável pela respiração celular?",
+        "opcoes": {
+            "a": "Ribossomo",
+            "b": "Mitocôndria",
+            "c": "Lisossomo",
+            "d": "Complexo Golgiense"
+        },
+        "resposta": "b",
+        "explicacao": "A mitocôndria é a organela responsável por produzir energia por meio da respiração celular."
+    },
+    {
+        "pergunta": "Qual é a molécula que armazena as informações genéticas dos seres vivos?",
+        "opcoes": {
+            "a": "RNA",
+            "b": "Proteína",
+            "c": "DNA",
+            "d": "Lipídio"
+        },
+        "resposta": "c",
+        "explicacao": "O DNA (ácido desoxirribonucleico) contém as instruções genéticas usadas no desenvolvimento e funcionamento dos organismos vivos."
+    },
+    {
+        "pergunta": "Os seres humanos possuem quantos cromossomos em células somáticas?",
+        "opcoes": {
+            "a": "23",
+            "b": "44",
+            "c": "46",
+            "d": "92"
+        },
+        "resposta": "c",
+        "explicacao": "As células somáticas humanas possuem 46 cromossomos, organizados em 23 pares."
+    },
+    {
+        "pergunta": "Qual é o principal órgão do sistema nervoso central?",
+        "opcoes": {
+            "a": "Coração",
+            "b": "Estômago",
+            "c": "Encéfalo",
+            "d": "Pulmão"
+        },
+        "resposta": "c",
+        "explicacao": "O encéfalo, que inclui o cérebro, é o principal órgão do sistema nervoso central."
+    },
+    {
+        "pergunta": "Qual processo converte a energia solar em energia química?",
+        "opcoes": {
+            "a": "Fermentação",
+            "b": "Fotossíntese",
+            "c": "Respiração celular",
+            "d": "Digestão"
+        },
+        "resposta": "b",
+        "explicacao": "A fotossíntese é o processo pelo qual plantas transformam a energia solar em energia química armazenada na glicose."
+    },
+    {
+        "pergunta": "Qual estrutura da célula vegetal é responsável pela fotossíntese?",
+        "opcoes": {
+            "a": "Mitocôndria",
+            "b": "Núcleo",
+            "c": "Cloroplasto",
+            "d": "Retículo endoplasmático"
+        },
+        "resposta": "c",
+        "explicacao": "Os cloroplastos contêm clorofila, responsável por capturar luz solar para realizar a fotossíntese."
+    },
+    {
+        "pergunta": "Qual é o nome do processo de divisão celular que forma células sexuais?",
+        "opcoes": {
+            "a": "Mitose",
+            "b": "Meiose",
+            "c": "Fissão",
+            "d": "Brotamento"
+        },
+        "resposta": "b",
+        "explicacao": "A meiose gera gametas com metade do número de cromossomos das células somáticas."
+    },
+    {
+        "pergunta": "Qual é a função dos glóbulos vermelhos no sangue?",
+        "opcoes": {
+            "a": "Defesa do organismo",
+            "b": "Coagulação sanguínea",
+            "c": "Transporte de oxigênio",
+            "d": "Digestão de nutrientes"
+        },
+        "resposta": "c",
+        "explicacao": "Os glóbulos vermelhos (hemácias) transportam oxigênio dos pulmões para os tecidos do corpo."
+    },
+    {
+        "pergunta": "Qual órgão do sistema digestório é responsável pela absorção de nutrientes?",
+        "opcoes": {
+            "a": "Estômago",
+            "b": "Fígado",
+            "c": "Esôfago",
+            "d": "Intestino delgado"
+        },
+        "resposta": "d",
+        "explicacao": "O intestino delgado é o principal local de absorção dos nutrientes digeridos."
+    },
+    {
+        "pergunta": "Qual é o tipo de tecido responsável pelo movimento no corpo humano?",
+        "opcoes": {
+            "a": "Epitelial",
+            "b": "Muscular",
+            "c": "Conjuntivo",
+            "d": "Nervoso"
+        },
+        "resposta": "b",
+        "explicacao": "O tecido muscular é especializado na contração, permitindo os movimentos do corpo."
+    },
+    {
+        "pergunta": "O que é um ecossistema?",
+        "opcoes": {
+            "a": "Conjunto de cadeias alimentares",
+            "b": "Grupo de organismos da mesma espécie",
+            "c": "Conjunto de seres vivos e o ambiente em que vivem",
+            "d": "Área ocupada por uma população"
+        },
+        "resposta": "c",
+        "explicacao": "Ecossistema é a interação entre os seres vivos (biocenose) e o meio físico (biótopo)."
+    },
+    {
+        "pergunta": "Qual é o nome do processo em que o RNA é convertido em proteína?",
+        "opcoes": {
+            "a": "Transcrição",
+            "b": "Tradução",
+            "c": "Replicação",
+            "d": "Mutação"
+        },
+        "resposta": "b",
+        "explicacao": "A tradução é o processo no qual o RNA mensageiro é lido pelos ribossomos para sintetizar proteínas."
+    },
+    {
+        "pergunta": "Qual é o nome da unidade estrutural e funcional dos seres vivos?",
+        "opcoes": {
+            "a": "Órgão",
+            "b": "Tecido",
+            "c": "Célula",
+            "d": "Molécula"
+        },
+        "resposta": "c",
+        "explicacao": "A célula é considerada a menor unidade viva, realizando todas as funções vitais dos organismos."
+    },
+    {
+        "pergunta": "Qual é a principal função do sistema excretor?",
+        "opcoes": {
+            "a": "Produzir hormônios",
+            "b": "Eliminar substâncias tóxicas do corpo",
+            "c": "Absorver nutrientes",
+            "d": "Transporte de gases"
+        },
+        "resposta": "b",
+        "explicacao": "O sistema excretor elimina substâncias tóxicas, como a ureia, ajudando a manter o equilíbrio interno."
+    },
+    {
+        "pergunta": "A seleção natural, proposta por Darwin, favorece:",
+        "opcoes": {
+            "a": "Organismos mais fortes",
+            "b": "Organismos mais adaptados ao ambiente",
+            "c": "Organismos mais agressivos",
+            "d": "Organismos que se reproduzem menos"
+        },
+        "resposta": "b",
+        "explicacao": "A seleção natural favorece os indivíduos com características mais adaptativas ao ambiente, aumentando suas chances de sobrevivência e reprodução."
+    },
+    {
+        "pergunta": "Qual a molécula responsável pelo armazenamento de informação genética?",
+        "opcoes": {
+            "a": "RNA",
+            "b": "DNA",
+            "c": "Proteína",
+            "d": "Glicose"
+        },
+        "resposta": "b",
+        "explicacao": "O DNA (ácido desoxirribonucleico) é a molécula que armazena as informações genéticas dos seres vivos."
+    },
+    {
+        "pergunta": "Qual estrutura celular está presente apenas em células vegetais?",
+        "opcoes": {
+            "a": "Mitocôndria",
+            "b": "Cloroplasto",
+            "c": "Ribossomo",
+            "d": "Lisossomo"
+        },
+        "resposta": "b",
+        "explicacao": "Os cloroplastos, responsáveis pela fotossíntese, são exclusivos de células vegetais e algas."
+    },
+    {
+        "pergunta": "Qual o nome do hormônio produzido pelo pâncreas que regula a glicose no sangue?",
+        "opcoes": {
+            "a": "Adrenalina",
+            "b": "Insulina",
+            "c": "Cortisol",
+            "d": "Glucagon"
+        },
+        "resposta": "b",
+        "explicacao": "A insulina é o hormônio que reduz a glicemia, promovendo a entrada de glicose nas células."
+    },
+    {
+        "pergunta": "Qual o principal produto da fotossíntese?",
+        "opcoes": {
+            "a": "Gás carbônico",
+            "b": "Água",
+            "c": "Glicose",
+            "d": "Oxigênio molecular"
+        },
+        "resposta": "c",
+        "explicacao": "A fotossíntese transforma CO₂ e água em glicose, usando energia solar. O oxigênio é um subproduto liberado."
+    },
+    {
+        "pergunta": "Em qual organela ocorre a respiração celular aeróbica?",
+        "opcoes": {
+            "a": "Cloroplasto",
+            "b": "Núcleo",
+            "c": "Mitocôndria",
+            "d": "Complexo golgiense"
+        },
+        "resposta": "c",
+        "explicacao": "A mitocôndria é a organela onde ocorre a respiração celular, gerando ATP a partir da glicose e oxigênio."
+    },
+    {
+        "pergunta": "Qual é a principal função dos anticorpos no organismo?",
+        "opcoes": {
+            "a": "Produzir glóbulos vermelhos",
+            "b": "Transportar oxigênio",
+            "c": "Atacar e neutralizar antígenos",
+            "d": "Regular a temperatura corporal"
+        },
+        "resposta": "c",
+        "explicacao": "Anticorpos são proteínas do sistema imunológico que reconhecem e neutralizam corpos estranhos como vírus e bactérias."
+    },
+    {
+        "pergunta": "O que é uma cadeia alimentar?",
+        "opcoes": {
+            "a": "Grupo de predadores",
+            "b": "Organismos com o mesmo hábito alimentar",
+            "c": "Sequência de transferência de energia entre organismos",
+            "d": "Relação entre parasita e hospedeiro"
+        },
+        "resposta": "c",
+        "explicacao": "A cadeia alimentar representa o fluxo de energia e nutrientes entre produtores, consumidores e decompositores."
+    },
+    {
+        "pergunta": "A mitose resulta em:",
+        "opcoes": {
+            "a": "Quatro células diferentes",
+            "b": "Duas células idênticas à célula-mãe",
+            "c": "Células com metade do material genético",
+            "d": "Células especializadas no sistema imune"
+        },
+        "resposta": "b",
+        "explicacao": "A mitose gera duas células-filhas geneticamente idênticas à célula original, mantendo o número de cromossomos."
+    },
+    {
+        "pergunta": "A fotossíntese ocorre principalmente em quais organismos?",
+        "opcoes": {
+            "a": "Animais herbívoros",
+            "b": "Fungos e bactérias",
+            "c": "Plantas e algas",
+            "d": "Protozoários e vermes"
+        },
+        "resposta": "c",
+        "explicacao": "Plantas e algas possuem clorofila, essencial para captar a luz solar e realizar a fotossíntese."
+    },
+    {
+        "pergunta": "O que caracteriza os seres autotróficos?",
+        "opcoes": {
+            "a": "Produzem seu próprio alimento",
+            "b": "São consumidores primários",
+            "c": "Se alimentam de outros organismos",
+            "d": "Vivem apenas em ambientes aquáticos"
+        },
+        "resposta": "a",
+        "explicacao": "Seres autotróficos são capazes de produzir seu próprio alimento, como as plantas que fazem fotossíntese."
+    },
+    {
+        "pergunta": "Qual dos itens abaixo é um exemplo de parasitismo?",
+        "opcoes": {
+            "a": "Abelhas polinizando flores",
+            "b": "Piolho vivendo no couro cabeludo humano",
+            "c": "Peixe-palhaço vivendo entre anêmonas",
+            "d": "Pássaros construindo ninhos em árvores"
+        },
+        "resposta": "b",
+        "explicacao": "O piolho é um parasita externo que se alimenta do sangue do hospedeiro, prejudicando-o."
+    },
+    {
+        "pergunta": "O que é o código genético?",
+        "opcoes": {
+            "a": "Código de barras das células",
+            "b": "Sequência de genes que determina a cor dos olhos",
+            "c": "Conjunto de regras para traduzir o RNA em proteínas",
+            "d": "Mapa das proteínas celulares"
+        },
+        "resposta": "c",
+        "explicacao": "O código genético relaciona trincas de bases nitrogenadas (códons) com aminoácidos na formação de proteínas."
+    },
+    {
+        "pergunta": "Qual a função principal da hemoglobina?",
+        "opcoes": {
+            "a": "Ativar enzimas digestivas",
+            "b": "Transportar oxigênio no sangue",
+            "c": "Produzir hormônios",
+            "d": "Combater infecções"
+        },
+        "resposta": "b",
+        "explicacao": "A hemoglobina, presente nos glóbulos vermelhos, transporta oxigênio dos pulmões para os tecidos do corpo."
+    },
+    {
+        "pergunta": "Qual o principal local de absorção de nutrientes no sistema digestório?",
+        "opcoes": {
+            "a": "Estômago",
+            "b": "Fígado",
+            "c": "Esôfago",
+            "d": "Intestino delgado"
+        },
+        "resposta": "d",
+        "explicacao": "O intestino delgado possui vilosidades que aumentam a superfície de contato, facilitando a absorção dos nutrientes."
+    },
+    {
+        "pergunta": "O que diferencia a célula eucarionte da procarionte?",
+        "opcoes": {
+            "a": "A presença de membrana plasmática",
+            "b": "A presença de núcleo delimitado por membrana",
+            "c": "A ausência de DNA",
+            "d": "A capacidade de realizar fotossíntese"
+        },
+        "resposta": "b",
+        "explicacao": "Células eucariontes possuem núcleo verdadeiro, envolvido por membrana; as procariontes não."
+    },
+    {
+        "pergunta": "O que é mutação genética?",
+        "opcoes": {
+            "a": "Mudança na cor dos olhos herdada dos pais",
+            "b": "Alteração na sequência de nucleotídeos do DNA",
+            "c": "Troca de sangue entre organismos",
+            "d": "Mudança da forma das proteínas após digestão"
+        },
+        "resposta": "b",
+        "explicacao": "Mutação é uma alteração espontânea ou induzida na sequência do DNA, podendo causar variações genéticas."
+    },
+    {
+        "pergunta": "Na respiração celular aeróbica, qual é o principal produto final?",
+        "opcoes": {
+            "a": "Etanol",
+            "b": "Ácido láctico",
+            "c": "Glicose",
+            "d": "ATP"
+        },
+        "resposta": "d",
+        "explicacao": "A respiração celular aeróbica quebra a glicose usando oxigênio e produz ATP como principal fonte de energia celular."
+    },
+    {
+        "pergunta": "Qual das alternativas é uma doença causada por vírus?",
+        "opcoes": {
+            "a": "Tuberculose",
+            "b": "Gripe",
+            "c": "Hanseníase",
+            "d": "Teníase"
+        },
+        "resposta": "b",
+        "explicacao": "A gripe é causada por vírus, enquanto as outras doenças são causadas por bactérias ou vermes."
+    },
+    {
+        "pergunta": "Qual hormônio é responsável pela regulação da taxa de glicose no sangue?",
+        "opcoes": {
+            "a": "Adrenalina",
+            "b": "Cortisol",
+            "c": "Insulina",
+            "d": "Melatonina"
+        },
+        "resposta": "c",
+        "explicacao": "A insulina, produzida pelo pâncreas, reduz a concentração de glicose no sangue ao facilitar sua entrada nas células."
+    },
+    {
+        "pergunta": "Os cromossomos são formados principalmente por:",
+        "opcoes": {
+            "a": "Ácidos graxos e sais minerais",
+            "b": "Proteínas e lipídios",
+            "c": "DNA e proteínas",
+            "d": "RNA e vitaminas"
+        },
+        "resposta": "c",
+        "explicacao": "Os cromossomos são estruturas organizadas compostas por DNA e proteínas, responsáveis pela hereditariedade."
+    },
+    {
+        "pergunta": "Qual das opções representa um exemplo de seleção natural?",
+        "opcoes": {
+            "a": "Modificação genética induzida por cientistas",
+            "b": "Sobrevivência dos organismos mais adaptados ao ambiente",
+            "c": "Hibridização entre espécies",
+            "d": "Clonagem de animais"
+        },
+        "resposta": "b",
+        "explicacao": "A seleção natural é um processo no qual os organismos mais adaptados têm maior chance de sobrevivência e reprodução."
+    },
+    {
+        "pergunta": "Qual é o principal papel dos leucócitos no sangue?",
+        "opcoes": {
+            "a": "Transportar oxigênio",
+            "b": "Coagular o sangue",
+            "c": "Defender o organismo contra patógenos",
+            "d": "Regular a pressão sanguínea"
+        },
+        "resposta": "c",
+        "explicacao": "Leucócitos (glóbulos brancos) são células do sistema imune responsáveis pela defesa do organismo contra agentes invasores."
+    },
+    {
+        "pergunta": "Qual organela celular está associada à produção de energia?",
+        "opcoes": {
+            "a": "Ribossomo",
+            "b": "Complexo golgiense",
+            "c": "Mitocôndria",
+            "d": "Lisossomo"
+        },
+        "resposta": "c",
+        "explicacao": "As mitocôndrias são responsáveis pela produção de ATP por meio da respiração celular aeróbica."
+    },
+    {
+        "pergunta": "Na fotossíntese, o gás carbônico é utilizado para:",
+        "opcoes": {
+            "a": "Gerar ATP",
+            "b": "Formar glicose",
+            "c": "Quebrar proteínas",
+            "d": "Liberar oxigênio"
+        },
+        "resposta": "b",
+        "explicacao": "Durante a fotossíntese, o CO₂ é usado na fase escura para formar moléculas de glicose."
+    },
+    {
+        "pergunta": "O que ocorre durante a fecundação?",
+        "opcoes": {
+            "a": "Divisão da célula-ovo",
+            "b": "Fusão dos núcleos do espermatozoide e do óvulo",
+            "c": "Desenvolvimento embrionário",
+            "d": "Liberação de hormônios sexuais"
+        },
+        "resposta": "b",
+        "explicacao": "A fecundação consiste na fusão dos núcleos do gameta masculino (espermatozoide) e do feminino (óvulo), formando o zigoto."
+    },
+    {
+        "pergunta": "Qual estrutura é responsável pela absorção de nutrientes no intestino delgado?",
+        "opcoes": {
+            "a": "Vilosidades intestinais",
+            "b": "Esôfago",
+            "c": "Estômago",
+            "d": "Apêndice"
+        },
+        "resposta": "a",
+        "explicacao": "As vilosidades intestinais aumentam a superfície de contato e facilitam a absorção dos nutrientes no intestino delgado."
+    },
+    {
+        "pergunta": "O que caracteriza um ser vivo autotrófico?",
+        "opcoes": {
+            "a": "Necessita consumir matéria orgânica pronta",
+            "b": "Produz seu próprio alimento a partir de substâncias inorgânicas",
+            "c": "Depende de outros organismos para se locomover",
+            "d": "Se alimenta exclusivamente de carne"
+        },
+        "resposta": "b",
+        "explicacao": "Organismos autotróficos são capazes de produzir seu próprio alimento por processos como fotossíntese ou quimiossíntese."
+    },
+    {
+        "pergunta": "Qual é a função principal do sistema linfático?",
+        "opcoes": {
+            "a": "Transportar oxigênio",
+            "b": "Produzir hormônios",
+            "c": "Defender o corpo e drenar líquidos dos tecidos",
+            "d": "Eliminar toxinas pelo suor"
+        },
+        "resposta": "c",
+        "explicacao": "O sistema linfático participa da defesa imunológica e drena o excesso de líquidos dos tecidos para o sangue."
+    },
+    {
+        "pergunta": "Qual é a principal diferença entre células procariontes e eucariontes?",
+        "opcoes": {
+            "a": "As procariontes possuem núcleo verdadeiro",
+            "b": "As eucariontes não possuem membrana plasmática",
+            "c": "As procariontes não possuem núcleo organizado",
+            "d": "As eucariontes são exclusivas de bactérias"
+        },
+        "resposta": "c",
+        "explicacao": "Células procariontes, como as bactérias, não possuem núcleo organizado; seu DNA fica disperso no citoplasma."
+    },
+    {
+        "pergunta": "O que acontece na fase S do ciclo celular?",
+        "opcoes": {
+            "a": "Divisão da célula",
+            "b": "Duplicação do DNA",
+            "c": "Aumento da célula",
+            "d": "Formação dos centríolos"
+        },
+        "resposta": "b",
+        "explicacao": "Na fase S (síntese) ocorre a duplicação do DNA, preparando a célula para a divisão."
+    },
+    {
+        "pergunta": "Qual hormônio é responsável pela regulação dos níveis de glicose no sangue?",
+        "opcoes": {
+            "a": "Adrenalina",
+            "b": "Insulina",
+            "c": "Testosterona",
+            "d": "Tiroxina"
+        },
+        "resposta": "b",
+        "explicacao": "A insulina, produzida pelo pâncreas, reduz os níveis de glicose no sangue, promovendo sua absorção pelas células."
+    },
+    {
+        "pergunta": "O que é um gene?",
+        "opcoes": {
+            "a": "Uma proteína que transporta oxigênio",
+            "b": "Uma sequência de DNA que codifica uma característica hereditária",
+            "c": "Uma célula responsável pela imunidade",
+            "d": "Uma organela citoplasmática"
+        },
+        "resposta": "b",
+        "explicacao": "Um gene é uma sequência de nucleotídeos no DNA que contém informações para a síntese de proteínas e herança de características."
+    },
+    {
+        "pergunta": "O que é um ecossistema?",
+        "opcoes": {
+            "a": "Um grupo de organismos da mesma espécie",
+            "b": "A interação entre os seres vivos e o ambiente físico",
+            "c": "Uma cadeia alimentar específica",
+            "d": "Um ambiente onde só existem seres humanos"
+        },
+        "resposta": "b",
+        "explicacao": "Ecossistema é o conjunto de seres vivos interagindo com os fatores abióticos de um determinado ambiente."
+    },
+    {
+        "pergunta": "O que caracteriza os vírus em relação aos outros seres vivos?",
+        "opcoes": {
+            "a": "Possuem células procariontes",
+            "b": "São acelulares e só se reproduzem dentro de células hospedeiras",
+            "c": "Realizam fotossíntese",
+            "d": "Têm metabolismo independente"
+        },
+        "resposta": "b",
+        "explicacao": "Vírus não possuem estrutura celular e dependem da maquinaria celular de um hospedeiro para se replicarem."
+    },
+    {
+        "pergunta": "O que são espécies endêmicas?",
+        "opcoes": {
+            "a": "Espécies invasoras de outros ambientes",
+            "b": "Espécies que migraram recentemente",
+            "c": "Espécies que ocorrem exclusivamente em uma determinada região",
+            "d": "Espécies extintas em seu habitat natural"
+        },
+        "resposta": "c",
+        "explicacao": "Espécies endêmicas são aquelas restritas a uma área geográfica específica, não ocorrendo naturalmente em outros lugares."
+    }
+]

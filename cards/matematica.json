@@ -1,0 +1,552 @@
+[
+    {
+        "pergunta": "Qual é o valor de x na equação 2x + 3 = 11?",
+        "opcoes": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "resposta": "b",
+        "explicacao": "Isolando o x: 2x = 11 - 3 → 2x = 8 → x = 8 ÷ 2 → x = 4."
+    },
+    {
+        "pergunta": "Qual é o valor da expressão (3² + 4²)?",
+        "opcoes": {
+            "a": "12",
+            "b": "25",
+            "c": "49",
+            "d": "7"
+        },
+        "resposta": "b",
+        "explicacao": "3² = 9, 4² = 16, então 9 + 16 = 25."
+    },
+    {
+        "pergunta": "Qual é a fração equivalente a 3/5?",
+        "opcoes": {
+            "a": "6/10",
+            "b": "9/20",
+            "c": "12/30",
+            "d": "15/40"
+        },
+        "resposta": "a",
+        "explicacao": "Multiplicando numerador e denominador por 2: 3/5 × 2/2 = 6/10."
+    },
+    {
+        "pergunta": "Qual é a área de um triângulo com base 10 cm e altura 5 cm?",
+        "opcoes": {
+            "a": "25 cm²",
+            "b": "30 cm²",
+            "c": "50 cm²",
+            "d": "100 cm²"
+        },
+        "resposta": "a",
+        "explicacao": "A fórmula da área do triângulo é (base × altura) ÷ 2. Assim: (10 × 5) ÷ 2 = 50 ÷ 2 = 25 cm²."
+    },
+    {
+        "pergunta": "Qual é o número decimal equivalente à fração 1/4?",
+        "opcoes": {
+            "a": "0,20",
+            "b": "0,25",
+            "c": "0,50",
+            "d": "0,75"
+        },
+        "resposta": "b",
+        "explicacao": "1 dividido por 4 é igual a 0,25."
+    },
+    {
+        "pergunta": "Quanto é 30% de 200?",
+        "opcoes": {
+            "a": "50",
+            "b": "60",
+            "c": "70",
+            "d": "80"
+        },
+        "resposta": "b",
+        "explicacao": "30% de 200 = 0,3 × 200 = 60."
+    },
+    {
+        "pergunta": "Se um carro percorre 120 km em 2 horas, qual é sua velocidade média?",
+        "opcoes": {
+            "a": "60 km/h",
+            "b": "80 km/h",
+            "c": "100 km/h",
+            "d": "120 km/h"
+        },
+        "resposta": "a",
+        "explicacao": "Velocidade média = distância ÷ tempo = 120 ÷ 2 = 60 km/h."
+    },
+    {
+        "pergunta": "Qual é a raiz quadrada de 144?",
+        "opcoes": {
+            "a": "10",
+            "b": "11",
+            "c": "12",
+            "d": "14"
+        },
+        "resposta": "c",
+        "explicacao": "12 × 12 = 144, portanto, a raiz quadrada de 144 é 12."
+    },
+    {
+        "pergunta": "Qual é o valor de x na equação x² = 81?",
+        "opcoes": {
+            "a": "8",
+            "b": "9",
+            "c": "10",
+            "d": "11"
+        },
+        "resposta": "b",
+        "explicacao": "x² = 81 → x = √81 → x = 9."
+    },
+    {
+        "pergunta": "Qual é o próximo número da sequência: 2, 4, 8, 16, ...?",
+        "opcoes": {
+            "a": "18",
+            "b": "20",
+            "c": "24",
+            "d": "32"
+        },
+        "resposta": "d",
+        "explicacao": "A sequência dobra a cada número: 2 × 2 = 4, 4 × 2 = 8, 8 × 2 = 16, 16 × 2 = 32."
+    },
+    {
+        "pergunta": "Qual é o valor de 2³?",
+        "opcoes": {
+            "a": "6",
+            "b": "8",
+            "c": "9",
+            "d": "12"
+        },
+        "resposta": "b",
+        "explicacao": "2³ = 2 × 2 × 2 = 8."
+    },
+    {
+        "pergunta": "Qual é o valor da média aritmética dos números 5, 10 e 15?",
+        "opcoes": {
+            "a": "10",
+            "b": "12",
+            "c": "13",
+            "d": "15"
+        },
+        "resposta": "a",
+        "explicacao": "Média = (5 + 10 + 15) ÷ 3 = 30 ÷ 3 = 10."
+    },
+    {
+        "pergunta": "Se um produto custa R$ 80,00 e tem um desconto de 25%, qual será o valor final?",
+        "opcoes": {
+            "a": "R$ 55,00",
+            "b": "R$ 60,00",
+            "c": "R$ 65,00",
+            "d": "R$ 70,00"
+        },
+        "resposta": "b",
+        "explicacao": "25% de 80 = 20, então 80 - 20 = 60."
+    },
+    {
+        "pergunta": "O que representa o MMC (mínimo múltiplo comum) de dois números?",
+        "opcoes": {
+            "a": "O menor divisor comum",
+            "b": "O maior número primo que divide os dois",
+            "c": "O menor número divisível por ambos",
+            "d": "O maior múltiplo comum"
+        },
+        "resposta": "c",
+        "explicacao": "MMC é o menor número que é múltiplo comum dos dois números."
+    },
+    {
+        "pergunta": "O que representa o MDC (máximo divisor comum)?",
+        "opcoes": {
+            "a": "O menor número que divide os dois números",
+            "b": "O maior número que divide os dois números",
+            "c": "O maior número primo comum",
+            "d": "O menor múltiplo comum"
+        },
+        "resposta": "b",
+        "explicacao": "MDC é o maior número que divide exatamente os dois números dados."
+    },
+    {
+        "pergunta": "Se um ângulo mede 90 graus, ele é classificado como:",
+        "opcoes": {
+            "a": "Agudo",
+            "b": "Obtuso",
+            "c": "Reto",
+            "d": "Raso"
+        },
+        "resposta": "c",
+        "explicacao": "Um ângulo de 90° é chamado de ângulo reto."
+    },
+    {
+        "pergunta": "Em um triângulo retângulo, o lado oposto ao ângulo reto é chamado de:",
+        "opcoes": {
+            "a": "Cateto oposto",
+            "b": "Cateto adjacente",
+            "c": "Hipotenusa",
+            "d": "Base"
+        },
+        "resposta": "c",
+        "explicacao": "A hipotenusa é o lado maior e oposto ao ângulo reto."
+    },
+    {
+        "pergunta": "Qual o valor de π (pi) aproximado, usado em cálculos?",
+        "opcoes": {
+            "a": "2,14",
+            "b": "3,14",
+            "c": "3,41",
+            "d": "4,13"
+        },
+        "resposta": "b",
+        "explicacao": "O valor aproximado de π é 3,14."
+    },
+    {
+        "pergunta": "Quantos lados tem um hexágono?",
+        "opcoes": {
+            "a": "5",
+            "b": "6",
+            "c": "7",
+            "d": "8"
+        },
+        "resposta": "b",
+        "explicacao": "Hexa significa seis, então um hexágono tem 6 lados."
+    },
+    {
+        "pergunta": "Qual é o perímetro de um quadrado com lado de 4 cm?",
+        "opcoes": {
+            "a": "12 cm",
+            "b": "14 cm",
+            "c": "16 cm",
+            "d": "18 cm"
+        },
+        "resposta": "c",
+        "explicacao": "Perímetro do quadrado = 4 × lado = 4 × 4 = 16 cm."
+    },
+    {
+        "pergunta": "Qual é a área de um retângulo com base 5 cm e altura 3 cm?",
+        "opcoes": {
+            "a": "8 cm²",
+            "b": "15 cm²",
+            "c": "10 cm²",
+            "d": "12 cm²"
+        },
+        "resposta": "b",
+        "explicacao": "Área do retângulo = base × altura = 5 × 3 = 15 cm²."
+    },
+    {
+        "pergunta": "Em uma função do 1º grau, y = 2x + 1, qual é o valor de y quando x = 4?",
+        "opcoes": {
+            "a": "9",
+            "b": "7",
+            "c": "6",
+            "d": "5"
+        },
+        "resposta": "a",
+        "explicacao": "y = 2×4 + 1 = 8 + 1 = 9."
+    },
+    {
+        "pergunta": "Em uma progressão aritmética (PA), a razão é:",
+        "opcoes": {
+            "a": "A multiplicação entre os termos",
+            "b": "A soma entre os termos",
+            "c": "A subtração entre os termos consecutivos",
+            "d": "A diferença entre o primeiro e o último termo"
+        },
+        "resposta": "c",
+        "explicacao": "Na PA, a razão é a diferença entre termos consecutivos."
+    },
+    {
+        "pergunta": "Qual é o número decimal correspondente à fração 3/4?",
+        "opcoes": {
+            "a": "0,25",
+            "b": "0,50",
+            "c": "0,75",
+            "d": "1,25"
+        },
+        "resposta": "c",
+        "explicacao": "3 dividido por 4 é igual a 0,75."
+    },
+    {
+        "pergunta": "Quanto é (2 + 3) × 4?",
+        "opcoes": {
+            "a": "14",
+            "b": "20",
+            "c": "24",
+            "d": "18"
+        },
+        "resposta": "b",
+        "explicacao": "Primeiro soma: 2 + 3 = 5. Depois multiplica: 5 × 4 = 20."
+    },
+    {
+        "pergunta": "Qual é o número que falta na sequência: 2, 4, 8, 16, ___?",
+        "opcoes": {
+            "a": "20",
+            "b": "24",
+            "c": "30",
+            "d": "32"
+        },
+        "resposta": "d",
+        "explicacao": "A sequência dobra a cada termo: 2×2=4, 4×2=8, 8×2=16, 16×2=32."
+    },
+    {
+        "pergunta": "Qual é a raiz quadrada de 49?",
+        "opcoes": {
+            "a": "6",
+            "b": "7",
+            "c": "8",
+            "d": "9"
+        },
+        "resposta": "b",
+        "explicacao": "7 × 7 = 49, logo a raiz quadrada de 49 é 7."
+    },
+    {
+        "pergunta": "Se f(x) = x², qual é o valor de f(5)?",
+        "opcoes": {
+            "a": "10",
+            "b": "15",
+            "c": "20",
+            "d": "25"
+        },
+        "resposta": "d",
+        "explicacao": "f(5) = 5² = 25."
+    },
+    {
+        "pergunta": "Qual é o valor de 5! (5 fatorial)?",
+        "opcoes": {
+            "a": "60",
+            "b": "100",
+            "c": "120",
+            "d": "150"
+        },
+        "resposta": "c",
+        "explicacao": "5! = 5×4×3×2×1 = 120."
+    },
+    {
+        "pergunta": "Qual é o próximo número primo após 13?",
+        "opcoes": {
+            "a": "14",
+            "b": "15",
+            "c": "17",
+            "d": "19"
+        },
+        "resposta": "c",
+        "explicacao": "Depois de 13, o número primo seguinte é 17 (pois 14, 15 e 16 são divisíveis)."
+    },
+    {
+        "pergunta": "Se João tem 2/3 de uma barra de chocolate e come 1/3, quanto sobra?",
+        "opcoes": {
+            "a": "1/2",
+            "b": "1/3",
+            "c": "2/3",
+            "d": "1/4"
+        },
+        "resposta": "b",
+        "explicacao": "2/3 - 1/3 = 1/3. João fica com 1/3 da barra."
+    },
+    {
+        "pergunta": "Qual é a média aritmética dos números 4, 6 e 8?",
+        "opcoes": {
+            "a": "5",
+            "b": "6",
+            "c": "7",
+            "d": "8"
+        },
+        "resposta": "b",
+        "explicacao": "Média = (4 + 6 + 8) / 3 = 18 / 3 = 6."
+    },
+    {
+        "pergunta": "Qual é o valor de x na equação: 3x + 2 = 11?",
+        "opcoes": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "5"
+        },
+        "resposta": "b",
+        "explicacao": "3x + 2 = 11 → 3x = 9 → x = 3."
+    },
+    {
+        "pergunta": "Quantos segundos há em 2 horas?",
+        "opcoes": {
+            "a": "3600",
+            "b": "5400",
+            "c": "7200",
+            "d": "9600"
+        },
+        "resposta": "c",
+        "explicacao": "1 hora = 3600 segundos → 2 horas = 2 × 3600 = 7200."
+    },
+    {
+        "pergunta": "Qual é a porcentagem de 20 em 80?",
+        "opcoes": {
+            "a": "15%",
+            "b": "20%",
+            "c": "25%",
+            "d": "30%"
+        },
+        "resposta": "c",
+        "explicacao": "20 é 1/4 de 80 → 1/4 = 25%."
+    },
+    {
+        "pergunta": "Quantos lados tem um octógono regular?",
+        "opcoes": {
+            "a": "6",
+            "b": "7",
+            "c": "8",
+            "d": "9"
+        },
+        "resposta": "c",
+        "explicacao": "O prefixo 'octo' indica oito lados."
+    },
+    {
+        "pergunta": "Qual é o volume de um cubo com aresta de 3 cm?",
+        "opcoes": {
+            "a": "9 cm³",
+            "b": "18 cm³",
+            "c": "27 cm³",
+            "d": "36 cm³"
+        },
+        "resposta": "c",
+        "explicacao": "Volume do cubo = aresta³ = 3³ = 27 cm³."
+    },
+    {
+        "pergunta": "Se um número x é tal que x + 7 = 12, qual o valor de x?",
+        "opcoes": {
+            "a": "4",
+            "b": "5",
+            "c": "6",
+            "d": "7"
+        },
+        "resposta": "b",
+        "explicacao": "x + 7 = 12 → x = 12 - 7 → x = 5."
+    },
+    {
+        "pergunta": "Qual é o menor múltiplo comum entre 4 e 6?",
+        "opcoes": {
+            "a": "12",
+            "b": "24",
+            "c": "18",
+            "d": "6"
+        },
+        "resposta": "a",
+        "explicacao": "12 é o menor número divisível tanto por 4 quanto por 6."
+    },
+    {
+        "pergunta": "Se um triângulo tem lados medindo 3 cm, 4 cm e 5 cm, ele é:",
+        "opcoes": {
+            "a": "Equilátero",
+            "b": "Isósceles",
+            "c": "Retângulo",
+            "d": "Obtusângulo"
+        },
+        "resposta": "c",
+        "explicacao": "3² + 4² = 9 + 16 = 25, que é igual a 5². Logo, é um triângulo retângulo."
+    },
+    {
+        "pergunta": "Qual é a área de um quadrado com lado de 6 cm?",
+        "opcoes": {
+            "a": "12 cm²",
+            "b": "18 cm²",
+            "c": "24 cm²",
+            "d": "36 cm²"
+        },
+        "resposta": "d",
+        "explicacao": "Área do quadrado = lado × lado = 6 × 6 = 36 cm²."
+    },
+    {
+        "pergunta": "Em uma progressão aritmética (PA), o primeiro termo é 2 e a razão é 3. Qual é o quarto termo?",
+        "opcoes": {
+            "a": "8",
+            "b": "9",
+            "c": "10",
+            "d": "11"
+        },
+        "resposta": "b",
+        "explicacao": "PA: 2, 5, 8, 11. O quarto termo é 11."
+    },
+    {
+        "pergunta": "Qual é a probabilidade de, ao lançar um dado comum, sair um número par?",
+        "opcoes": {
+            "a": "1/6",
+            "b": "1/2",
+            "c": "2/3",
+            "d": "3/6"
+        },
+        "resposta": "b",
+        "explicacao": "Números pares: 2, 4, 6. São 3 em 6 possíveis. 3/6 = 1/2."
+    },
+    {
+        "pergunta": "Qual é a fórmula da área do círculo?",
+        "opcoes": {
+            "a": "πr",
+            "b": "2πr",
+            "c": "πr²",
+            "d": "r²"
+        },
+        "resposta": "c",
+        "explicacao": "A área do círculo é calculada por A = π × r²."
+    },
+    {
+        "pergunta": "Qual é o número decimal equivalente a 3/4?",
+        "opcoes": {
+            "a": "0,25",
+            "b": "0,5",
+            "c": "0,75",
+            "d": "1,25"
+        },
+        "resposta": "c",
+        "explicacao": "3 dividido por 4 é igual a 0,75."
+    },
+    {
+        "pergunta": "Se um produto de R$ 120,00 teve um desconto de 25%, qual foi o valor pago?",
+        "opcoes": {
+            "a": "R$ 90,00",
+            "b": "R$ 95,00",
+            "c": "R$ 100,00",
+            "d": "R$ 105,00"
+        },
+        "resposta": "a",
+        "explicacao": "25% de 120 = 30. Valor pago: 120 - 30 = 90."
+    },
+    {
+        "pergunta": "Quantos graus tem a soma dos ângulos internos de um triângulo?",
+        "opcoes": {
+            "a": "90°",
+            "b": "180°",
+            "c": "270°",
+            "d": "360°"
+        },
+        "resposta": "b",
+        "explicacao": "A soma dos ângulos internos de qualquer triângulo é sempre 180°."
+    },
+    {
+        "pergunta": "Qual é o resultado de (-3)²?",
+        "opcoes": {
+            "a": "-9",
+            "b": "9",
+            "c": "-6",
+            "d": "6"
+        },
+        "resposta": "b",
+        "explicacao": "(-3)² = (-3) × (-3) = 9."
+    },
+    {
+        "pergunta": "Quantos metros há em 1,5 quilômetros?",
+        "opcoes": {
+            "a": "150 m",
+            "b": "1500 m",
+            "c": "15.000 m",
+            "d": "1.500.000 m"
+        },
+        "resposta": "b",
+        "explicacao": "1 km = 1000 m → 1,5 km = 1.500 m."
+    },
+    {
+        "pergunta": "Qual é a raiz quadrada de 49?",
+        "opcoes": {
+            "a": "6",
+            "b": "7",
+            "c": "8",
+            "d": "9"
+        },
+        "resposta": "b",
+        "explicacao": "A raiz quadrada de 49 é 7, pois 7 × 7 = 49."
+    }
+]

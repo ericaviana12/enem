@@ -1,0 +1,552 @@
+[
+    {
+        "pergunta": "What is the correct translation of the sentence: 'She is reading a book'?",
+        "opcoes": {
+            "a": "Ela está comendo um livro",
+            "b": "Ela leu um livro",
+            "c": "Ela está lendo um livro",
+            "d": "Ela gosta de livros"
+        },
+        "resposta": "c",
+        "explicacao": "A frase 'She is reading a book' está no presente contínuo e significa 'Ela está lendo um livro'."
+    },
+    {
+        "pergunta": "Qual alternativa significa 'I have never been to New York'?",
+        "opcoes": {
+            "a": "Eu sempre fui a Nova York",
+            "b": "Eu nunca estive em Nova York",
+            "c": "Eu estou em Nova York agora",
+            "d": "Eu morei em Nova York por um tempo"
+        },
+        "resposta": "b",
+        "explicacao": "'I have never been to New York' usa o present perfect e indica que a pessoa nunca esteve lá em toda a sua vida."
+    },
+    {
+        "pergunta": "No trecho 'They will travel tomorrow', qual é o tempo verbal utilizado?",
+        "opcoes": {
+            "a": "Passado simples",
+            "b": "Presente contínuo",
+            "c": "Futuro simples",
+            "d": "Presente simples"
+        },
+        "resposta": "c",
+        "explicacao": "'They will travel tomorrow' está no futuro simples, indicado pelo uso do 'will' seguido do verbo no infinitivo."
+    },
+    {
+        "pergunta": "Assinale o pronome que completa corretamente: '___ are my best friends.'",
+        "opcoes": {
+            "a": "We",
+            "b": "They",
+            "c": "He",
+            "d": "It"
+        },
+        "resposta": "b",
+        "explicacao": "A frase 'They are my best friends' está correta porque 'They' é o pronome usado para falar de várias pessoas."
+    },
+    {
+        "pergunta": "A palavra 'quickly' é classificada como:",
+        "opcoes": {
+            "a": "Adjetivo",
+            "b": "Verbo",
+            "c": "Substantivo",
+            "d": "Advérbio"
+        },
+        "resposta": "d",
+        "explicacao": "'Quickly' é um advérbio de modo, pois descreve como uma ação é realizada, nesse caso, de forma rápida."
+    },
+    {
+        "pergunta": "Qual o significado da palavra 'environment'?",
+        "opcoes": {
+            "a": "Emprego",
+            "b": "Ambiente",
+            "c": "Equipamento",
+            "d": "Evento"
+        },
+        "resposta": "b",
+        "explicacao": "'Environment' significa 'ambiente', especialmente em contextos naturais ou ecológicos."
+    },
+    {
+        "pergunta": "O que a expressão 'take care' significa?",
+        "opcoes": {
+            "a": "Aproveite",
+            "b": "Vá embora",
+            "c": "Se cuide",
+            "d": "Desista"
+        },
+        "resposta": "c",
+        "explicacao": "A expressão 'take care' é usada para se despedir de alguém desejando que ela se cuide."
+    },
+    {
+        "pergunta": "Traduza corretamente a frase: 'He doesn’t like to wake up early.'",
+        "opcoes": {
+            "a": "Ele gosta de dormir cedo",
+            "b": "Ele não gosta de acordar cedo",
+            "c": "Ele gosta de acordar cedo",
+            "d": "Ele não gosta de dormir cedo"
+        },
+        "resposta": "b",
+        "explicacao": "'He doesn’t like to wake up early' significa 'Ele não gosta de acordar cedo'."
+    },
+    {
+        "pergunta": "Qual é o plural da palavra 'child'?",
+        "opcoes": {
+            "a": "Childs",
+            "b": "Childes",
+            "c": "Children",
+            "d": "Childer"
+        },
+        "resposta": "c",
+        "explicacao": "'Child' tem forma irregular no plural, tornando-se 'children'."
+    },
+    {
+        "pergunta": "Assinale a opção com a preposição correta: 'She is interested ___ music.'",
+        "opcoes": {
+            "a": "in",
+            "b": "at",
+            "c": "on",
+            "d": "to"
+        },
+        "resposta": "a",
+        "explicacao": "A preposição correta com 'interested' é 'in'. Portanto: 'She is interested in music.'"
+    },
+    {
+        "pergunta": "O que significa a palavra 'improve' em português?",
+        "opcoes": {
+            "a": "Provar",
+            "b": "Importar",
+            "c": "Melhorar",
+            "d": "Aproximar"
+        },
+        "resposta": "c",
+        "explicacao": "'Improve' significa 'melhorar', geralmente usado para indicar progresso ou aperfeiçoamento."
+    },
+    {
+        "pergunta": "Traduza a frase: 'They are watching a movie.'",
+        "opcoes": {
+            "a": "Eles assistiram um filme",
+            "b": "Eles estão assistindo a um filme",
+            "c": "Eles vão assistir um filme",
+            "d": "Eles assistem um filme"
+        },
+        "resposta": "b",
+        "explicacao": "A frase está no presente contínuo: 'They are watching a movie' = 'Eles estão assistindo a um filme'."
+    },
+    {
+        "pergunta": "Qual dessas palavras é um advérbio?",
+        "opcoes": {
+            "a": "Quick",
+            "b": "Quickly",
+            "c": "Quicker",
+            "d": "Quickness"
+        },
+        "resposta": "b",
+        "explicacao": "'Quickly' é o advérbio de modo, derivado de 'quick'. Significa 'rapidamente'."
+    },
+    {
+        "pergunta": "O que significa a palavra 'journey'?",
+        "opcoes": {
+            "a": "Jornada ou viagem",
+            "b": "Trabalho",
+            "c": "Descanso",
+            "d": "Dia"
+        },
+        "resposta": "a",
+        "explicacao": "'Journey' significa 'jornada' ou 'viagem', especialmente com um percurso."
+    },
+    {
+        "pergunta": "A expressão 'How often' é usada para perguntar sobre:",
+        "opcoes": {
+            "a": "Quando",
+            "b": "Com que frequência",
+            "c": "Quanto custa",
+            "d": "Por que"
+        },
+        "resposta": "b",
+        "explicacao": "'How often' é usada para perguntar com que frequência algo ocorre."
+    },
+    {
+        "pergunta": "O que significa a expressão 'take care'?",
+        "opcoes": {
+            "a": "Ter cuidado / se cuidar",
+            "b": "Levar algo",
+            "c": "Cuidar dos outros",
+            "d": "Pegar com atenção"
+        },
+        "resposta": "a",
+        "explicacao": "'Take care' é uma expressão usada para desejar que alguém se cuide ou para indicar atenção com algo."
+    },
+    {
+        "pergunta": "Traduza: 'She doesn't like coffee.'",
+        "opcoes": {
+            "a": "Ela gosta de café",
+            "b": "Ela não gosta de café",
+            "c": "Ela está tomando café",
+            "d": "Ela não está com café"
+        },
+        "resposta": "b",
+        "explicacao": "'Doesn't like' indica negação: 'She doesn't like coffee' = 'Ela não gosta de café'."
+    },
+    {
+        "pergunta": "Qual destas palavras significa 'rápido'?",
+        "opcoes": {
+            "a": "Fast",
+            "b": "Late",
+            "c": "Slow",
+            "d": "Last"
+        },
+        "resposta": "a",
+        "explicacao": "'Fast' é o adjetivo que significa 'rápido'."
+    },
+    {
+        "pergunta": "A palavra 'library' em inglês significa:",
+        "opcoes": {
+            "a": "Livraria",
+            "b": "Biblioteca",
+            "c": "Escola",
+            "d": "Livro"
+        },
+        "resposta": "b",
+        "explicacao": "'Library' é 'biblioteca' em inglês. Atenção ao falso cognato com 'livraria', que é 'bookstore'."
+    },
+    {
+        "pergunta": "Qual a forma correta do plural de 'child'?",
+        "opcoes": {
+            "a": "Childs",
+            "b": "Childes",
+            "c": "Children",
+            "d": "Childer"
+        },
+        "resposta": "c",
+        "explicacao": "A forma irregular do plural de 'child' é 'children'."
+    },
+    {
+        "pergunta": "O que significa a expressão 'How much does it cost?'",
+        "opcoes": {
+            "a": "Quanto tempo falta?",
+            "b": "Onde isso custa?",
+            "c": "Quanto isso custa?",
+            "d": "Como isso custa?"
+        },
+        "resposta": "c",
+        "explicacao": "'How much does it cost?' é uma pergunta comum que significa 'Quanto isso custa?'."
+    },
+    {
+        "pergunta": "A frase 'I'm looking for my keys' significa:",
+        "opcoes": {
+            "a": "Estou pegando minhas chaves",
+            "b": "Estou procurando minhas chaves",
+            "c": "Encontrei minhas chaves",
+            "d": "Perdi minhas chaves"
+        },
+        "resposta": "b",
+        "explicacao": "'Looking for' é uma expressão que significa 'procurando'."
+    },
+    {
+        "pergunta": "Qual é o passado do verbo 'go'?",
+        "opcoes": {
+            "a": "Goed",
+            "b": "Goes",
+            "c": "Went",
+            "d": "Gone"
+        },
+        "resposta": "c",
+        "explicacao": "O passado simples do verbo irregular 'go' é 'went'."
+    },
+    {
+        "pergunta": "O que significa 'always'?",
+        "opcoes": {
+            "a": "Nunca",
+            "b": "Às vezes",
+            "c": "Raramente",
+            "d": "Sempre"
+        },
+        "resposta": "d",
+        "explicacao": "'Always' significa 'sempre', indicando frequência constante."
+    },
+    {
+        "pergunta": "Traduza: 'They are studying for the test.'",
+        "opcoes": {
+            "a": "Eles vão fazer a prova",
+            "b": "Eles estudam para a prova",
+            "c": "Eles estão estudando para a prova",
+            "d": "Eles estudaram para a prova"
+        },
+        "resposta": "c",
+        "explicacao": "'Are studying' indica presente contínuo: 'Eles estão estudando para a prova'."
+    },
+    {
+        "pergunta": "Qual dessas frases está no tempo verbal futuro?",
+        "opcoes": {
+            "a": "She will travel next year",
+            "b": "She travels every day",
+            "c": "She is traveling now",
+            "d": "She traveled yesterday"
+        },
+        "resposta": "a",
+        "explicacao": "'Will travel' é o futuro simples em inglês, usado para indicar ações que acontecerão."
+    },
+    {
+        "pergunta": "Traduza: 'My favorite subject is math.'",
+        "opcoes": {
+            "a": "Minha comida favorita é matemática",
+            "b": "Minha sala favorita é matemática",
+            "c": "Minha matéria favorita é matemática",
+            "d": "Meu assunto favorito é números"
+        },
+        "resposta": "c",
+        "explicacao": "'Subject' neste contexto significa 'matéria escolar'."
+    },
+    {
+        "pergunta": "Qual o significado de 'Can you help me?'",
+        "opcoes": {
+            "a": "Você pode sair?",
+            "b": "Você pode me ajudar?",
+            "c": "Você quer ajuda?",
+            "d": "Você sabe me ajudar?"
+        },
+        "resposta": "b",
+        "explicacao": "A frase é uma pergunta comum pedindo ajuda: 'Você pode me ajudar?'."
+    },
+    {
+        "pergunta": "A palavra 'bookstore' significa:",
+        "opcoes": {
+            "a": "Livraria",
+            "b": "Biblioteca",
+            "c": "Escola",
+            "d": "Editor"
+        },
+        "resposta": "a",
+        "explicacao": "'Bookstore' é onde se compram livros, ou seja, livraria. Biblioteca é 'library'."
+    },
+    {
+        "pergunta": "Complete a frase: 'I _____ to school by bus.'",
+        "opcoes": {
+            "a": "go",
+            "b": "goes",
+            "c": "went",
+            "d": "gone"
+        },
+        "resposta": "a",
+        "explicacao": "'I go' está no presente simples e é a conjugação correta para a primeira pessoa do singular."
+    },
+    {
+        "pergunta": "Qual das opções representa uma saudação formal em inglês?",
+        "opcoes": {
+            "a": "Hey!",
+            "b": "What's up?",
+            "c": "Good morning",
+            "d": "Yo!"
+        },
+        "resposta": "c",
+        "explicacao": "'Good morning' é uma saudação formal usada geralmente em contextos profissionais ou educacionais."
+    },
+    {
+        "pergunta": "Traduza: 'They are watching a movie.'",
+        "opcoes": {
+            "a": "Eles estão comendo um filme",
+            "b": "Eles estavam assistindo um filme",
+            "c": "Eles assistem um filme",
+            "d": "Eles estão assistindo a um filme"
+        },
+        "resposta": "d",
+        "explicacao": "'They are watching a movie' está no presente contínuo, indicando uma ação em andamento."
+    },
+    {
+        "pergunta": "A palavra 'cheap' significa:",
+        "opcoes": {
+            "a": "Caro",
+            "b": "Rápido",
+            "c": "Barato",
+            "d": "Lento"
+        },
+        "resposta": "c",
+        "explicacao": "'Cheap' significa barato. O oposto seria 'expensive' (caro)."
+    },
+    {
+        "pergunta": "Qual frase está correta no passado simples?",
+        "opcoes": {
+            "a": "She eat pizza",
+            "b": "She eats pizza",
+            "c": "She ate pizza",
+            "d": "She eaten pizza"
+        },
+        "resposta": "c",
+        "explicacao": "'Ate' é o passado do verbo 'eat'. As outras opções estão em tempo verbal incorreto ou com erro gramatical."
+    },
+    {
+        "pergunta": "Traduza: 'I have two brothers and one sister.'",
+        "opcoes": {
+            "a": "Eu tenho dois irmãos e uma irmã",
+            "b": "Eu sou dois irmãos e uma irmã",
+            "c": "Eu vejo dois irmãos e uma irmã",
+            "d": "Eu moro com dois irmãos e uma irmã"
+        },
+        "resposta": "a",
+        "explicacao": "A frase 'I have' indica posse. Portanto, a tradução correta é 'Eu tenho dois irmãos e uma irmã'."
+    },
+    {
+        "pergunta": "O plural da palavra 'child' em inglês é:",
+        "opcoes": {
+            "a": "childs",
+            "b": "children",
+            "c": "childes",
+            "d": "childrens"
+        },
+        "resposta": "b",
+        "explicacao": "'Child' é uma palavra irregular em inglês. O plural correto é 'children'."
+    },
+    {
+        "pergunta": "Qual é a forma negativa da frase: 'He works every day'?",
+        "opcoes": {
+            "a": "He not works every day",
+            "b": "He doesn't works every day",
+            "c": "He don't work every day",
+            "d": "He doesn't work every day"
+        },
+        "resposta": "d",
+        "explicacao": "Na negativa, o verbo auxiliar 'doesn't' é usado e o verbo principal volta à forma base: 'work'."
+    },
+    {
+        "pergunta": "Traduza: 'She needs help with her homework.'",
+        "opcoes": {
+            "a": "Ela está fazendo sua lição de casa",
+            "b": "Ela precisa de ajuda com a lição de casa",
+            "c": "Ela terminou sua lição de casa",
+            "d": "Ela quer sua lição de casa"
+        },
+        "resposta": "b",
+        "explicacao": "'Needs help' significa 'precisa de ajuda'. A tradução correta é 'Ela precisa de ajuda com a lição de casa'."
+    },
+    {
+        "pergunta": "Qual das frases está no futuro simples?",
+        "opcoes": {
+            "a": "She is going to the party",
+            "b": "She will go to the party",
+            "c": "She went to the party",
+            "d": "She goes to the party"
+        },
+        "resposta": "b",
+        "explicacao": "O futuro simples em inglês é formado com 'will' + verbo no infinitivo. 'She will go' é a forma correta."
+    },
+    {
+        "pergunta": "A palavra 'tall' refere-se a algo:",
+        "opcoes": {
+            "a": "Gordo",
+            "b": "Baixo",
+            "c": "Alto",
+            "d": "Magro"
+        },
+        "resposta": "c",
+        "explicacao": "'Tall' significa alto. É usado geralmente para descrever pessoas ou edifícios altos."
+    },
+    {
+        "pergunta": "Qual dessas palavras é um verbo?",
+        "opcoes": {
+            "a": "Quick",
+            "b": "Run",
+            "c": "Blue",
+            "d": "Happy"
+        },
+        "resposta": "b",
+        "explicacao": "'Run' é um verbo que significa 'correr'. As demais são adjetivos."
+    },
+    {
+        "pergunta": "Complete: 'I ___ playing soccer now.'",
+        "opcoes": {
+            "a": "am",
+            "b": "is",
+            "c": "are",
+            "d": "be"
+        },
+        "resposta": "a",
+        "explicacao": "O sujeito 'I' exige o verbo 'am' na forma contínua: 'I am playing soccer now'."
+    },
+    {
+        "pergunta": "O que significa a palavra 'cold'?",
+        "opcoes": {
+            "a": "Frio",
+            "b": "Quente",
+            "c": "Chuva",
+            "d": "Vento"
+        },
+        "resposta": "a",
+        "explicacao": "'Cold' em inglês significa 'frio'."
+    },
+    {
+        "pergunta": "Traduza: 'They are watching a movie.'",
+        "opcoes": {
+            "a": "Eles assistem filmes",
+            "b": "Eles assistiram a um filme",
+            "c": "Eles estão assistindo a um filme",
+            "d": "Eles vão assistir a um filme"
+        },
+        "resposta": "c",
+        "explicacao": "'They are watching' é o presente contínuo: 'Eles estão assistindo a um filme'."
+    },
+    {
+        "pergunta": "Qual o oposto de 'old' em inglês?",
+        "opcoes": {
+            "a": "Hot",
+            "b": "New",
+            "c": "Cold",
+            "d": "Tall"
+        },
+        "resposta": "b",
+        "explicacao": "'Old' significa 'velho'; seu oposto é 'new', que significa 'novo'."
+    },
+    {
+        "pergunta": "Qual frase está no passado simples?",
+        "opcoes": {
+            "a": "She eats breakfast.",
+            "b": "He is eating breakfast.",
+            "c": "They ate breakfast.",
+            "d": "I will eat breakfast."
+        },
+        "resposta": "c",
+        "explicacao": "'They ate breakfast' está no passado simples. 'Ate' é o passado de 'eat'."
+    },
+    {
+        "pergunta": "Qual dessas palavras é um adjetivo?",
+        "opcoes": {
+            "a": "Quickly",
+            "b": "Run",
+            "c": "Beautiful",
+            "d": "Swimming"
+        },
+        "resposta": "c",
+        "explicacao": "'Beautiful' é um adjetivo. 'Quickly' é advérbio, 'Run' é verbo e 'Swimming' é forma verbal ou substantivo."
+    },
+    {
+        "pergunta": "Qual é a forma negativa de 'She likes pizza'?",
+        "opcoes": {
+            "a": "She not likes pizza.",
+            "b": "She doesn't likes pizza.",
+            "c": "She doesn't like pizza.",
+            "d": "She don't like pizza."
+        },
+        "resposta": "c",
+        "explicacao": "A forma correta na negativa é 'She doesn't like pizza', com o verbo no infinitivo após 'doesn't'."
+    },
+    {
+        "pergunta": "Como se diz 'livro' em inglês?",
+        "opcoes": {
+            "a": "Pen",
+            "b": "Book",
+            "c": "Notebook",
+            "d": "Paper"
+        },
+        "resposta": "b",
+        "explicacao": "'Livro' em inglês é 'book'."
+    },
+    {
+        "pergunta": "Complete: 'He ___ to school every day.'",
+        "opcoes": {
+            "a": "go",
+            "b": "goes",
+            "c": "going",
+            "d": "gone"
+        },
+        "resposta": "b",
+        "explicacao": "Com o sujeito 'he', o verbo 'go' recebe o 'es' no presente simples: 'He goes to school every day'."
+    }
+]

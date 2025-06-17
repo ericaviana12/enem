@@ -1,0 +1,552 @@
+[
+    {
+        "pergunta": "Qual é o principal objeto de estudo da Sociologia?",
+        "opcoes": {
+            "a": "O comportamento biológico dos seres vivos",
+            "b": "As leis naturais da física",
+            "c": "A estrutura e o funcionamento da sociedade",
+            "d": "A evolução das espécies"
+        },
+        "resposta": "c",
+        "explicacao": "A Sociologia estuda as relações sociais, as instituições, as normas, os comportamentos e os processos que estruturam a vida em sociedade."
+    },
+    {
+        "pergunta": "Quem é considerado o 'pai da Sociologia'?",
+        "opcoes": {
+            "a": "Karl Marx",
+            "b": "Émile Durkheim",
+            "c": "Max Weber",
+            "d": "Auguste Comte"
+        },
+        "resposta": "d",
+        "explicacao": "Auguste Comte é considerado o pai da Sociologia por ter sido o primeiro a sistematizar a disciplina como ciência, propondo o positivismo."
+    },
+    {
+        "pergunta": "Para Karl Marx, o motor da história é:",
+        "opcoes": {
+            "a": "A religião",
+            "b": "A luta de classes",
+            "c": "A cultura",
+            "d": "O desenvolvimento tecnológico"
+        },
+        "resposta": "b",
+        "explicacao": "Karl Marx acreditava que a luta de classes era o principal motor das transformações históricas e sociais, com conflitos entre dominantes e dominados."
+    },
+    {
+        "pergunta": "O que Émile Durkheim entendia por fato social?",
+        "opcoes": {
+            "a": "Qualquer ação racional do indivíduo",
+            "b": "Uma manifestação cultural irrelevante",
+            "c": "Regras e normas coletivas que influenciam o comportamento individual",
+            "d": "Decisões individuais tomadas em grupo"
+        },
+        "resposta": "c",
+        "explicacao": "Para Durkheim, fato social é tudo aquilo que é exterior ao indivíduo, mas que exerce sobre ele um poder coercitivo, como leis, costumes e normas sociais."
+    },
+    {
+        "pergunta": "Segundo Max Weber, a ação social é:",
+        "opcoes": {
+            "a": "Um comportamento instintivo",
+            "b": "Qualquer ação influenciada por regras biológicas",
+            "c": "Uma conduta dotada de sentido pelo indivíduo em relação a outros",
+            "d": "O efeito do acaso nas sociedades"
+        },
+        "resposta": "c",
+        "explicacao": "Max Weber definia ação social como a ação que considera o comportamento dos outros e a isso orienta o seu sentido."
+    },
+    {
+        "pergunta": "O que caracteriza a ideologia segundo a perspectiva marxista?",
+        "opcoes": {
+            "a": "Uma doutrina religiosa que orienta a sociedade",
+            "b": "Uma expressão livre de ideias",
+            "c": "Um conjunto de ideias que justificam os interesses da classe dominante",
+            "d": "Um sistema político democrático"
+        },
+        "resposta": "c",
+        "explicacao": "Na visão marxista, a ideologia é um instrumento utilizado pela classe dominante para manter sua posição, mascarando as desigualdades sociais como naturais."
+    },
+    {
+        "pergunta": "Qual é a principal forma de coesão social na sociedade moderna, segundo Durkheim?",
+        "opcoes": {
+            "a": "Solidariedade mecânica",
+            "b": "Repressão social",
+            "c": "Solidariedade orgânica",
+            "d": "Religião institucional"
+        },
+        "resposta": "c",
+        "explicacao": "Durkheim afirmava que, nas sociedades modernas, a coesão social ocorre por meio da solidariedade orgânica, baseada na interdependência entre funções sociais especializadas."
+    },
+    {
+        "pergunta": "A anomia, segundo Durkheim, é:",
+        "opcoes": {
+            "a": "Um estado de equilíbrio social",
+            "b": "A ausência de normas ou enfraquecimento delas",
+            "c": "Uma doutrina política totalitária",
+            "d": "A presença excessiva de leis"
+        },
+        "resposta": "b",
+        "explicacao": "Anomia é uma situação em que as normas sociais perdem sua força reguladora, o que pode gerar desordem e desintegração social."
+    },
+    {
+        "pergunta": "O conceito de 'tipo ideal', criado por Weber, serve para:",
+        "opcoes": {
+            "a": "Estabelecer padrões morais universais",
+            "b": "Definir o comportamento adequado em sociedades",
+            "c": "Construir modelos analíticos para compreender fenômenos sociais",
+            "d": "Determinar as leis naturais da sociedade"
+        },
+        "resposta": "c",
+        "explicacao": "O tipo ideal é uma ferramenta metodológica usada por Weber para analisar a realidade social a partir de modelos abstratos que destacam características essenciais de determinado fenômeno."
+    },
+    {
+        "pergunta": "Para a Sociologia, a 'socialização' é o processo:",
+        "opcoes": {
+            "a": "De reprodução biológica dos seres humanos",
+            "b": "De transformação da economia em ciência social",
+            "c": "De aprendizado e internalização de normas, valores e costumes de uma sociedade",
+            "d": "De rejeição aos padrões culturais dominantes"
+        },
+        "resposta": "c",
+        "explicacao": "Socialização é o processo pelo qual os indivíduos aprendem e incorporam os valores e normas da sociedade, tornando-se membros ativos dela."
+    },
+    {
+        "pergunta": "A cultura de massa é caracterizada por:",
+        "opcoes": {
+            "a": "Produção espontânea de comunidades rurais",
+            "b": "Exclusividade e acesso limitado à elite",
+            "c": "Produção padronizada e consumo em larga escala",
+            "d": "Tradições orais preservadas ao longo de gerações"
+        },
+        "resposta": "c",
+        "explicacao": "A cultura de massa é produzida em larga escala, com conteúdos padronizados voltados ao consumo de grandes públicos, geralmente promovida pelos meios de comunicação."
+    },
+    {
+        "pergunta": "Qual o papel das instituições sociais na sociedade?",
+        "opcoes": {
+            "a": "Criar obstáculos à liberdade individual",
+            "b": "Preservar a desigualdade econômica",
+            "c": "Organizar e regular comportamentos sociais",
+            "d": "Eliminar a diversidade cultural"
+        },
+        "resposta": "c",
+        "explicacao": "As instituições sociais, como família, escola e Estado, têm a função de estruturar e orientar os comportamentos individuais e coletivos dentro da sociedade."
+    },
+    {
+        "pergunta": "O conceito de mobilidade social refere-se a:",
+        "opcoes": {
+            "a": "Deslocamento geográfico entre países",
+            "b": "Alteração na posição social de um indivíduo ou grupo",
+            "c": "Troca de emprego dentro da mesma empresa",
+            "d": "Revoltas populares contra o governo"
+        },
+        "resposta": "b",
+        "explicacao": "Mobilidade social é a mudança de status social de um indivíduo ou grupo, podendo ser ascendente (melhora de condição) ou descendente (perda de status)."
+    },
+    {
+        "pergunta": "O termo 'etnocentrismo' significa:",
+        "opcoes": {
+            "a": "Valorização da diversidade cultural",
+            "b": "Rejeição ao nacionalismo",
+            "c": "Avaliação de outras culturas com base na própria",
+            "d": "Promoção da igualdade entre culturas"
+        },
+        "resposta": "c",
+        "explicacao": "Etnocentrismo é a tendência de julgar outras culturas com base nos valores da própria cultura, considerando-as inferiores ou erradas."
+    },
+    {
+        "pergunta": "O que são movimentos sociais?",
+        "opcoes": {
+            "a": "Grupos que buscam perpetuar a tradição",
+            "b": "Associações empresariais",
+            "c": "Ações coletivas organizadas com o objetivo de promover mudanças sociais",
+            "d": "Instituições religiosas organizadas"
+        },
+        "resposta": "c",
+        "explicacao": "Movimentos sociais são formas de ação coletiva que visam transformar ou preservar aspectos da sociedade, como os movimentos feminista, negro, ambientalista, entre outros."
+    },
+    {
+        "pergunta": "O sociólogo Karl Marx é conhecido por qual principal teoria?",
+        "opcoes": {
+            "a": "Teoria do funcionalismo",
+            "b": "Teoria da ação social",
+            "c": "Materialismo histórico e luta de classes",
+            "d": "Evolucionismo cultural"
+        },
+        "resposta": "c",
+        "explicacao": "Karl Marx desenvolveu o materialismo histórico, defendendo que os conflitos entre as classes sociais são o motor da história e que a luta de classes é central para entender as transformações sociais."
+    },
+    {
+        "pergunta": "Para Émile Durkheim, a sociedade é vista como:",
+        "opcoes": {
+            "a": "Um campo de disputa entre classes",
+            "b": "Um conjunto de ações individuais",
+            "c": "Um organismo com partes interdependentes",
+            "d": "Um espaço de revolução permanente"
+        },
+        "resposta": "c",
+        "explicacao": "Durkheim via a sociedade como um organismo social, onde cada instituição tem uma função e contribui para o equilíbrio e funcionamento do todo."
+    },
+    {
+        "pergunta": "O conceito de 'fato social', criado por Durkheim, refere-se a:",
+        "opcoes": {
+            "a": "Eventos históricos de grande repercussão",
+            "b": "Ações políticas de líderes sociais",
+            "c": "Modos de agir, pensar e sentir exteriores ao indivíduo",
+            "d": "Expressões artísticas coletivas"
+        },
+        "resposta": "c",
+        "explicacao": "Fatos sociais são padrões de comportamento coletivos que exercem coerção sobre os indivíduos, como normas, leis, tradições e costumes."
+    },
+    {
+        "pergunta": "Max Weber introduziu o conceito de 'ação social', que se refere a:",
+        "opcoes": {
+            "a": "Atos praticados por instituições públicas",
+            "b": "Comportamentos determinados por fatores econômicos",
+            "c": "Ações individuais que possuem sentido para quem as realiza",
+            "d": "Atividades políticas organizadas por partidos"
+        },
+        "resposta": "c",
+        "explicacao": "Ação social é qualquer ação humana que leva em conta o comportamento dos outros e o significado atribuído pelo indivíduo que age, sendo base da sociologia compreensiva de Weber."
+    },
+    {
+        "pergunta": "O que caracteriza uma sociedade moderna, segundo a sociologia clássica?",
+        "opcoes": {
+            "a": "Predominância do trabalho agrícola e familiar",
+            "b": "Organização social baseada em tradições e mitos",
+            "c": "Divisão social do trabalho e racionalização das relações sociais",
+            "d": "Ausência de instituições formais"
+        },
+        "resposta": "c",
+        "explicacao": "A sociedade moderna é marcada pela divisão social do trabalho, uso da razão para organizar a vida social, burocracia e instituições formais complexas."
+    },
+    {
+        "pergunta": "A teoria do funcionalismo, em sociologia, busca explicar a sociedade a partir de:",
+        "opcoes": {
+            "a": "Conflitos entre grupos de poder",
+            "b": "Interações simbólicas entre indivíduos",
+            "c": "Funções que cada instituição exerce para o equilíbrio social",
+            "d": "Ações econômicas dos indivíduos"
+        },
+        "resposta": "c",
+        "explicacao": "O funcionalismo entende a sociedade como um sistema composto por partes interdependentes, em que cada instituição tem uma função que contribui para o equilíbrio e manutenção da ordem social."
+    },
+    {
+        "pergunta": "O que é etnocentrismo?",
+        "opcoes": {
+            "a": "A valorização igual de todas as culturas",
+            "b": "A ideia de que todas as culturas são inferiores à própria",
+            "c": "A compreensão da cultura do outro com base em sua lógica interna",
+            "d": "A neutralidade em relação a diferenças culturais"
+        },
+        "resposta": "b",
+        "explicacao": "Etnocentrismo é o julgamento de outras culturas com base nos valores e padrões da própria cultura, geralmente levando à desvalorização do outro."
+    },
+    {
+        "pergunta": "A mobilidade social refere-se a:",
+        "opcoes": {
+            "a": "A mudança de cidade ou país por um indivíduo",
+            "b": "A capacidade de se deslocar fisicamente no espaço urbano",
+            "c": "A mudança de posição social dentro da estrutura social",
+            "d": "A flexibilidade das leis em uma sociedade democrática"
+        },
+        "resposta": "c",
+        "explicacao": "Mobilidade social é o movimento de indivíduos ou grupos entre diferentes posições na hierarquia social, podendo ser ascendente ou descendente."
+    },
+    {
+        "pergunta": "O conceito de anomia, segundo Durkheim, é:",
+        "opcoes": {
+            "a": "A ausência de leis em sociedades primitivas",
+            "b": "A perda de sentido das normas sociais, gerando desorganização",
+            "c": "A opressão exercida por estados autoritários",
+            "d": "A imposição de regras por grupos religiosos"
+        },
+        "resposta": "b",
+        "explicacao": "Anomia é um estado de desorganização social em que as normas perdem sua eficácia, podendo causar desintegração e aumento de comportamentos desviantes."
+    },
+    {
+        "pergunta": "O que caracteriza os movimentos sociais?",
+        "opcoes": {
+            "a": "Ações isoladas de indivíduos insatisfeitos",
+            "b": "Reações espontâneas e desorganizadas a eventos políticos",
+            "c": "Ações coletivas organizadas que buscam transformação social",
+            "d": "Campanhas publicitárias promovidas por governos"
+        },
+        "resposta": "c",
+        "explicacao": "Movimentos sociais são ações coletivas com organização, identidade e objetivos comuns, geralmente voltadas à transformação ou resistência frente a questões sociais e políticas."
+    },
+    {
+        "pergunta": "Qual é o principal foco da Teoria Crítica da Escola de Frankfurt?",
+        "opcoes": {
+            "a": "Defender a cultura de massa como forma de libertação",
+            "b": "Analisar a sociedade capitalista de forma crítica, abordando cultura, ideologia e dominação",
+            "c": "Promover o positivismo científico",
+            "d": "Reforçar valores tradicionais da sociedade europeia"
+        },
+        "resposta": "b",
+        "explicacao": "A Teoria Crítica da Escola de Frankfurt critica as estruturas de dominação na sociedade capitalista, incluindo a cultura de massa e o papel das ideologias na manutenção do status quo."
+    },
+    {
+        "pergunta": "O termo 'alienação', segundo Marx, está relacionado a:",
+        "opcoes": {
+            "a": "A religiosidade do operário",
+            "b": "A liberdade conquistada pelo trabalho",
+            "c": "A perda do controle do trabalhador sobre seu próprio trabalho",
+            "d": "A dominação política dos burgueses sobre os reis"
+        },
+        "resposta": "c",
+        "explicacao": "Para Marx, a alienação ocorre quando o trabalhador perde a conexão com o produto do seu trabalho, com o próprio ato de produzir e com sua essência humana, tornando-se uma peça do sistema capitalista."
+    },
+    {
+        "pergunta": "A 'indústria cultural', segundo Adorno e Horkheimer, é um conceito que:",
+        "opcoes": {
+            "a": "Valoriza a produção cultural espontânea",
+            "b": "Critica a padronização e o consumo passivo da cultura no capitalismo",
+            "c": "Propõe o ensino da arte nas escolas",
+            "d": "Defende a arte como forma de propaganda estatal"
+        },
+        "resposta": "b",
+        "explicacao": "A indústria cultural refere-se à produção em massa de bens culturais sob a lógica capitalista, o que gera cultura padronizada e voltada ao consumo, promovendo alienação."
+    },
+    {
+        "pergunta": "O conceito de 'ação social', para Max Weber, diz respeito a:",
+        "opcoes": {
+            "a": "Toda ação humana instintiva",
+            "b": "Ações motivadas exclusivamente por interesses econômicos",
+            "c": "Ações dotadas de sentido e orientadas ao outro",
+            "d": "Ações políticas feitas por governantes"
+        },
+        "resposta": "c",
+        "explicacao": "Weber define ação social como toda conduta humana que leva em conta o comportamento de outros indivíduos, sendo dotada de sentido para quem a pratica."
+    },
+    {
+        "pergunta": "A estrutura de classes, segundo Karl Marx, baseia-se principalmente em:",
+        "opcoes": {
+            "a": "Relações de consumo",
+            "b": "Diferenças religiosas",
+            "c": "Relações de produção e propriedade dos meios de produção",
+            "d": "Grau de instrução escolar"
+        },
+        "resposta": "c",
+        "explicacao": "Para Marx, as classes sociais se formam a partir da relação com os meios de produção: a burguesia detém os meios e o proletariado vende sua força de trabalho."
+    },
+    {
+        "pergunta": "O que significa 'etnocentrismo' na Sociologia?",
+        "opcoes": {
+            "a": "A valorização de todas as culturas igualmente",
+            "b": "A crença de que sua cultura é superior às demais",
+            "c": "A defesa do multiculturalismo",
+            "d": "A convivência harmônica entre diferentes povos"
+        },
+        "resposta": "b",
+        "explicacao": "Etnocentrismo é a tendência de julgar outras culturas com base nos valores da própria cultura, considerando a própria como superior."
+    },
+    {
+        "pergunta": "A mobilidade social refere-se à:",
+        "opcoes": {
+            "a": "Capacidade de uma sociedade se manter estática",
+            "b": "Transição de indivíduos entre diferentes posições sociais",
+            "c": "Redução do número de classes sociais",
+            "d": "Eliminação das desigualdades culturais"
+        },
+        "resposta": "b",
+        "explicacao": "Mobilidade social é o deslocamento de indivíduos ou grupos entre diferentes posições na hierarquia social, podendo ser ascendente ou descendente."
+    },
+    {
+        "pergunta": "O termo 'anomia', segundo Émile Durkheim, está associado à:",
+        "opcoes": {
+            "a": "Falta de empatia nas relações sociais",
+            "b": "Ausência de regras e desorganização social",
+            "c": "Dominação política de minorias",
+            "d": "Formação de grupos étnicos em sociedades homogêneas"
+        },
+        "resposta": "b",
+        "explicacao": "Anomia, para Durkheim, é a situação em que normas sociais perdem sua eficácia, levando à desordem, insegurança e aumento do suicídio."
+    },
+    {
+        "pergunta": "A Sociologia surgiu no contexto de qual revolução?",
+        "opcoes": {
+            "a": "Revolução Russa",
+            "b": "Revolução Francesa e Revolução Industrial",
+            "c": "Revolução Americana",
+            "d": "Revolução Cultural Chinesa"
+        },
+        "resposta": "b",
+        "explicacao": "A Sociologia nasceu no século XIX como resposta às transformações sociais geradas pela Revolução Francesa e pela Revolução Industrial."
+    },
+    {
+        "pergunta": "O termo 'hegemonia cultural', segundo Antonio Gramsci, indica:",
+        "opcoes": {
+            "a": "A imposição militar de valores culturais",
+            "b": "O controle cultural exercido por grupos dominantes para manter o poder",
+            "c": "A supremacia de culturas indígenas na mídia",
+            "d": "A superioridade cultural do Oriente sobre o Ocidente"
+        },
+        "resposta": "b",
+        "explicacao": "Hegemonia cultural, para Gramsci, é o domínio ideológico que a classe dominante exerce sobre os demais, fazendo com que suas ideias sejam vistas como universais."
+    },
+    {
+        "pergunta": "Segundo Max Weber, a ação social é aquela que:",
+        "opcoes": {
+            "a": "É determinada por leis naturais",
+            "b": "É orientada pelo comportamento de outras pessoas",
+            "c": "É baseada unicamente em instintos",
+            "d": "Depende apenas da economia"
+        },
+        "resposta": "b",
+        "explicacao": "Para Weber, a ação social é aquela em que o indivíduo leva em conta o comportamento dos outros, atribuindo-lhe sentido subjetivo."
+    },
+    {
+        "pergunta": "Qual é o papel da ideologia segundo Karl Marx?",
+        "opcoes": {
+            "a": "Unir todas as classes sociais",
+            "b": "Proporcionar igualdade entre os povos",
+            "c": "Manter a dominação da classe dominante",
+            "d": "Eliminar os conflitos de classe"
+        },
+        "resposta": "c",
+        "explicacao": "Para Marx, a ideologia é um conjunto de ideias que serve para justificar e manter o poder da classe dominante sobre as demais."
+    },
+    {
+        "pergunta": "O que caracteriza uma sociedade tradicional?",
+        "opcoes": {
+            "a": "Forte presença de tecnologia",
+            "b": "Predominância de normas racionais",
+            "c": "Organização baseada em laços familiares e costumes",
+            "d": "Mobilidade social elevada"
+        },
+        "resposta": "c",
+        "explicacao": "Sociedades tradicionais são estruturadas com base em vínculos familiares, costumes e tradições, com pouca mobilidade social."
+    },
+    {
+        "pergunta": "A teoria do funcionalismo entende a sociedade como:",
+        "opcoes": {
+            "a": "Um conjunto de partes em conflito",
+            "b": "Uma rede de interesses contraditórios",
+            "c": "Um organismo no qual cada parte cumpre uma função",
+            "d": "Um campo de luta de classes"
+        },
+        "resposta": "c",
+        "explicacao": "O funcionalismo compara a sociedade a um organismo vivo, onde cada instituição exerce uma função necessária ao funcionamento do todo."
+    },
+    {
+        "pergunta": "Qual sociólogo é conhecido por seus estudos sobre o suicídio?",
+        "opcoes": {
+            "a": "Karl Marx",
+            "b": "Émile Durkheim",
+            "c": "Max Weber",
+            "d": "Pierre Bourdieu"
+        },
+        "resposta": "b",
+        "explicacao": "Émile Durkheim estudou o suicídio como um fenômeno social, categorizando-o em tipos como egoísta, altruísta, anômico e fatalista."
+    },
+    {
+        "pergunta": "O termo 'anomia', em sociologia, refere-se à:",
+        "opcoes": {
+            "a": "Ausência de conflito",
+            "b": "Excesso de normas sociais",
+            "c": "Falta de normas ou quebra das regras sociais",
+            "d": "Integração social plena"
+        },
+        "resposta": "c",
+        "explicacao": "Anomia é um conceito de Durkheim que descreve a ausência ou falha das normas sociais, levando ao enfraquecimento dos laços sociais."
+    },
+    {
+        "pergunta": "A mobilidade social vertical ocorre quando:",
+        "opcoes": {
+            "a": "Há mudança de local de moradia",
+            "b": "O indivíduo muda de classe social",
+            "c": "A pessoa troca de profissão mantendo a mesma renda",
+            "d": "Alguém muda de religião"
+        },
+        "resposta": "b",
+        "explicacao": "Mobilidade social vertical é quando há ascensão ou queda na estrutura social, ou seja, mudança de classe."
+    },
+    {
+        "pergunta": "O que é etnocentrismo?",
+        "opcoes": {
+            "a": "Respeito às culturas diferentes",
+            "b": "Avaliação de outra cultura com base na própria",
+            "c": "Mistura de culturas distintas",
+            "d": "Isolamento cultural"
+        },
+        "resposta": "b",
+        "explicacao": "Etnocentrismo é quando se julga outras culturas usando os próprios valores como padrão, muitas vezes gerando preconceitos."
+    },
+    {
+        "pergunta": "A socialização primária ocorre:",
+        "opcoes": {
+            "a": "Na fase adulta, com os colegas de trabalho",
+            "b": "Durante a velhice",
+            "c": "Na infância, com a família e cuidadores",
+            "d": "Apenas na escola"
+        },
+        "resposta": "c",
+        "explicacao": "Socialização primária é a primeira etapa da formação social de um indivíduo, geralmente com a família, na infância."
+    },
+    {
+        "pergunta": "A estratificação social é o processo pelo qual:",
+        "opcoes": {
+            "a": "Todos têm acesso igual aos bens sociais",
+            "b": "A cultura é compartilhada igualmente",
+            "c": "A sociedade organiza grupos em diferentes posições hierárquicas",
+            "d": "Se formam redes de amizade"
+        },
+        "resposta": "c",
+        "explicacao": "A estratificação social é a divisão da sociedade em camadas ou grupos hierarquizados com diferentes níveis de acesso a recursos."
+    },
+    {
+        "pergunta": "Qual é a principal característica de uma sociedade capitalista?",
+        "opcoes": {
+            "a": "Coletivização dos meios de produção",
+            "b": "Ausência de classes sociais",
+            "c": "Propriedade privada e lucro como motor da economia",
+            "d": "Economia centralizada pelo Estado"
+        },
+        "resposta": "c",
+        "explicacao": "No capitalismo, os meios de produção são privados, e o lucro é o principal objetivo econômico."
+    },
+    {
+        "pergunta": "O conceito de 'habitus', de Pierre Bourdieu, está relacionado a:",
+        "opcoes": {
+            "a": "Instintos biológicos",
+            "b": "Conjunto de disposições sociais adquiridas",
+            "c": "Leis do mercado",
+            "d": "Movimentos revolucionários"
+        },
+        "resposta": "b",
+        "explicacao": "Habitus é o conjunto de esquemas mentais e comportamentais incorporados pelos indivíduos com base em sua vivência social."
+    },
+    {
+        "pergunta": "A desigualdade social no Brasil é marcada principalmente por:",
+        "opcoes": {
+            "a": "Homogeneidade regional",
+            "b": "Igualdade de oportunidades",
+            "c": "Concentração de renda e exclusão de grupos minoritários",
+            "d": "Distribuição equitativa de terras"
+        },
+        "resposta": "c",
+        "explicacao": "A desigualdade no Brasil tem raízes históricas e se manifesta na concentração de riqueza e exclusão de populações vulneráveis."
+    },
+    {
+        "pergunta": "O movimento feminista luta principalmente por:",
+        "opcoes": {
+            "a": "Privatização das escolas",
+            "b": "Supremacia das mulheres sobre os homens",
+            "c": "Igualdade de direitos entre os gêneros",
+            "d": "Manutenção dos papéis tradicionais"
+        },
+        "resposta": "c",
+        "explicacao": "O feminismo busca a igualdade de direitos, oportunidades e tratamento entre homens e mulheres em todas as esferas sociais."
+    },
+    {
+        "pergunta": "O termo 'alienação' para Karl Marx significa:",
+        "opcoes": {
+            "a": "Participação ativa do trabalhador nas decisões",
+            "b": "Integração total à vida social",
+            "c": "Separação entre o trabalhador e o produto de seu trabalho",
+            "d": "Revolução proletária"
+        },
+        "resposta": "c",
+        "explicacao": "Para Marx, o trabalhador é alienado quando perde o controle sobre o processo de produção e não reconhece o produto como seu."
+    }
+]
