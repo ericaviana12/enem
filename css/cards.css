@@ -1,0 +1,152 @@
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        max-width: 700px;
+        margin: 40px auto;
+        padding: 20px 30px;
+        background: #f9fafc;
+        color: #333;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+        border-radius: 12px;
+    }
+
+    #nav-buttons {
+        display: flex;
+        gap: 10px;
+        margin-bottom: 20px;
+    }
+
+    #btnBack {
+        padding: 8px 16px;
+        border: none;
+        background: #3498db;
+        color: #fff;
+        border-radius: 8px;
+        cursor: pointer;
+        font-weight: 600;
+    }
+
+    #btnBack:hover,
+    #btnHome:hover {
+        background-color: #2980b9;
+    }
+
+    #btnHome {
+        padding: 8px 16px;
+        border: none;
+        background: #3498db;
+        color: #fff;
+        border-radius: 8px;
+        cursor: pointer;
+        font-weight: 600;
+    }
+
+    h1 {
+        text-align: center;
+        color: #2c3e50;
+        margin-bottom: 25px;
+        font-weight: 700;
+        letter-spacing: 1.2px;
+    }
+
+    #pergunta {
+        font-size: 1.4rem;
+        font-weight: 600;
+        margin-bottom: 20px;
+        color: #34495e;
+        min-height: 80px;
+    }
+
+    #opcoes {
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+    }
+
+    .option {
+        padding: 15px 20px;
+        border: 2px solid #3498db;
+        border-radius: 10px;
+        background-color: #fff;
+        cursor: pointer;
+        transition: background-color 0.3s, border-color 0.3s;
+        user-select: none;
+        font-size: 1.1rem;
+        box-shadow: 0 2px 5px rgb(52 152 219 / 0.2);
+    }
+
+    .option:hover {
+        background-color: #ecf6fd;
+        border-color: #2980b9;
+        transform: scale(1.02);
+    }
+
+    .option.selected {
+        background-color: #d6eaf8;
+        border-color: #2980b9;
+        font-weight: 700;
+    }
+
+    .option.correct {
+        background-color: #d4edda;
+        border-color: #28a745;
+        color: #155724;
+        font-weight: 700;
+        box-shadow: 0 0 8px #28a745aa;
+    }
+
+    .option.incorrect {
+        background-color: #f8d7da;
+        border-color: #dc3545;
+        color: #721c24;
+        font-weight: 700;
+        box-shadow: 0 0 8px #dc3545aa;
+    }
+
+    #feedback {
+        margin-top: 25px;
+        font-size: 1.3rem;
+        font-weight: 700;
+        text-align: center;
+        min-height: 40px;
+        color: #222;
+    }
+
+    #feedback.acertou {
+        color: #28a745;
+    }
+
+    #feedback.errou {
+        color: #dc3545;
+    }
+
+    #explicacao {
+        margin-top: 15px;
+        font-size: 1rem;
+        font-style: italic;
+        color: #555;
+        border-left: 4px solid #3498db;
+        padding-left: 15px;
+        background-color: #f0f6fb;
+        border-radius: 6px;
+        min-height: 50px;
+    }
+
+    #nextBtn {
+        margin-top: 30px;
+        padding: 12px 35px;
+        font-size: 1.1rem;
+        font-weight: 700;
+        color: white;
+        background-color: #3498db;
+        border: none;
+        border-radius: 30px;
+        cursor: pointer;
+        box-shadow: 0 5px 12px rgba(52, 152, 219, 0.5);
+        transition: background-color 0.3s ease;
+        display: none;
+        user-select: none;
+    }
+
+    #nextBtn:hover {
+        background-color: #2980b9;
+    }

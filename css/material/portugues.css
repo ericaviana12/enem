@@ -1,0 +1,147 @@
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px 30px;
+    background: #f9fafc;
+    color: #333;
+    line-height: 1.6;
+  }
+
+  h1,
+  h2,
+  h3 {
+    color: #2c3e50;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 700;
+  }
+
+  h2 {
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 6px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+
+  h3 {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+
+  ul {
+    margin-left: 20px;
+    margin-bottom: 15px;
+  }
+
+  li {
+    margin-bottom: 6px;
+  }
+
+  p {
+    margin-bottom: 15px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 15px 0 25px 0;
+  }
+
+  table,
+  th,
+  td {
+    border: 1px solid #ddd;
+  }
+
+  th,
+  td {
+    padding: 8px 12px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #3498db;
+    color: white;
+  }
+
+  code {
+    background-color: #eee;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: monospace;
+  }
+
+  .example {
+    background: #e8f0fe;
+    border-left: 4px solid #3498db;
+    padding: 12px 18px;
+    margin: 15px 0;
+    font-style: italic;
+    color: #2c3e50;
+  }
+
+  .alert {
+    background: #fff3cd;
+    border-left: 5px solid #ffeeba;
+    padding: 15px 20px;
+    margin: 25px 0;
+    font-weight: 600;
+  }
+
+  .checklist {
+    background: #dff0d8;
+    border-left: 6px solid #3c763d;
+    padding: 20px 25px;
+    margin-top: 40px;
+  }
+
+  .checklist h2 {
+    color: #3c763d;
+    margin-top: 0;
+  }
+
+  a {
+    color: #2980b9;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .highlight {
+    font-weight: 700;
+    color: #2980b9;
+  }
+
+  .btn-container {
+    text-align: center;
+    margin: 40px 0 60px 0;
+  }
+
+  .btn-go {
+    display: inline-block;
+    background-color: #3498db;
+    /* azul principal do seu tema */
+    color: white;
+    padding: 12px 28px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    border-radius: 6px;
+    text-decoration: none;
+    box-shadow: 0 3px 8px rgba(52, 152, 219, 0.4);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .btn-go:hover,
+  .btn-go:focus {
+    background-color: #2980b9;
+    /* azul mais escuro */
+    box-shadow: 0 5px 14px rgba(41, 128, 185, 0.6);
+    outline: none;
+  }
