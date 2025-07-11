@@ -10,6 +10,11 @@
 
 <body>
 
+  <div id="nav-buttons">
+    <button id="btnBack">← Voltar</button>
+    <button id="btnHome">🏠 Início</button>
+  </div>
+
   <h1>Material Português</h1>
 
   <!-- Índice -->
@@ -25,6 +30,7 @@
       <li><a href="#literatura">Literatura e Movimentos Literários</a></li>
       <li><a href="#producao-textual-e-redacao">Produção Textual e Redação ENEM</a></li>
       <li><a href="#dicas-de-estudo">Dicas de Estudo e Estratégias para a Prova</a></li>
+      <li><a href="#materiais-externos">Materiais de Estudo Complementares</a></li>
     </ol>
   </nav>
 
@@ -318,24 +324,74 @@
   <div class="checklist">
     <h2>Checklist de Revisão Rápida Antes da Prova</h2>
     <ul>
-      <li>✔️ Entendo a diferença entre tipos e funções de texto.</li>
-      <li>✔️ Sei identificar sujeito, predicado e complementos na oração.</li>
-      <li>✔️ Estou seguro(a) no uso da crase com exemplos práticos.</li>
-      <li>✔️ Reconheço as principais figuras de linguagem e seu efeito.</li>
-      <li>✔️ Consigo analisar a intenção e contexto do texto em provas.</li>
-      <li>✔️ Pratico a estrutura do texto dissertativo-argumentativo para a redação.</li>
-      <li>✔️ Reviso concordância, regência e pontuação dentro de textos.</li>
-      <li>✔️ Conheço os movimentos literários mais cobrados e seus autores.</li>
-      <li>✔️ Faço leitura ativa e uso conectores para melhor coesão e coerência.</li>
-      <li>✔️ Resolvo exercícios e provas antigas para fixar o conteúdo.</li>
+      <li>Entendo a diferença entre tipos e funções de texto.</li>
+      <li>Sei identificar sujeito, predicado e complementos na oração.</li>
+      <li>Estou seguro(a) no uso da crase com exemplos práticos.</li>
+      <li>Reconheço as principais figuras de linguagem e seu efeito.</li>
+      <li>Consigo analisar a intenção e contexto do texto em provas.</li>
+      <li>Pratico a estrutura do texto dissertativo-argumentativo para a redação.</li>
+      <li>Reviso concordância, regência e pontuação dentro de textos.</li>
+      <li>Conheço os movimentos literários mais cobrados e seus autores.</li>
+      <li>Faço leitura ativa e uso conectores para melhor coesão e coerência.</li>
+      <li>Resolvo exercícios e provas antigas para fixar o conteúdo.</li>
     </ul>
   </div>
 
+  <section id="materiais-externos">
+    <h2>10. Materiais de estudo complementares</h2>
+    <p>Explore conteúdos extras de gramática, interpretação e redação nos melhores sites educacionais:</p>
+    <ul>
+      <li>
+        📚 <a href="https://www.todamateria.com.br/lingua-portuguesa/" target="_blank" rel="noopener noreferrer">
+          Toda Matéria – Conteúdos de português
+        </a>
+      </li>
+      <li>
+        ✍️ <a href="https://brasilescola.uol.com.br/portugues/" target="_blank" rel="noopener noreferrer">
+          Brasil Escola – Gramática, figuras de linguagem, redação e simulados
+        </a>
+      </li>
+      <li>
+        📝 <a href="https://escolakids.uol.com.br/portugues/" target="_blank" rel="noopener noreferrer">
+          Escola Kids – Explicações simples
+        </a>
+      </li>
+      <li>
+        🧾 <a href="https://redacaonline.com.br/blog/" target="_blank" rel="noopener noreferrer">
+          Redação Online – Dicas de redação, temas comentados e modelos nota 1000
+        </a>
+      </li>
+      <li>
+        🧠 <a href="https://descomplica.com.br/blog/mapas-mentais/portugues/" target="_blank" rel="noopener noreferrer">
+          Descomplica – Mapas mentais sobre português
+        </a>
+      </li>
+      <li>
+        ✅ <a href="https://dex.descomplica.com.br/enem/lingua-portuguesa" target="_blank" rel="noopener noreferrer">
+          Descomplica – Exercícios sobre português (ENEM)
+        </a>
+      </li>
+    </ul>
+    <div class="example">
+      Use esses links como complemento ao seu resumo. Faça questões, leia temas de redação anteriores e pratique textos
+      com base nos temas atuais.
+    </div>
+  </section>
+
   <div class="btn-container">
-    <a href="questoesPortugues.html" class="btn-go">Ver Questões de Português</a>
-    <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="btn-go btn-secondary">Voltar ao
-      topo</button>
+    <a href="/html/material/questoes/questoesPortugues.html" class="btn-go">Ver questões (versão escrita)</a>
+    <a href="/html/cards/portugues.html" class="btn-go">Ver questões (versão cards)</a>
   </div>
+
+  <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="scroll-top-btn hidden" title="Voltar ao topo"
+    aria-label="Voltar ao topo">
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="white" viewBox="0 0 16 16">
+      <path fill-rule="evenodd"
+        d="M8 12a.5.5 0 0 0 .5-.5V4.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L7.5 4.707V11.5A.5.5 0 0 0 8 12z" />
+    </svg>
+  </button>
+
+  <script src="/js/html.js"></script>
 
 </body>
 

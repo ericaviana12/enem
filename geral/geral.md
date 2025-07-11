@@ -1,7 +1,8 @@
 As matérias são:
 
-Português
-Matemática
+OK - Português
+OK - Matemática
+
 História
 Geografia
 Biologia

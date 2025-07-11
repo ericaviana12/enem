@@ -5,10 +5,16 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Questões de Português</title>
-  <link rel="stylesheet" href="../../css/material/questoes.css">
+  <link rel="stylesheet" href="../../../css/material/questoes.css">
 </head>
 
 <body>
+
+  <div id="nav-buttons">
+    <button id="btnBack">← Voltar para materiais de estudo</button>
+    <button id="btnHome">🏠 Início</button>
+  </div>
+
   <h1>Questões de Português para Estudo</h1>
 
   <div class="questao">
@@ -675,6 +681,17 @@
     <div class="resposta">Resposta: a) Subir para cima</div>
     <div class="explicacao">“Subir” já implica movimento para cima, então “para cima” é redundância desnecessária.</div>
   </div>
+
+  <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="scroll-top-btn hidden" title="Voltar ao topo"
+    aria-label="Voltar ao topo">
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="white" viewBox="0 0 16 16">
+      <path fill-rule="evenodd"
+        d="M8 12a.5.5 0 0 0 .5-.5V4.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L7.5 4.707V11.5A.5.5 0 0 0 8 12z" />
+    </svg>
+  </button>
+
+  <script src="/js/htmlQuestoes.js"></script>
+
 </body>
 
 </html>
