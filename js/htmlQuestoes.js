@@ -1,9 +1,9 @@
 document.getElementById('btnBack').addEventListener('click', () => {
-    window.location.href = '../../../../estudo.html'
+    window.location.href = '../../../estudo.html'
 })
 
 document.getElementById('btnHome').addEventListener('click', () => {
-    window.location.href = '../../../../index.html'
+    window.location.href = '../../../index.html'
 })
 
 const scrollBtn = document.querySelector('.scroll-top-btn')
