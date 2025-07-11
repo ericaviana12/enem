@@ -196,6 +196,18 @@ a:hover {
     outline: none;
 }
 
+@media (max-width: 600px) {
+    .btn-go {
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .btn-container {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
 .scroll-top-btn {
     position: fixed;
     bottom: 25px;
@@ -227,6 +239,19 @@ a:hover {
 .scroll-top-btn.hidden {
     opacity: 0;
     pointer-events: none;
+}
+
+@media (max-width: 600px) {
+    .scroll-top-btn {
+        bottom: 15px;
+        right: 15px;
+        padding: 10px;
+    }
+
+    .scroll-top-btn svg {
+        width: 20px;
+        height: 20px;
+    }
 }
 
 #materiais-externos ul {

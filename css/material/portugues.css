@@ -8,36 +8,36 @@
     line-height: 1.6;
   }
 
-      #nav-buttons {
-        display: flex;
-        gap: 10px;
-        margin-bottom: 20px;
-    }
+  #nav-buttons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
 
-    #btnBack {
-        padding: 8px 16px;
-        border: none;
-        background: #3498db;
-        color: #fff;
-        border-radius: 8px;
-        cursor: pointer;
-        font-weight: 600;
-    }
+  #btnBack {
+    padding: 8px 16px;
+    border: none;
+    background: #3498db;
+    color: #fff;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+  }
 
-    #btnBack:hover,
-    #btnHome:hover {
-        background-color: #2980b9;
-    }
+  #btnBack:hover,
+  #btnHome:hover {
+    background-color: #2980b9;
+  }
 
-    #btnHome {
-        padding: 8px 16px;
-        border: none;
-        background: #3498db;
-        color: #fff;
-        border-radius: 8px;
-        cursor: pointer;
-        font-weight: 600;
-    }
+  #btnHome {
+    padding: 8px 16px;
+    border: none;
+    background: #3498db;
+    color: #fff;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+  }
 
   h1,
   h2,
@@ -198,6 +198,18 @@
     outline: none;
   }
 
+  @media (max-width: 600px) {
+    .btn-go {
+      width: 100%;
+      font-size: 18px;
+    }
+
+    .btn-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+
   .scroll-top-btn {
     position: fixed;
     bottom: 25px;
@@ -229,6 +241,19 @@
   .scroll-top-btn.hidden {
     opacity: 0;
     pointer-events: none;
+  }
+
+  @media (max-width: 600px) {
+    .scroll-top-btn {
+      bottom: 15px;
+      right: 15px;
+      padding: 10px;
+    }
+
+    .scroll-top-btn svg {
+      width: 20px;
+      height: 20px;
+    }
   }
 
   #materiais-externos ul {
