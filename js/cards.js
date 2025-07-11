@@ -1,9 +1,9 @@
 document.getElementById('btnBack').addEventListener('click', () => {
-  window.location.href = '/cards.html'
+  window.location.href = '../../cards.html'
 })
 
 document.getElementById('btnHome').addEventListener('click', () => {
-  window.location.href = '/index.html'
+  window.location.href = '../../index.html'
 })
 
 let perguntas = []
