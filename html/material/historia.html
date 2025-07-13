@@ -9,6 +9,7 @@
 </head>
 
 <body>
+
   <div id="nav-buttons">
     <button id="btnBack">← Voltar</button>
     <button id="btnHome">🏠 Início</button>
@@ -345,21 +346,8 @@
     </svg>
   </button>
 
-  <script>
-    // Botões voltar e home
-    document.getElementById('btnBack').addEventListener('click', () => window.history.back())
-    document.getElementById('btnHome').addEventListener('click', () => window.location.href = '../../index.html')
+  <script src="../../js/html.js"></script>
 
-    // Mostrar botão scroll ao topo quando descer a página
-    const scrollBtn = document.querySelector('.scroll-top-btn')
-    window.addEventListener('scroll', () => {
-      if (window.scrollY > 300) {
-        scrollBtn.classList.remove('hidden')
-      } else {
-        scrollBtn.classList.add('hidden')
-      }
-    })
-  </script>
 </body>
 
 </html>
