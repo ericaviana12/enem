@@ -1,74 +1,630 @@
-<!-- Física - Material de Estudo -->
+<!DOCTYPE html>
+<html lang="pt-BR">
 
-<h2>Física</h2>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Material de Física</title>
+  <link rel="stylesheet" href="../../css/material.css">
+</head>
 
-<h3>1. Cinemática</h3>
-<p>Estuda o movimento dos corpos sem se preocupar com suas causas:</p>
-<ul>
-  <li>Grandezas: espaço, tempo, velocidade e aceleração.</li>
-  <li>Movimento Uniforme (MU) e Movimento Uniformemente Variado (MUV).</li>
-  <li>Gráficos de posição, velocidade e aceleração.</li>
-</ul>
+<body>
+  <div id="nav-buttons">
+    <button id="btnBack">← Voltar</button>
+    <button id="btnHome">🏠 Início</button>
+  </div>
 
-<h3>2. Dinâmica</h3>
-<p>Analisa as causas dos movimentos e as forças envolvidas:</p>
-<ul>
-  <li>Leis de Newton.</li>
-  <li>Força peso, força normal, tração, atrito.</li>
-  <li>Sistemas de blocos e plano inclinado.</li>
-</ul>
+  <h1>Material Física</h1>
 
-<h3>3. Leis de Conservação</h3>
-<p>Relacionadas à energia, quantidade de movimento e momento angular:</p>
-<ul>
-  <li>Energia cinética, potencial e mecânica.</li>
-  <li>Trabalho e potência.</li>
-  <li>Princípio da conservação da energia e impulso.</li>
-</ul>
+  <nav>
+    <h2>Sumário</h2>
+    <ol>
+      <li><a href="#cinematica">Cinemática</a></li>
+      <li><a href="#dinamica">Dinâmica</a></li>
+      <li><a href="#leis-newton">Leis de Newton</a></li>
+      <li><a href="#trabalho-energia">Trabalho e Energia</a></li>
+      <li><a href="#hidrostatica">Hidrostática</a></li>
+      <li><a href="#termologia">Termologia</a></li>
+      <li><a href="#optica">Óptica</a></li>
+      <li><a href="#ondas">Ondulatória</a></li>
+      <li><a href="#eletricidade">Eletricidade</a></li>
+      <li><a href="#magnetismo">Magnetismo</a></li>
+      <li><a href="#eletromagnetismo">Eletromagnetismo</a></li>
+      <li><a href="#fisica-modernas">Físicas Modernas</a></li>
+      <li><a href="#conversao-unidades">Conversão de Unidades</a></li>
+      <li><a href="#graficos">Gráficos em Física</a></li>
+      <li><a href="#matematica-fisica">Matemática Aplicada à Física</a></li>
+      <li><a href="#constantes">Constantes Físicas</a></li>
+      <li><a href="#interpretacao">Interpretação e Contexto</a></li>
+      <li><a href="#dicas-estudo">Dicas de Estudo e Estratégias para a Prova</a></li>
+      <li><a href="#materiais-externos">Materiais de Estudo Complementares</a></li>
+    </ol>
+  </nav>
 
-<h3>4. Hidrostática</h3>
-<p>Estuda os líquidos em equilíbrio:</p>
-<ul>
-  <li>Pressão e densidade.</li>
-  <li>Princípios de Pascal, Arquimedes e Stevin.</li>
-  <li>Empuxo e flutuação.</li>
-</ul>
+  <hr />
 
-<h3>5. Termologia</h3>
-<p>Estuda o calor, a temperatura e suas transformações:</p>
-<ul>
-  <li>Calor específico, capacidade térmica e calor sensível/latente.</li>
-  <li>Leis da termodinâmica.</li>
-  <li>Trocas de calor e mudanças de estado físico.</li>
-</ul>
+  <!-- 1. Cinemática -->
+  <section id="cinematica">
+    <h2>1. Cinemática</h2>
+    <p>Estuda o movimento dos corpos sem se preocupar com suas causas.</p>
 
-<h3>6. Óptica</h3>
-<p>Estuda a luz e os fenômenos luminosos:</p>
-<ul>
-  <li>Reflexão e refração da luz.</li>
-  <li>Espelhos planos e esféricos.</li>
-  <li>Lentes convergentes e divergentes.</li>
-</ul>
+    <h3>1.1 Movimento Retilíneo Uniforme (MRU)</h3>
+    <p>
+      Ocorre quando a velocidade é constante e o corpo se desloca em linha reta.
+      <br />
+      Fórmula: <code>S = S₀ + vt</code>
+    </p>
 
-<h3>7. Ondulatória</h3>
-<p>Estudo das ondas e suas propriedades:</p>
-<ul>
-  <li>Classificação das ondas.</li>
-  <li>Frequência, comprimento, velocidade e amplitude.</li>
-  <li>Fenômenos como interferência, difração e ressonância.</li>
-</ul>
+    <h3>1.2 Movimento Uniformemente Variado (MUV)</h3>
+    <p>
+      A velocidade varia de forma constante (aceleração constante).
+      <br />
+      Fórmulas principais:
+    </p>
+    <ul>
+      <li><code>v = v₀ + at</code></li>
+      <li><code>S = S₀ + v₀t + (at²)/2</code></li>
+      <li><code>v² = v₀² + 2aΔS</code></li>
+    </ul>
 
-<h3>8. Eletrostática e Eletrodinâmica</h3>
-<p>Relacionadas à eletricidade e ao magnetismo:</p>
-<ul>
-  <li>Cargas elétricas, campo elétrico e potencial elétrico.</li>
-  <li>Corrente elétrica, resistência, potência e efeito Joule.</li>
-  <li>Leis de Ohm e circuitos elétricos.</li>
-</ul>
+    <h3>1.3 Queda Livre e Lançamento Vertical</h3>
+    <p>
+      São casos especiais do MUV com aceleração da gravidade (<code>g = 9,8 m/s²</code>).
+      <br />
+      Queda livre: parte do repouso e desce.
+      <br />
+      Lançamento vertical: sobe e depois desce.
+    </p>
+  </section>
 
-<h3>Dicas Gerais:</h3>
-<ul>
-  <li>Desenhe esquemas e resolva exercícios com gráficos.</li>
-  <li>Utilize fórmulas com unidades padronizadas.</li>
-  <li>Associe os conceitos físicos com situações reais e experimentos simples.</li>
-</ul>
+  <!-- 2. Dinâmica -->
+  <section id="dinamica">
+    <h2>2. Dinâmica</h2>
+    <p>
+      Estuda as causas do movimento. É baseada nas interações (forças) que os corpos sofrem.
+    </p>
+
+    <h3>2.1 Massa e Força</h3>
+    <p>
+      <strong>Massa (m):</strong> medida da inércia de um corpo, em kg.
+      <br />
+      <strong>Força (F):</strong> interação que pode alterar o movimento de um corpo.
+      <br />
+      Unidade de força: Newton (<code>N = kg·m/s²</code>)
+    </p>
+
+    <h3>2.2 Peso</h3>
+    <p>
+      É a força gravitacional sobre um corpo.
+      <br />
+      Fórmula: <code>P = mg</code>, onde <code>g ≈ 9,8 m/s²</code>
+    </p>
+
+    <h3>2.3 Força Normal, Tração e Atrito</h3>
+    <ul>
+      <li><strong>Força normal:</strong> força de apoio perpendicular à superfície</li>
+      <li><strong>Tração:</strong> força transmitida por cordas ou cabos</li>
+      <li><strong>Atrito:</strong> força que resiste ao movimento entre superfícies</li>
+    </ul>
+  </section>
+
+  <!-- 3. Leis de Newton -->
+  <section id="leis-newton">
+    <h2>3. Leis de Newton</h2>
+
+    <h3>1ª Lei (Inércia)</h3>
+    <p>Um corpo tende a permanecer em repouso ou em movimento uniforme, a menos que uma força atue sobre ele.</p>
+
+    <h3>2ª Lei (Princípio Fundamental)</h3>
+    <p>
+      A força resultante sobre um corpo é igual ao produto da massa pela aceleração:
+      <br />
+      <code>F = ma</code>
+    </p>
+
+    <h3>3ª Lei (Ação e Reação)</h3>
+    <p>
+      Para toda força de ação, existe uma força de reação de mesma intensidade, mesma direção, mas sentido oposto.
+    </p>
+  </section>
+
+  <!-- 4. Trabalho e Energia -->
+  <section id="trabalho-energia">
+    <h2>4. Trabalho e Energia</h2>
+
+    <h3>4.1 Trabalho</h3>
+    <p>
+      Trabalho é a transferência de energia por uma força.
+      <br />
+      Fórmula: <code>W = F·d·cos(θ)</code>, onde <code>θ</code> é o ângulo entre força e deslocamento.
+    </p>
+
+    <h3>4.2 Energia Cinética</h3>
+    <p>
+      Energia associada ao movimento.
+      <br />
+      <code>Ec = (1/2)·m·v²</code>
+    </p>
+
+    <h3>4.3 Energia Potencial</h3>
+    <p>
+      Energia associada à posição.
+      <br />
+      <code>Ep = m·g·h</code>
+    </p>
+
+    <h3>4.4 Princípio da Conservação da Energia</h3>
+    <p>
+      A energia total de um sistema isolado permanece constante.
+      <br />
+      <code>Energia mecânica = Ec + Ep</code>
+    </p>
+
+    <h3>4.5 Potência</h3>
+    <p>
+      Taxa de realização de trabalho.
+      <br />
+      <code>P = W/t</code>
+    </p>
+  </section>
+
+  <!-- 5. Hidrostática -->
+  <section id="hidrostatica">
+    <h2>5. Hidrostática</h2>
+
+    <h3>5.1 Pressão</h3>
+    <p>
+      É a força exercida por unidade de área.
+      <br />
+      Fórmula: <code>P = F / A</code>
+      <br />
+      Unidade: Pascal (Pa = N/m²)
+    </p>
+
+    <h3>5.2 Princípio de Pascal</h3>
+    <p>
+      A pressão aplicada em um ponto de um fluido se transmite integralmente a todos os pontos do fluido.
+    </p>
+
+    <h3>5.3 Princípio de Arquimedes</h3>
+    <p>
+      Todo corpo imerso em um fluido sofre uma força de empuxo para cima igual ao peso do líquido deslocado.
+      <br />
+      Fórmula do empuxo: <code>E = ρ·g·V</code>
+    </p>
+
+    <div class="example">
+      Um objeto flutua quando seu peso é igual ao empuxo.
+    </div>
+  </section>
+
+  <!-- 6. Termologia -->
+  <section id="termologia">
+    <h2>6. Termologia</h2>
+
+    <h3>6.1 Calor e Temperatura</h3>
+    <ul>
+      <li><strong>Temperatura:</strong> medida do grau de agitação das partículas</li>
+      <li><strong>Calor:</strong> energia térmica em trânsito entre corpos</li>
+    </ul>
+
+    <h3>6.2 Dilatação Térmica</h3>
+    <p>
+      Corpos aumentam de tamanho com o aquecimento.
+      <br />
+      Fórmulas: <code>ΔL = L₀·α·ΔT</code> (linear), <code>ΔV = V₀·β·ΔT</code> (volumétrica)
+    </p>
+
+    <h3>6.3 Capacidade Térmica e Calor Específico</h3>
+    <p>
+      <strong>Calor sensível:</strong> <code>Q = m·c·ΔT</code>
+      <br />
+      <strong>Calor latente:</strong> <code>Q = m·L</code>
+    </p>
+
+    <h3>6.4 Trocas de Calor</h3>
+    <p>
+      Em um sistema isolado, o calor cedido é igual ao calor recebido:
+      <br />
+      <code>Q₁ + Q₂ = 0</code>
+    </p>
+
+    <h3>6.5 Mudanças de Estado Físico</h3>
+    <ul>
+      <li>Fusão: sólido → líquido</li>
+      <li>Vaporização: líquido → gasoso</li>
+      <li>Solidificação: líquido → sólido</li>
+      <li>Condensação: gasoso → líquido</li>
+      <li>Sublimação: sólido ↔ gasoso</li>
+    </ul>
+  </section>
+
+  <!-- 7. Óptica -->
+  <section id="optica">
+    <h2>7. Óptica</h2>
+
+    <h3>7.1 Leis da Reflexão</h3>
+    <ul>
+      <li>O raio incidente, o raio refletido e a normal estão no mesmo plano</li>
+      <li>Ângulo de incidência = Ângulo de reflexão (<code>i = r</code>)</li>
+    </ul>
+
+    <h3>7.2 Espelhos Planos</h3>
+    <p>
+      Imagem virtual, direita e do mesmo tamanho.
+      <br />
+      Distância da imagem ao espelho é igual à do objeto.
+    </p>
+
+    <h3>7.3 Refração</h3>
+    <p>
+      Mudança na direção da luz ao passar de um meio para outro.
+      <br />
+      <code>n = c / v</code>, onde <code>n</code> é o índice de refração
+    </p>
+
+    <h3>7.4 Lentes</h3>
+    <p>
+      <strong>Lente convergente:</strong> concentra os raios de luz.
+      <br />
+      <strong>Lente divergente:</strong> espalha os raios.
+    </p>
+
+    <h3>7.5 Equação dos Pontos Conjugados</h3>
+    <p>
+      <code>1/f = 1/p + 1/p'</code>, onde:
+    <ul>
+      <li><code>f</code>: distância focal</li>
+      <li><code>p</code>: posição do objeto</li>
+      <li><code>p'</code>: posição da imagem</li>
+    </ul>
+    </p>
+  </section>
+
+  <!-- 8. Ondulatória -->
+  <section id="ondas">
+    <h2>8. Ondulatória</h2>
+
+    <h3>8.1 Ondas Mecânicas e Eletromagnéticas</h3>
+    <ul>
+      <li><strong>Mecânicas:</strong> precisam de um meio (ex.: som, ondas na água)</li>
+      <li><strong>Eletromagnéticas:</strong> se propagam no vácuo (ex.: luz, micro-ondas)</li>
+    </ul>
+
+    <h3>8.2 Características das Ondas</h3>
+    <ul>
+      <li><strong>Frequência (f):</strong> número de ciclos por segundo (Hz)</li>
+      <li><strong>Período (T):</strong> tempo de um ciclo (<code>T = 1/f</code>)</li>
+      <li><strong>Velocidade:</strong> <code>v = λ·f</code>, onde <code>λ</code> é o comprimento de onda</li>
+    </ul>
+
+    <h3>8.3 Reflexão, Refração, Difração e Interferência</h3>
+    <ul>
+      <li><strong>Reflexão:</strong> onda volta ao meio de origem</li>
+      <li><strong>Refração:</strong> onda muda de meio e direção</li>
+      <li><strong>Difração:</strong> onda contorna obstáculos</li>
+      <li><strong>Interferência:</strong> sobreposição de ondas (construtiva ou destrutiva)</li>
+    </ul>
+
+    <div class="example">
+      Exemplo: quando duas ondas se somam formando uma onda maior, é interferência construtiva.
+    </div>
+  </section>
+
+  <!-- 9. Eletricidade -->
+  <section id="eletricidade">
+    <h2>9. Eletricidade</h2>
+
+    <h3>9.1 Carga Elétrica</h3>
+    <p>
+      A carga elétrica fundamental é o elétron (negativa) ou o próton (positiva).
+      <br />
+      Unidade: Coulomb (C) | Carga elementar: <code>e = 1,6 × 10⁻¹⁹ C</code>
+    </p>
+
+    <h3>9.2 Corrente Elétrica</h3>
+    <p>
+      Fluxo ordenado de cargas elétricas.
+      <br />
+      Fórmula: <code>I = Q / Δt</code> (corrente = carga / tempo)
+      <br />
+      Unidade: Ampère (A)
+    </p>
+
+    <h3>9.3 Tensão Elétrica (ddp)</h3>
+    <p>
+      Diferença de potencial entre dois pontos de um circuito.
+      <br />
+      Unidade: Volt (V)
+    </p>
+
+    <h3>9.4 Resistência e Lei de Ohm</h3>
+    <p>
+      Resistência mede a dificuldade à passagem de corrente.
+      <br />
+      Fórmula: <code>U = R · I</code>
+      <br />
+      Unidade: Ohm (Ω)
+    </p>
+
+    <h3>9.5 Associação de Resistores</h3>
+    <ul>
+      <li><strong>Série:</strong> <code>R_eq = R₁ + R₂ + ...</code></li>
+      <li><strong>Paralelo:</strong> <code>1/R_eq = 1/R₁ + 1/R₂ + ...</code></li>
+    </ul>
+
+    <h3>9.6 Potência Elétrica</h3>
+    <p>
+      <code>P = U · I</code> ou <code>P = R · I²</code>
+      <br />
+      Unidade: Watt (W)
+    </p>
+  </section>
+
+  <!-- 10. Magnetismo -->
+  <section id="magnetismo">
+    <h2>10. Magnetismo</h2>
+
+    <h3>10.1 Campo Magnético</h3>
+    <p>
+      Região ao redor de um ímã ou corrente elétrica onde há influência magnética.
+      <br />
+      Representado por linhas de campo saindo do polo norte e entrando no polo sul.
+    </p>
+
+    <h3>10.2 Ímãs Naturais e Artificiais</h3>
+    <p>
+      Ímãs naturais: magnetita. <br />
+      Ímãs artificiais: produzidos por corrente elétrica ou indução.
+    </p>
+
+    <h3>10.3 Força Magnética sobre Cargas</h3>
+    <p>
+      Uma carga elétrica em movimento em um campo magnético sofre uma força dada por:
+      <br />
+      <code>F = q · v · B · senθ</code>
+      <br />
+      Onde <code>B</code> é o campo magnético (em Tesla, T)
+    </p>
+  </section>
+
+  <!-- 11. Eletromagnetismo -->
+  <section id="eletromagnetismo">
+    <h2>11. Eletromagnetismo</h2>
+
+    <h3>11.1 Eletroímã</h3>
+    <p>
+      Corrente elétrica gera campo magnético ao redor de um fio condutor.
+      <br />
+      Bobinas (solenoides) produzem campo mais intenso.
+    </p>
+
+    <h3>11.2 Lei de Faraday</h3>
+    <p>
+      Uma variação do fluxo magnético em uma espira induz uma corrente elétrica.
+      <br />
+      Fenômeno: <strong>Indução eletromagnética</strong>.
+    </p>
+
+    <h3>11.3 Corrente Alternada</h3>
+    <p>
+      Corrente que muda seu sentido periodicamente.
+      <br />
+      Utilizada na rede elétrica (frequência: 60 Hz no Brasil).
+    </p>
+
+    <h3>11.4 Geradores e Transformadores</h3>
+    <ul>
+      <li><strong>Gerador:</strong> converte energia mecânica em elétrica (ex: usina hidrelétrica)</li>
+      <li><strong>Transformador:</strong> altera a tensão da corrente elétrica (eleva ou reduz)</li>
+    </ul>
+  </section>
+
+  <!-- 12. Físicas Modernas -->
+  <section id="fisica-modernas">
+    <h2>12. Físicas Modernas</h2>
+
+    <h3>12.1 Teoria da Relatividade</h3>
+    <p>
+      Desenvolvida por Einstein:
+      <br />
+      <strong>Relatividade restrita:</strong> tempo e espaço dependem do observador.
+      <br />
+      Fórmula famosa: <code>E = mc²</code>
+    </p>
+
+    <h3>12.2 Física Quântica</h3>
+    <p>
+      Estudo de fenômenos em escala atômica.
+      <br />
+      Energia é quantizada (pacotes de energia chamados fótons).
+    </p>
+
+    <h3>12.3 Efeito Fotoelétrico</h3>
+    <p>
+      Incidência de luz sobre metais libera elétrons.
+      <br />
+      Comprova a natureza corpuscular da luz.
+    </p>
+
+    <h3>12.4 Radioatividade</h3>
+    <p>
+      Núcleos instáveis emitem radiação para se estabilizar.
+      <br />
+      Tipos: <strong>alfa (α)</strong>, <strong>beta (β)</strong> e <strong>gama (γ)</strong>.
+    </p>
+
+    <div class="alert">
+      As físicas modernas explicam fenômenos que não podem ser descritos pelas leis clássicas de Newton.
+    </div>
+  </section>
+
+  <!-- 13. Conversão de Unidades -->
+  <section id="conversao-unidades">
+    <h2>13. Conversão de Unidades</h2>
+
+    <h3>13.1 Sistema Internacional (SI)</h3>
+    <ul>
+      <li><strong>Comprimento:</strong> metro (m)</li>
+      <li><strong>Massa:</strong> quilograma (kg)</li>
+      <li><strong>Tempo:</strong> segundo (s)</li>
+      <li><strong>Temperatura:</strong> kelvin (K)</li>
+      <li><strong>Corrente elétrica:</strong> ampère (A)</li>
+      <li><strong>Quantidade de substância:</strong> mol</li>
+    </ul>
+
+    <h3>13.2 Fatores de Conversão</h3>
+    <p>Multiplicações simples com potências de 10. Exemplos:</p>
+    <ul>
+      <li>1 km = 1000 m</li>
+      <li>1 cm = 0,01 m</li>
+      <li>1 h = 3600 s</li>
+    </ul>
+
+    <h3>13.3 Notação Científica</h3>
+    <p>
+      Usada para representar números muito grandes ou pequenos.
+      <br />
+      Exemplo: <code>3,0 × 10⁸</code> m/s (velocidade da luz)
+    </p>
+  </section>
+
+  <!-- 14. Gráficos em Física -->
+  <section id="graficos">
+    <h2>14. Gráficos em Física</h2>
+
+    <p>Gráficos ajudam a interpretar fenômenos físicos visualmente. Exemplos:</p>
+
+    <ul>
+      <li><strong>Gráfico posição × tempo (S x t):</strong> reta inclinada = velocidade constante</li>
+      <li><strong>Gráfico velocidade × tempo (v x t):</strong> área sob a curva = deslocamento</li>
+      <li><strong>Gráfico aceleração × tempo (a x t):</strong> constante = MRUV (movimento uniformemente variado)</li>
+    </ul>
+
+    <div class="example">
+      Sempre analise o que está no eixo x e no eixo y antes de interpretar!
+    </div>
+  </section>
+
+  <!-- 15. Matemática Aplicada à Física -->
+  <section id="matematica-fisica">
+    <h2>15. Matemática Aplicada à Física</h2>
+
+    <p>Conceitos matemáticos fundamentais para resolver questões de Física:</p>
+
+    <ul>
+      <li><strong>Equações do 1º e 2º grau</strong> para resolver problemas de movimento.</li>
+      <li><strong>Regra de três</strong> para relações proporcionais.</li>
+      <li><strong>Gráficos e funções</strong> para representar grandezas variáveis.</li>
+      <li><strong>Trigonometria:</strong> uso do seno, cosseno e tangente em vetores e planos inclinados.</li>
+      <li><strong>Derivada básica (noções):</strong> interpretação de velocidade como variação da posição e aceleração
+        como variação da velocidade.</li>
+    </ul>
+
+    <p>
+      Ter domínio dessas ferramentas é essencial para uma boa resolução de provas como o ENEM e FUVEST.
+    </p>
+  </section>
+
+  <!-- 16. Constantes Físicas -->
+  <section id="constantes">
+    <h2>16. Constantes Físicas</h2>
+
+    <p>Algumas constantes são fornecidas nas provas. As principais são:</p>
+    <ul>
+      <li><strong>Gravidade:</strong> <code>g = 10 m/s²</code> (ou <code>9,8 m/s²</code>)</li>
+      <li><strong>Velocidade da luz:</strong> <code>c = 3,0 × 10⁸ m/s</code></li>
+      <li><strong>Carga elementar:</strong> <code>e = 1,6 × 10⁻¹⁹ C</code></li>
+      <li><strong>Constante de Coulomb:</strong> <code>k = 9 × 10⁹ N·m²/C²</code></li>
+      <li><strong>Constante dos gases:</strong> <code>R = 8,31 J/mol·K</code></li>
+    </ul>
+
+    <div class="alert">
+      Fique atento: o valor exato pode variar conforme o enunciado da prova!
+    </div>
+  </section>
+
+  <!-- 17. Interpretação e Contexto -->
+  <section id="interpretacao">
+    <h2>17. Interpretação e Contexto</h2>
+
+    <p>As questões de Física no ENEM costumam ser contextualizadas. Para se sair bem:</p>
+    <ul>
+      <li>Leia com atenção o texto introdutório.</li>
+      <li>Identifique grandezas físicas citadas no enunciado.</li>
+      <li>Traduza o problema para linguagem matemática com fórmulas.</li>
+      <li>Considere unidades e valores aproximados.</li>
+    </ul>
+
+    <div class="example">
+      Exemplo: uma questão sobre freios de carro pode exigir análise de energia cinética e trabalho da força de atrito.
+    </div>
+  </section>
+
+  <!-- 18. Dicas de Estudo e Estratégias para a Prova -->
+  <section id="dicas-estudo">
+    <h2>18. Dicas de Estudo e Estratégias para a Prova</h2>
+
+    <p>Estratégias que facilitam a resolução de questões de Física:</p>
+    <ul>
+      <li><strong>1. Leia com calma:</strong> destaque palavras-chave e dados.</li>
+      <li><strong>2. Desenhe esquemas:</strong> representações facilitam o raciocínio.</li>
+      <li><strong>3. Liste os dados:</strong> anote valores conhecidos e a incógnita.</li>
+      <li><strong>4. Use fórmulas adequadas:</strong> escolha a equação correta para o contexto.</li>
+      <li><strong>5. Verifique unidades:</strong> converta antes de calcular.</li>
+      <li><strong>6. Analise a coerência do resultado:</strong> o valor faz sentido?</li>
+    </ul>
+
+    <div class="alert">
+      Treine com questões reais e cronometre seu tempo de resposta.
+    </div>
+  </section>
+
+  <!-- Checklist e Materiais Complementares -->
+  <div class="checklist">
+    <h2>✅ Checklist de Revisão</h2>
+    <ul>
+      <li>Entendeu as equações de movimento?</li>
+      <li>Memorizou as leis de Newton?</li>
+      <li>Compreende energia cinética e potencial?</li>
+      <li>Consegue diferenciar calor e temperatura?</li>
+      <li>Lembra dos princípios da óptica e ondulatória?</li>
+      <li>Praticou questões de eletricidade e circuitos?</li>
+      <li>Revisou física moderna e aplicações tecnológicas?</li>
+    </ul>
+  </div>
+  <section id="materiais-externos">
+    <h2>19. Materiais de Estudo Complementares</h2>
+    <ul>
+      <li>🔭 <a href="https://www.todamateria.com.br/fisica/" target="_blank" rel="noopener noreferrer">Toda Matéria –
+          Física</a></li>
+      <li>📘 <a href="https://brasilescola.uol.com.br/fisica/" target="_blank" rel="noopener noreferrer">Brasil Escola –
+          Física</a></li>
+      <li>📘 <a href="https://escolakids.uol.com.br/fisica/" target="_blank" rel="noopener noreferrer">Escola Kids –
+          Explicações simples</a></li>
+      <li>🧠 <a href="https://descomplica.com.br/blog/mapas-mentais/fisica/" target="_blank"
+          rel="noopener noreferrer">Descomplica – Mapas mentais sobre física</a></li>
+      <li>🧠 <a href="https://dex.descomplica.com.br/enem/fisica" target="_blank"
+          rel="noopener noreferrer">Descomplica – Exercícios sobre física (ENEM)</a></li>
+      <li>🧪 <a href="https://mundoeducacao.uol.com.br/fisica" target="_blank" rel="noopener noreferrer">Mundo Educação
+          – Conteúdos e Exercícios</a></li>
+    </ul>
+  </section>
+
+  <!-- Botões e Scroll -->
+  <div class="btn-container">
+    <a href="../cards/fisica.html" class="btn-go">Ver cards de física</a>
+  </div>
+
+  <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="scroll-top-btn hidden" title="Voltar ao topo"
+    aria-label="Voltar ao topo">
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="white" viewBox="0 0 16 16">
+      <path fill-rule="evenodd"
+        d="M8 12a.5.5 0 0 0 .5-.5V4.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L7.5 4.707V11.5A.5.5 0 0 0 8 12z" />
+    </svg>
+  </button>
+
+  <script src="../../js/html.js"></script>
+</body>
+
+</html>
